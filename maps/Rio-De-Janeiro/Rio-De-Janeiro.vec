@@ -1,0 +1,12 @@
+Size 900x870
+
+PenColor 0404A4
+BrushColor -1
+TextOut Arial, 28, 355, 5, Rio De Janeiro
+TextOut Arial, 10, 355, 35, (Attention! All time intervals in this version equal 2 minutes)
+
+PenColor CF9500
+TextOut Arial, 12, 91, 392, Linha 1
+
+PenColor 008000
+TextOut Arial, 12, 90, 417, Linha 2

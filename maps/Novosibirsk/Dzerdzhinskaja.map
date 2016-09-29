@@ -1,0 +1,14 @@
+[Options]
+StationDiameter=16
+ImageFileName=Dzerdzhinskaja.vec
+LinesWidth=9
+Transports=Metro.trp,Train.trp
+CheckedTransports=Metro.trp
+
+[Ленинская]
+Coordinates=0,0, 0,0, 180,100
+Rects=0,0,0,0, 0,0,0,0, 70,90,94,27
+[Дзержинская]
+Coordinates=200,60, 200,100, 200,140, 200,180, 200,220
+Rects=215,50,186,28, 215,90,76,19, 215,130,99,30, 215,170,100,31
+

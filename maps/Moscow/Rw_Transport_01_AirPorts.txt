@@ -1,0 +1,11 @@
+[Options]
+AddToInfo=1
+CityName=Москва
+MenuName=Транспорт\Проезд к аэропортам
+MenuImage=Airplane_logo.vec
+;ImageFileName=AirPorts.vec(Metro.map)
+Caption=Аэропорт
+StringToAdd='  '
+
+[Рязанская]
+Отдых=г.Жуковский, ЛИИ (место проведения МАКС), автобус 2, маршрутка 12.

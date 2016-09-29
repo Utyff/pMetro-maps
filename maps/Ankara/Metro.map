@@ -1,0 +1,45 @@
+[Options]
+StationDiameter=13
+ImageFileName=Ankara.vec
+LinesWidth=7
+UpperCase=False
+WordWrap=False
+
+[Metro]
+Color=FF0000
+LabelsColor=FF0000
+LabelsBColor=FFFFCC
+Coordinates=33,93, 105,89, 183,62, 250,85, 313,107, 363,124, 419,144, 488,176, 535,223, 563,251, 581,318, 581,339
+Rects=8,71,43,15, 80,67,31,15, 156,41,53,15, 251,63,43,15, 312,85,59,15, 368,105,63,15, 424,125,32,15, 497,163,44,15, 543,209,32,15, 570,232,25,15, 588,315,39,15, 554,368,36,15
+Rect=145,338,110,12
+
+[Ankaray]
+Color=33CC33
+LabelsColor=33CC33
+LabelsBColor=FFFFCC
+Coordinates=416,377, 416,338, 435,295, 469,290, 498,281, 526,300, 548,328, 581,356, 615,342, 646,319, 686,290
+Rects=382,370,26,15, 378,331,30,15, 358,287,65,15, 418,271,47,15, 444,258,50,15, 480,304,41,15, 490,330,53,15, 554,368,36,15, 622,346,28,15, 657,322,44,15, 695,283,46,15
+Rect=145,358,110,12
+
+[TCDD]
+Color=939393
+LabelsColor=939393
+LabelsBColor=FFFFCC
+Coordinates=174,281, 252,275, 286,262, 338,242, 390,224, 455,214, 526,272, 593,306, 666,285, 697,262, 738,251
+Rects=146,289,49,15, 240,285,53,15, 295,264,48,15, 307,224,24,15, 336,208,48,15, 430,191,50,15, 535,261,20,15, 545,285,49,15, 603,280,37,15, 617,249,68,15, 715,229,47,15
+Rect=145,378,110,12
+
+[AdditionalNodes]
+1=Metro,Batikent,Ostim, 60,105
+2=Metro,Ivedik,Akkopru, 474,162
+3=Metro,Ulus,Sihhiye, 581,269
+4=TCDD,Behicbey,Marsandiz, 211,282, 234,280, spline
+5=TCDD,Gazi mah,Hipodrom, 425,212, 441,210, spline
+6=TCDD,Gar,Yenisehir, 559,297, 574,305, spline
+7=TCDD,Demirlibahce,Gulveren, 710,254, 724,247, spline
+8=Ankaray,Emek,Bahcelievler, 421,315, 427,304, spline
+9=Ankaray,Tandogan,Maltepe, 512,288, spline
+10=Ankaray,Demirtepe,Kizilay, 558,343, 569,354, spline
+11=Ankaray,Kizilay,Kolej, 594,356, 606,349, spline
+TCDD_Cebeci_Yenisehir=TCDD,Yenisehir,Cebeci, 628,305, 644,299, spline
+

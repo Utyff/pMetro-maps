@@ -1,0 +1,38 @@
+[Options]
+ImageFileName=Tashkent2.png,Tashkent.vec
+StationDiameter=13
+IsVector=1
+UpperCase=0
+WordWrap=0
+
+[Chilonzor]
+Color=F52D35
+LabelsColor=F52D35
+Coordinates=15,418, 41,384, 66,352, 88,321, 111,289, 133,259, 160,234, 212,241, 306,239, 365,225, 428,220, 486,240
+Rects=25,416,43,15, 50,382,49,15, 76,350,75,15, 96,324,36,15, 48,278,54,15, 67,249,56,15, 100,225,46,15, 188,248,101,15, 318,240,106,15, 332,200,75,15, 419,197,42,15, 426,254,82,15
+Rect=12,14,190,25
+
+[O'zbekiston]
+Color=2D3C9B
+LabelsColor=2D3C9B
+Coordinates=41,129, 74,168, 120,182, 163,184, 160,220, 172,274, 228,292, 279,320, 364,366, 388,316, 402,281
+Rects=50,114,41,15, 76,146,41,15, 121,160,38,15, 171,175,68,15, 72,206,76,15, 188,262,59,15, 161,302,71,15, 240,328,34,15, 372,370,47,15, 398,311,74,15, 412,277,43,15
+Rect=12,38,190,25
+
+[Yunusobod]
+Color=4B7D43
+LabelsColor=4B7D43
+Coordinates=286,308, 306,253, 302,194, 302,156, 302,123, 302,91, 302,58, 353,40, 401,22
+Rects=299,304,52,15, 314,259,74,15, 312,182,79,15, 312,149,30,15, 311,116,52,15, 312,85,90,15, 313,61,82,15, 363,43,62,15, 410,17,48,15
+Rect=12,62,190,25
+
+[AdditionalNodes]
+;1=O'zbekiston,Alisher Navoiy,O'zbekiston, 159,231
+;2=O'zbekiston,Kosmonavtlar,Oybek, 274,317
+;3=O'zbekiston,Oybek,Toshkent, 284,325
+;4=Chilonzor,Bunyodkor,Paxtakor, 153,230
+;5=Chilonzor,Paxtakor,Mustaqillik Maydoni, 165,228
+;6=Chilonzor,Mustaqillik Maydoni,Amir Temur Xiyoboni, 304,240
+;7=Chilonzor,Amir Temur Xiyoboni,Hamid Olimjon, 319,236
+;8=Yunusobod,Ming O'rik,Yunus Rajabiy, 307,246
+

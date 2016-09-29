@@ -1,0 +1,13 @@
+[Line1]
+Name=1
+Stations=Saens Pena,Sao F. Xavier,Afonso Pena,Estacio,Praca Onze,Central,Pres. Vargas,Uruguaiana,Carioca,Cinelandia,Gloria,Catete,Lgo. Machado,Flamengo,Botafogo,C. Arcoverde,S. Campos,Cantagalo
+Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+
+[Line2]
+Name=2
+Stations=Estacio,S. Cristovao,Maracana,Triagem,Maria da Graca,Del Castilho,Inhauma,Eng. da Rainha,Tomas Coelho,V. de Carvalho,Iraja,Colegio,Coelho Neto,Acari F. Botafogo,Eng. Rubens Paiva,Pavuna
+Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+
+[Transfers]
+Estacio=1,Estacio, 2,Estacio, 2
+

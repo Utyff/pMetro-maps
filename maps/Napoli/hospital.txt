@@ -1,0 +1,18 @@
+[Options]
+AddToInfo=1
+CityName=Napoli (Неаполь)
+MenuName=Разное\Больницы
+MenuImage=Medical.bmp
+Caption=Больницы
+StringToAdd=
+
+[Metropolitana Collinare]
+Colli Aminei
+Policlinico
+Rione Alto
+Medaglie d'Oro
+Museo
+
+[Metropolitana F. S.]
+Montesanto
+

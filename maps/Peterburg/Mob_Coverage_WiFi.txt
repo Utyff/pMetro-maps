@@ -1,0 +1,13 @@
+[Options]
+AddToInfo=0
+CityName=Санкт-Петербург
+MenuName=Моб.связь\Wi-Fi
+MenuImage=Mob_WiFi_logo.bmp
+
+
+[1]
+Технологический институт-I
+
+[2]
+Технологический институт-II
+

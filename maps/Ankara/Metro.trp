@@ -1,0 +1,26 @@
+[Line1]
+Name=Metro
+Stations=Batikent,Ostim,Macuncoy,Hastane,Demetevler,Yenimahalle,Ivedik,Akkopru,Kultur,Ulus,Sihhiye,Kizilay
+Driving=1.40,1.40,1.40,1.30,1.50,2.10,2.30,2.10,1.20,2.20,1.30
+Delays=9,8,4,8,4,9
+
+[Line2]
+Name=Ankaray
+Stations=ASTI,Emek,Bahcelievler,Besevler,Tandogan,Maltepe,Demirtepe,Kizilay,Kolej,Kurtulus,Dikimevi
+Driving=1.20,1.40,1.30,1.30,1.20,1.30,1.40,1.30,1.30,1.50
+Delays=0,4,4,4,4,4
+
+[Line3]
+Name=TCDD
+Stations=Behicbey,Marsandiz,MotorFab,Gazi,Gazi mah,Hipodrom,Gar,Yenisehir,Cebeci,Demirlibahce,Gulveren
+Driving=2,1,2,2,2,3,2,1,2,2
+Delays=0,4,4,4,4,4
+
+[Transfers]
+1=Metro,Kizilay, Ankaray,Kizilay, 2
+2=Ankaray,Dikimevi, TCDD,Cebeci, 7
+3=Ankaray,Tandogan, TCDD,Gar, 9, invisible
+4=Ankaray,Maltepe, TCDD,Gar, 9, invisible
+5=Metro,Ulus, TCDD,Gar, 10, invisible
+6=Metro,Sihhiye, TCDD,Yenisehir, 5, invisible
+

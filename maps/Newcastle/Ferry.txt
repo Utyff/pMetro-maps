@@ -1,0 +1,10 @@
+[Options]
+AddToInfo=0
+CityName=Newcastle
+MenuName=Разное\Паром
+
+[Yellow Line]
+North Shields=
+South Shields=
+
+[]

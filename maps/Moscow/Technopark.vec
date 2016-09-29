@@ -1,0 +1,44 @@
+Size 500x680
+Angle -82
+
+; пути
+
+BrushColor 046434
+Polygon 127,315, 577,315, 577,345, 127,345
+Polygon 127,347, 577,347, 577,377, 127,377
+
+BrushColor -1
+
+PenColor 000000
+AngleTextOut 0, Arial, 20, 130, 313, << Автозаводская
+AngleTextOut 0, Arial, 20, 436, 356, Коломенская >>
+AngleTextOut 0, Arial, 25, 296, 330, Технопарк, 1
+
+PenColor FFFFFF
+AngleTextOut 0, Arial, 20, 129, 312, << Автозаводская
+AngleTextOut 0, Arial, 20, 435, 355, Коломенская >>
+AngleTextOut 0, Arial, 25, 295, 329, Технопарк, 1
+
+
+; левый вестибюль
+
+PenColor 000000
+Line 127,345, 127,347
+Line 577,315, 577,295, 75,295, 75,287, -78,287, -78,405, -58,405, 5,539
+Line 21,531, -38,405, 75,405, 75,397, 577,397, 577,377
+Stairs 4,537, 20,529, -16,494
+Stairs 78,315, 78,295, 124,315
+Stairs 78,377, 78,397, 124,377
+
+BrushColor D0D0D0
+Polygon 127,315, 75,315, 75,377, 127,377
+
+; правый вестибюль
+
+PenColor 000000
+Line 577,345, 577,347
+
+; Названия улиц голубым
+PenColor 00AFAF
+BrushColor -1
+AngleTextOut 170, Arial, 15, 118, 123, проспект Андропова

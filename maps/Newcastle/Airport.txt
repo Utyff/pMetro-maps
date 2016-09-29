@@ -1,0 +1,9 @@
+[Options]
+AddToInfo=0
+CityName=Newcastle
+MenuName=Разное\Аэропорт
+
+[Green Line]
+Airport=
+
+[]

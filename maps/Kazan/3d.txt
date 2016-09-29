@@ -1,0 +1,8 @@
+[Options]
+AddToInfo=1
+Caption=Макет
+CityName=Самара
+Type=3dImage
+
+[Первая]
+Козья слобода=KozyaSloboda.pm3d

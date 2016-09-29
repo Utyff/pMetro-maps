@@ -1,0 +1,9 @@
+[Options]
+Name=Moscow_old
+CityName=Москва
+Country=Россия
+RusName=Москва
+Comment=старая схема
+NeedVersion=1.26.3
+
+[]

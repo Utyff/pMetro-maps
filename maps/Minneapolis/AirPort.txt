@@ -1,0 +1,10 @@
+[Options]
+AddToInfo=1
+CityName=Minneapolis - St.Paul
+MenuName=Разное\Аэропорт
+Caption=Аэропорт
+StringToAdd='  '
+
+[55]
+Lindbergh Terminal=
+Humphrey Terminal=

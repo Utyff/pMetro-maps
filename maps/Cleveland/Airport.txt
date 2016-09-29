@@ -1,0 +1,9 @@
+[Options]
+AddToInfo=0
+CityName=Cleveland
+MenuName=Разное\Аэропорт
+
+[Red Line]
+Cleveland Hopkins Int'l Airport=
+
+[]

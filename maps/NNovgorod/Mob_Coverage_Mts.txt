@@ -1,0 +1,10 @@
+[Options]
+AddToInfo=0
+CityName=Нижний Новгород
+Caption=МТС
+MenuName=Моб.связь\Зона покрытия МТС
+MenuImage=Mob_Mts_logo.bmp
+
+[Сормовская]
+Буревестник=
+
