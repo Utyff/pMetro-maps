@@ -75,7 +75,7 @@ Times Sq - 42 St=станция открыта 27.10.1904
 Eastchester - Dyre Avenue=станция открыта 29.05.1912
 Baychester Avenue=станция открыта 29.05.1912
 Dyre Avenue Line Gun Hill Rd=станция открыта 29.05.1912
-Pelham Parkway=станция открыта 29.05.1912
+Dyre Avenue Line Pelham Parkway=станция открыта 29.05.1912
 Morris Park=станция открыта 29.05.1912
 Bowling Green=станция открыта 10.07.1905
 
