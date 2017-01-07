@@ -1,7 +1,7 @@
 [Options]
 AddToInfo=1
 Caption=—хема
-CityName=ƒнепропетровск
+CityName=ƒнепр
 Type=Image
 
 [÷ентрально-заводска€]

@@ -16,7 +16,7 @@ Polygon 63,565, 63,535, 513,535, 513,565
 BrushColor -1
 PenColor 84BC54
 AngleTextOut 0, Arial, 25, 209, 592, Марьина Роща, 1
-AngleTextOut 0, Arial, 20, 64, 513, << тупик
+AngleTextOut 0, Arial, 20, 64, 513, << Бутырская
 AngleTextOut 0, Arial, 20, 378, 675, Достоевская >>
 
 ;инфосос

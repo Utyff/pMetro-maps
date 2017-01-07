@@ -1,7 +1,6 @@
 Size 1050x700
-;Image D:\Boris\PAS\Metro\Maps\Dnepropetrovsk\_OtherFiles\Dnepropetrovsk1.gif, 100, 1
-; НЯРПНБЮ
 
+; НЯРПНБЮ
 PenColor CCECAC
 BrushColor CCECAC
 Polygon 0,26, 71,30, 83,134, 102,170, 0,162
@@ -65,7 +64,7 @@ PenColor FFFFFF
 BrushColor -1
 AngleTextOut -20, Arial, 30, 460, 148, П. дМЕОП, 1
 PenColor 040464
-AngleTextOut 0, Arial, 30, 582, 16, дмеопноерпнбяйне лерпн, 1
+AngleTextOut 0, Arial, 30, 582, 16, лерпн ц.дмеоп, 1
 ;PenColor 8080B0
-;AngleTextOut 0, Arial, 25, 295, 32, Map of Dnepropetrovsk's subway, 1
+;AngleTextOut 0, Arial, 25, 295, 32, Map of Dnepr's subway, 1
 

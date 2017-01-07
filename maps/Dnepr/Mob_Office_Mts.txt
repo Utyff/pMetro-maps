@@ -1,6 +1,6 @@
 [Options]
 AddToInfo=1
-CityName=Днепропетровск
+CityName=Днепр
 Caption=Офис МТС-укр
 MenuName=Моб.связь\Офис продаж МТС-укр
 StringToAdd='  Офис продаж МТС-укр: '

@@ -1,6 +1,6 @@
 [Options]
 StationDiameter=15
-ImageFileName=Dnepropetrovsk.vec
+ImageFileName=Dnepr.vec
 WordWrap=False
 
 [Центрально-заводская]
