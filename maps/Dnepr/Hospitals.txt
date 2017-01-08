@@ -1,7 +1,7 @@
 [Options]
 AddToInfo=1
 Caption=Больницы
-CityName=Днепропетровск
+CityName=Днепр
 ;StringToAdd='  '
 MenuImage=Medical.bmp
 MenuName=Разное\Больницы

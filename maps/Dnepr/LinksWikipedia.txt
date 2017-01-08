@@ -1,6 +1,6 @@
 [Options]
 AddToInfo=1
-CityName=Днепропетровск
+CityName=Днепр
 Caption=Ссылки
 StringToAdd='Статья в Википедии: '
 

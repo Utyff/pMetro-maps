@@ -10,7 +10,7 @@ Polygon 101,538, 101,508, 551,508, 551,538
 
 PenColor E41C0C
 BrushColor -1
-AngleTextOut 0, Arial, 20, 103, 374, << тупик
+AngleTextOut 0, Arial, 20, 103, 374, << Тропарёво
 AngleTextOut 0, Arial, 20, 332, 538, Проспект Вернадского >>
 AngleTextOut 0, Arial, 25, 246, 439, Юго-Западная, 1
 

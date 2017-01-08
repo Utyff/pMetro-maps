@@ -9,7 +9,7 @@ Polygon 254,387, 254,357, 704,357, 704,387
 
 PenColor E41C0C
 BrushColor -1
-AngleTextOut 0, Arial, 20, 256, 222, << тупик
+AngleTextOut 0, Arial, 20, 256, 222, << Румянцево
 AngleTextOut 0, Arial, 20, 555, 387, Юго-Западная >>
 AngleTextOut 0, Arial, 25, 417, 289, Тропарёво, 1
 

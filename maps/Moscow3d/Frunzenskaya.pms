@@ -78,8 +78,7 @@ begin
   Hour := Trunc(t / 3600);
   Period := GetPeriod(Hour);
 
-//  DrawEscalatorStairs(Hour, t);
-  DrawEscalatorStairs(Hour, 0);
+  DrawEscalatorStairs(Hour, t);
 
   if StartStatus = 0 then
     GetInitPositions
@@ -88,8 +87,7 @@ begin
 
 
   // рисуем поезда
-//  DrawTrains(True, 1);
-  DrawTrains(True, 3);
+  DrawTrains(True, 1);
 //  DrawPath(24);
 
   StartStatus := 1;

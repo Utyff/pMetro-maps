@@ -25,8 +25,6 @@ Type=Image
 Бурнаковская=Burnakovskaya.vec
 Канавинская=Kanavinskaya.vec
 Московская=Moskovskaya.vec
-;Ярмарка=
 ;Стрелка=
-;Мещерское Озеро=
 ;Волга=
 

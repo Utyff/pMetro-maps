@@ -1,8 +1,8 @@
 [Options]
-Name=Dnepropetrovsk
-CityName=Днепропетровск
+Name=Dnepr
+CityName=Днепр
 Country=Украина
-RusName=Днепропетровск
+RusName=Днепр
 NeedVersion=1.26.3
 MapAuthors=Схема от 21.11.2012г.
 MapAuthors=\nИнформация о времени проезда:\n- Артем Костюк\nИнформация по станциям - Артем Костюк.\nГлубина станций, тип и дата открытия - Федор Никулин.
