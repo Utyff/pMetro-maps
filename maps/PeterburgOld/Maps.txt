@@ -188,4 +188,3 @@ StringToAdd='  Карта окрестностей cтанции: '
 Ковалёво Пост=http://maps.yandex.ru/map.xml?mapID=3&size=5&scale=7&mapX=6363280&mapY=6654620&act=5&mapWidth=800
 Ковалёво=http://maps.yandex.ru/map.xml?mapID=3&size=5&scale=7&mapX=6364000&mapY=6655280&act=5&mapWidth=800
 
-[]

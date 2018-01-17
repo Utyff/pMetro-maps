@@ -9,7 +9,7 @@ StringToAdd='  '
 ;Olmazor=
 ;Chilonzor=
 ;Mirzo Ulug'bek=
-Hamza=Ресторан "Флагман"
+Novza=Ресторан "Флагман"
 Amir Temur Xiyoboni=Бар "Вертикальный мир"
 ;Milliy Bog'=
 ;Bunyodkor=
@@ -41,7 +41,7 @@ Ming O'rik=Ресторан Angels Food
 ;Abdulla Qodiriy=
 ;Minor=
 ;Bodomzor=
-;Habib Abdullayev=
+;Shahriston=
 ;Yunus-Obod=
 ;Turkiston=
 

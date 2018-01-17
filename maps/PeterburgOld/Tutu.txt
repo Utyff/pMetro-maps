@@ -518,4 +518,3 @@ StringToAdd='  Расписание: '
 Новгород пост=http://tutu.ru/spb/station.php?nnst=13101
 Новгород=http://tutu.ru/spb/station.php?nnst=13201
 
-[]

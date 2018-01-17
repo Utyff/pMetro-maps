@@ -10,4 +10,4 @@ Type=Image
 Металлургов=Metallurgov.vec
 Заводская=Zavodskaya.vec
 Проспект Свободы=ProspektSvobody.vec
-Коммунаровская=Kommunarovskaya.vec
+Покровская=Pokrovskaya.vec

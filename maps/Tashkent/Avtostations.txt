@@ -9,7 +9,7 @@ StringToAdd='  '
 Olmazor=Междугородняя автостанция "Ташкент"
 ;Chilonzor=
 ;Mirzo Ulug'bek=
-;Hamza=
+;Novza=
 ;Milliy Bog'=
 ;Bunyodkor=
 ;Paxtakor=
@@ -38,7 +38,7 @@ Mashinasozlar=Автостанция Чирчикско-Паркентского направления
 ;Abdulla Qodiriy=
 ;Minor=
 ;Bodomzor=
-;Habib Abdullayev=
+;Shahriston=
 ;Yunus-Obod=
 ;Turkiston=
 

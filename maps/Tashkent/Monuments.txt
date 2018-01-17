@@ -10,7 +10,7 @@ StringToAdd='  '
 ;Olmazor=
 ;Chilonzor=
 Mirzo Ulug'bek=Мечеть Кози-Рабад
-;Hamza=
+;Novza=
 ;Milliy Bog'=
 ;Bunyodkor=
 ;Paxtakor=
@@ -40,7 +40,7 @@ Yunus Rajabiy=Куранты\nПамятник Амиру Темуру
 ;Abdulla Qodiriy=
 ;Minor=
 ;Bodomzor=
-;Habib Abdullayev=
+;Shahriston=
 ;Yunus-Obod=
 ;Turkiston=
 

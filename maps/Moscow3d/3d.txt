@@ -147,7 +147,7 @@ Type=3dImage
 Сходненская=Shodnenskaya.pm3d
 Планерная=Planernaya.pm3d
 
-[Калининская]
+[Калининско-Солнцевская]
 Парк Победы=ParkPobedy.pm3d,ParkPobedy2.pms
 ;Деловой центр=
 Третьяковская=Tretyakovskaya.pm3d

@@ -4,7 +4,7 @@ ImageFileName=Railways_Bologoe.vec
 LinesWidth=9
 WordWrap=False
 Transports=Metro.trp,Train.trp
-CheckedTransports=Metro.trp
+CheckedTransports=Train.trp
 
 [Электричка: Московский]
 LabelsBColor=-1
@@ -14,4 +14,3 @@ Rects=0,0,0,0, 0,0,0,0, 0,0,0,0, 0,0,0,0, 0,0,0,0, 0,0,0,0, 0,0,0,0, 0,0,0,0, 0,
 [AdditionalNodes]
 Окуловка1=Электричка: Московский,Окуловка,253 км, 107,667, 141,590, 150,403, 160,180, 196,89, spline
 
-[]

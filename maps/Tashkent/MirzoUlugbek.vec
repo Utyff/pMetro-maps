@@ -10,7 +10,7 @@ Polygon 204,437, 204,407, 654,407, 654,437
 BrushColor -1
 PenColor F52D35
 AngleTextOut 0, Arial, 20, 209, 273, << Chilonzor
-AngleTextOut 0, Arial, 20, 570, 437, Hamza >>
+AngleTextOut 0, Arial, 20, 570, 437, Novza >>
 AngleTextOut 0, Arial, 25, 371, 349, Mirzo Ulug'bek, 1
 
 ; правый вестибюль

@@ -10,7 +10,7 @@ StringToAdd='  '
 ;Olmazor=
 ;Chilonzor=
 Mirzo Ulug'bek=Центр Подготовки и Поддержки Молодых Программистов
-Hamza=Медицинский лицей
+Novza=Медицинский лицей
 ;Milliy Bog'=
 ;Bunyodkor=
 ;Paxtakor=
@@ -39,7 +39,7 @@ Yunus Rajabiy=Школа\nВестминстерский Университет
 Abdulla Qodiriy=Учебный центр "Netdec"
 ;Minor=
 Bodomzor=Ташкентский Университет Информационных Технологий (бывший Институт Связи)\nЦентр Научно-Технических и Маркетинговых Исследований.\nГосударственный тестовый центр
-;Habib Abdullayev=
+;Shahriston=
 ;Yunus-Obod=
 ;Turkiston=
 

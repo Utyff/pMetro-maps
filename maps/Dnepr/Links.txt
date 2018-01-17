@@ -12,5 +12,5 @@ StringToAdd='Описание: '
 Металлургов=http://gorod.dp.ua/metro/?pageid=276\nhttp://metro.dp.ua/stations/metallurgov.html
 Заводская=http://gorod.dp.ua/metro/?pageid=277\nhttp://metro.dp.ua/stations/zavodskaya.html
 Проспект Свободы=http://gorod.dp.ua/metro/?pageid=278\nhttp://metro.dp.ua/stations/prospekt-svobody.html
-Коммунаровская=http://gorod.dp.ua/metro/?pageid=279\nhttp://metro.dp.ua/stations/kommunar.html
+Покровская=http://gorod.dp.ua/metro/?pageid=279\nhttp://metro.dp.ua/stations/kommunar.html
 

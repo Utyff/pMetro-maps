@@ -9,7 +9,7 @@ Polygon 498,194, 948,194, 948,164, 498,164
 
 BrushColor -1
 PenColor 5D87C3
-AngleTextOut 0, Arial, 20, 499, 140, << Коммунаровская
+AngleTextOut 0, Arial, 20, 499, 140, << Покровская
 AngleTextOut 0, Arial, 20, 832, 304, Заводская >>
 AngleTextOut 0, Arial, 25, 628, 216, Проспект Свободы, 1
 

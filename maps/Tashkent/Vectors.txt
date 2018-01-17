@@ -8,7 +8,7 @@ Type=Image
 Olmazor=Olmazor.vec
 Chilonzor=Chilonzor.vec
 Mirzo Ulug'bek=MirzoUlugbek.vec
-Hamza=Hamza.vec
+Novza=Novza.vec
 Milliy Bog'=MilliyBog.vec
 Bunyodkor=Bunyodkor.vec
 Paxtakor=Paxtakor-AlisherNavoiy.vec
@@ -37,7 +37,7 @@ Yunus Rajabiy=AmirTemurXiyoboni-YunusRajabiy.vec
 Abdulla Qodiriy=AbdullaQodiriy.vec
 Minor=Minor.vec
 Bodomzor=Bodomzor.vec
-Habib Abdullayev=HabibAbdullayev.vec
+Shahriston=Shahriston.vec
 ;Yunus-Obod=
 ;Turkiston=
 

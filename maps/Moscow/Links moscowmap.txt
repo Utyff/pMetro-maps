@@ -145,7 +145,7 @@ StringToAdd='  Карта окрестностей станции: '
 Сходненская=http://moscowmap.ru/metrostation.asp?metroid=147
 Планерная=http://moscowmap.ru/metrostation.asp?metroid=148
 
-[Калининская]
+[Калининско-Солнцевская]
 Третьяковская=http://moscowmap.ru/metrostation.asp?metroid=71
 Марксистская=http://moscowmap.ru/metrostation.asp?metroid=151
 Площадь Ильича=http://moscowmap.ru/metrostation.asp?metroid=152

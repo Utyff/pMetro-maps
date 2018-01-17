@@ -4,7 +4,7 @@ ImageFileName=Railways_Moscow.vec
 LinesWidth=9
 WordWrap=False
 Transports=Metro.trp,Train.trp
-CheckedTransports=Metro.trp
+CheckedTransports=Train.trp
 
 [StationLabels]
 Метро=М
@@ -33,4 +33,3 @@ Rect=830,45,57,16
 [AdditionalNodes]
 11=Электричка: Московский,Волховстрой-I,Волховстрой-II,852,669, 869,345, spline
 
-[]

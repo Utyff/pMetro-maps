@@ -56,6 +56,5 @@ DelayNight=5
 
 [AdditionalInfo]
 ;=Название перехода, opposite|parallel|indifferent, ...
-OnePlatformTransfers=ТехнологическийИнститут,parallel
+CrossPlatformTransfers=ТехнологическийИнститут,parallel
 
-[]
