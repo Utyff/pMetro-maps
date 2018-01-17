@@ -149,7 +149,7 @@ StringToAdd='  Фотографии станции: '
 Рязанский проспект=http://metro.ru/stations/tagansko-krasnopresnenskaya/ryazanskiy_prospekt/
 Выхино=http://metro.ru/stations/tagansko-krasnopresnenskaya/vyhino/
 
-[Калининская]
+[Калининско-Солнцевская]
 Новогиреево=http://metro.ru/stations/kalininskaya/novogireevo/
 Перово=http://metro.ru/stations/kalininskaya/perovo/
 Шоссе Энтузиастов=http://metro.ru/stations/kalininskaya/shosse_entuziastov/

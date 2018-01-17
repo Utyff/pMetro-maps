@@ -9,7 +9,7 @@ StringToAdd='  '
 ;Olmazor=
 Chilonzor=Фархадский рынок\nМагазин Шухрат\nПродуктовый рынок
 Mirzo Ulug'bek=Торговый Центр "Чиланзар"
-Hamza=Торговый Центр "Чиланзар"\nСупермаркет "Метро"
+Novza=Торговый Центр "Чиланзар"\nСупермаркет "Метро"
 ;Milliy Bog'=
 ;Bunyodkor=
 ;Paxtakor=
@@ -41,7 +41,7 @@ Abdulla Qodiriy=Алайский рынок\nСупермаркет Ардус\nБутики Puma, Adidas, Mexx
 Yunus Rajabiy=Супермаркет "Дунё"
 ;Minor=
 ;Bodomzor=
-;Habib Abdullayev=
+;Shahriston=
 ;Yunus-Obod=
 ;Turkiston=
 

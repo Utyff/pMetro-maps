@@ -10,8 +10,8 @@ Driving=2,2,2,2,2,2,2
 
 [Line3]
 Name=Kwun Tong Line
-Stations=Yau Ma Tei,Mong Kok,Prince Edward,Shek Kip Mei,Kowloon Tong,Lok Fu,Wong Tai Sin,Diamond Hill,Choi Hung,Kowloon Bay,Ngau Tau Kok,Kwun Tong,Lam Tin,Yau Tong,Tiu Keng Leng
-Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Stations=Whampoa,Ho Man Tin,Yau Ma Tei,Mong Kok,Prince Edward,Shek Kip Mei,Kowloon Tong,Lok Fu,Wong Tai Sin,Diamond Hill,Choi Hung,Kowloon Bay,Ngau Tau Kok,Kwun Tong,Lam Tin,Yau Tong,Tiu Keng Leng
+Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
 
 [Line4]
 Name=Airport Express
@@ -34,12 +34,12 @@ Stations=North Point,Quarry Bay,Yau Tong,Tiu Keng Leng,Tseung Kwan O(Hang Hau,Ti
 Driving=2,2,2,2,(2,2,2),2,(,2),(,2)
 
 [Line8]
-Name=Disneyland Resort line
+Name=Disneyland Resort Line
 Stations=Sunny Bay,Disneyland Resort
 Driving=2
 
 [Line9]
-Name=Ma On Shan line
+Name=Ma On Shan Line
 Stations=Tai Wai,Che King Temple,Sha Tin Wai,City One,Shek Mun,Tai Shui Hang,Hang On,Ma On Shan,Wu Kai Sha
 Driving=2,2,2,2,2,2,2,2
 
@@ -47,6 +47,11 @@ Driving=2,2,2,2,2,2,2,2
 Name=West Rail
 Stations=Hung Hom,East Tsim Sha Tsui,Austin,Nam Cheong,Mei Foo,Tsuen Wan West,Kam Sheung Road,Yuen Long,Long Ping,Tin Shui Wai,Hung Shui Kiu,Siu Hong,Tuen Mun
 Driving=2,2,2,2,2,2,2,2,2,2,2,2
+
+[Line11]
+Name=South Island Line
+Stations=Admiralty,Ocean Park,Wong Chuk Hang,Lei Tung,South Horizons
+Driving=2,2,2,2
 
 [Transfers]
 01=Tsuen Wan Line,Lai King,Tung Chung Line,Lai King, 2
@@ -69,3 +74,5 @@ Driving=2,2,2,2,2,2,2,2,2,2,2,2
 18=West Rail,East Tsim Sha Tsui,Tsuen Wan Line,Tsim Sha Tsui,2
 19=West Rail,Nam Cheong,Tung Chung Line,Nam Cheong,2
 20=West Rail,Mei Foo,Tsuen Wan Line,Mei Foo,2
+21=Tsuen Wan Line,Admiralty, South Island Line,Admiralty, 2
+22=Island Line,Admiralty, South Island Line,Admiralty, 2

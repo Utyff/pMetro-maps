@@ -265,4 +265,3 @@ MenuImage=Mob_SkyLink_logo.bmp
 19 κμ=
 21 κμ=
 
-[]

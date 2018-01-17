@@ -466,4 +466,3 @@ MenuImage=Mob_Mts_logo.bmp
 Новгород пост=
 Новгород=
 
-[]

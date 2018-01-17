@@ -10,7 +10,7 @@ StringToAdd='  '
 ;Olmazor=
 ;Chilonzor=
 ;Mirzo Ulug'bek=
-;Hamza=
+;Novza=
 ;Milliy Bog'=
 ;Bunyodkor=
 ;Paxtakor=
@@ -41,7 +41,7 @@ Oybek=Гостиница "Гранд Мир Отель" (бывшая "Россия")
 Bodomzor=Гостиница "Интерконтиненталь"
 Yunus Rajabiy=Гостиница "Шератон"\nГостиница "Тата"\nГостиница "Узбекистан"
 Ming O'rik=Гостиница "Гранд Мир Отель" (бывшая "Россия")
-;Habib Abdullayev=
+;Shahriston=
 ;Yunus-Obod=
 ;Turkiston=
 

@@ -24,4 +24,3 @@ MenuImage=Vokzals_logo.bmp
 Старая деревня=
 Ладожская=
 
-[]

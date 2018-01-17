@@ -11,4 +11,3 @@ MenuImage=Mob_WiFi_logo.bmp
 [Линия 2]
 Технологический институт-II
 
-[]

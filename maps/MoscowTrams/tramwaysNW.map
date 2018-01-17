@@ -13,7 +13,7 @@ CheckedTransports=Trams.trp
 
 [Замоскворецкая]
 Rects=
-Coordinates=0,0, 0,0, 793,291
+Coordinates=0,0, 0,0, 0,0, 0,0, 793,291
 ;Coordinates=0,0, 0,0, 793,291, 1178,642
 
 [Арбатско-Покровская]

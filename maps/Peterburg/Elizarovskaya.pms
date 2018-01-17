@@ -137,10 +137,8 @@ begin
 
 
   // рисуем поезда
-//  DrawTrain1(0, True, 1);
-//  DrawTrain1(1, True, 1);
-  DrawTrain1(0, True, 3);
-  DrawTrain1(1, True, 3);
+  DrawTrain1(0, True, 1);
+  DrawTrain1(1, True, 1);
 //  DrawPath(24);
 
   StartStatus := 1;

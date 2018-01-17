@@ -76,4 +76,3 @@ Type=Image
 Звенигородская=Pushkinskaya.vec
 Волковская=Volkovskaya.vec
 
-[]

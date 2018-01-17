@@ -9,7 +9,7 @@ StringToAdd='  '
 ;Olmazor=
 ;Chilonzor=
 ;Mirzo Ulug'bek=
-;Hamza=
+;Novza=
 Milliy Bog'=Офис провайдера "УзНЕТ"
 ;Bunyodkor=
 ;Paxtakor=
@@ -40,7 +40,7 @@ Ming O'rik=Головные офисы провайдеров TPS (TechnoProSystem), BCC
 ;Abdulla Qodiriy=
 ;Minor=
 ;Bodomzor=
-;Habib Abdullayev=
+;Shahriston=
 ;Yunus-Obod=
 ;Turkiston=
 

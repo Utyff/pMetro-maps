@@ -626,4 +626,3 @@ MenuImage=Mob_Beeline_logo.bmp
 Новгород пост=
 Новгород=
 
-[]

@@ -1,7 +1,7 @@
 [Line1]
 Name=Chilonzor
 LineMap=Chilonzor.map
-Stations=Olmazor,Chilonzor,Mirzo Ulug'bek,Hamza,Milliy Bog',Bunyodkor,Paxtakor,Mustaqillik Maydoni,Amir Temur Xiyoboni,Hamid Olimjon,Pushkin,Buyuk Ipak Yo'li
+Stations=Olmazor,Chilonzor,Mirzo Ulug'bek,Novza,Milliy Bog',Bunyodkor,Paxtakor,Mustaqillik Maydoni,Amir Temur Xiyoboni,Hamid Olimjon,Pushkin,Buyuk Ipak Yo'li
 Driving=3,2,2,2,2,2,2,2,2,2,2
 DelayDay=5
 DelayNight=10
@@ -17,7 +17,7 @@ DelayNight=10
 [Line3]
 Name=Yunusobod
 LineMap=Yunusobod.map
-Stations=Ming O'rik,Yunus Rajabiy,Abdulla Qodiriy,Minor,Bodomzor,Habib Abdullayev,Fayzulla Xo'jaev,Yunus-Obod,Turkiston
+Stations=Ming O'rik,Yunus Rajabiy,Abdulla Qodiriy,Minor,Bodomzor,Shahriston,Fayzulla Xo'jaev,Yunus-Obod,Turkiston
 Driving=2,2,2,2,2,0,0,0
 DelayDay=5
 DelayNight=10

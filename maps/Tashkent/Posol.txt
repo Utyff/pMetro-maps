@@ -10,7 +10,7 @@ StringToAdd='  '
 ;Olmazor=
 ;Chilonzor=
 Mirzo Ulug'bek=Бывшее американское посольство
-;Hamza=
+;Novza=
 ;Milliy Bog'=
 ;Bunyodkor=
 ;Paxtakor=
@@ -40,7 +40,7 @@ Ming O'rik=Посольство Кореи
 ;Abdulla Qodiriy=
 ;Minor=
 ;Bodomzor=
-;Habib Abdullayev=
+;Shahriston=
 ;Yunus-Obod=
 ;Turkiston=
 

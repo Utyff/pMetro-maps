@@ -75,6 +75,5 @@ Driving=(12,,10),6,7,10,10,6,9,9,16,12,8,9,13,9,6,8,10,8,5,5,12,8,(,8),(9,10),10
 
 [AdditionalInfo]
 ;=Название перехода, opposite|parallel|indifferent, ...
-OnePlatformTransfers=Балты1,parallel, Балты2,parallel, Балты3,parallel, Балты4,parallel
+CrossPlatformTransfers=Балты1,parallel, Балты2,parallel, Балты3,parallel, Балты4,parallel
 
-[]

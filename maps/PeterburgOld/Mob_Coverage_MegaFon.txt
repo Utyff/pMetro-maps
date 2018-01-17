@@ -479,4 +479,3 @@ MenuImage=Mob_MegaFon_logo.bmp
 Новгород пост=
 Новгород=
 
-[]

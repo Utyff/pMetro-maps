@@ -40,4 +40,4 @@ AngleTextOut 0, Arial, 25, 580, 469, Крестовский остров, 1
 
 PenColor 00AFAF
 AngleTextOut 60, Arial, 15, 776, 873, Морской проспект
-AngleTextOut 0, Arial, 15, -50, 761, улица Рюхина
+AngleTextOut 0, Arial, 15, -50, 761, Рюхина улица

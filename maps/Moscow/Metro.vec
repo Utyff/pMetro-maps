@@ -23,7 +23,7 @@ AngleTextOut 0, Arial, 16, 102, 1143, Калужско-Рижская, 1
 PenColor AC24AC
 AngleTextOut 0, Arial, 16, 102, 1161, Таганско-Краснопресненская, 1
 PenColor F49E01
-AngleTextOut 0, Arial, 16, 102, 1179, Калининская, 1
+AngleTextOut 0, Arial, 16, 102, 1179, Калининско-Солнцевская, 1
 PenColor 4C4C4C
 AngleTextOut 0, Arial, 16, 102, 1197, Серпуховско-Тимирязевская, 1
 PenColor 5C9F2E
@@ -63,8 +63,8 @@ TextOut Arial, 20, 860, 256, 1, 1
 SpotRect 213, 1026, 20, 20, SelectRoute Сокольническая
 TextOut Arial, 20, 218, 1026, 1, 1
 
-SpotRect 317, 87, 20, 20, SelectRoute Замоскворецкая
-TextOut Arial, 20, 322, 87, 2, 1
+SpotRect 317, 41, 20, 20, SelectRoute Замоскворецкая
+TextOut Arial, 20, 322, 41, 2, 1
 
 SpotRect 939, 1260, 20, 20, SelectRoute Замоскворецкая
 TextOut Arial, 20, 944, 1260, 2, 1
@@ -105,10 +105,10 @@ TextOut Arial, 20, 1010, 1108, 7, 1
 SpotRect 177, 89, 20, 20, SelectRoute Таганско-Краснопресненская
 TextOut Arial, 20, 182, 89, 7, 1
 
-SpotRect 1075, 411, 20, 20, SelectRoute Калининская
+SpotRect 1075, 411, 20, 20, SelectRoute Калининско-Солнцевская
 TextOut Arial, 20, 1080, 411, 8, 1
 
-SpotRect 73, 704, 20, 20, SelectRoute Калининская
+SpotRect 73, 704, 20, 20, SelectRoute Калининско-Солнцевская
 TextOut Arial, 20, 78, 704, 8, 1
 
 SpotRect 507, 37, 20, 20, SelectRoute Серпуховско-Тимирязевская

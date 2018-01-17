@@ -5,6 +5,8 @@ CityName=Москва
 Type=Image
 
 [Сокольническая]
+Саларьево=Salarevo.vec
+Румянцево=Rumyantsevo.vec
 Тропарёво=Troparevo.vec
 Юго-Западная=YugoZapadnaya.vec
 Проспект Вернадского=Vernadskogo.vec
@@ -154,17 +156,20 @@ Type=Image
 Сходненская=Shodnenskaya.vec
 Планерная=Planernaya.vec
 
-[Калининская]
-Парк Победы=ParkPobedy.vec
-Деловой центр=Vystavochnaya.vec
-Третьяковская=Tretyakovskaya.vec
-Марксистская=Taganskaya.vec
-Площадь Ильича=Rimskaya.vec
-Авиамоторная=Aviamotornaya.vec
-Шоссе Энтузиастов=ShosseEnt.vec
-Перово=Perovo.vec
-Новогиреево=Novogireevo.vec
+[Калининско-Солнцевская]
 Новокосино=Novokosino.vec
+Новогиреево=Novogireevo.vec
+Перово=Perovo.vec
+Шоссе Энтузиастов=ShosseEnt.vec
+Авиамоторная=Aviamotornaya.vec
+Площадь Ильича=Rimskaya.vec
+Марксистская=Taganskaya.vec
+Третьяковская=Tretyakovskaya.vec
+Деловой центр=Vystavochnaya.vec
+Парк Победы=ParkPobedy.vec
+Минская=Minskaya.vec
+Ломоносовский проспект=LomonosovskyPr.vec
+Раменки=Ramenki.vec
 
 [Серпуховско-Тимирязевская]
 Бульвар Дмитрия Донского=BoulevardDD.vec
@@ -194,6 +199,9 @@ Type=Image
 Алтуфьево=Altufyevo.vec
 
 [Люблинско-Дмитровская]
+Петровско-Разумовская=PetrovskoRazumovskaya.vec
+Фонвизинская=Fonvizinskaya.vec
+Бутырская=Butyrskaya.vec
 Марьина роща=MaryinaRoscha.vec
 Достоевская=Dostoevskaya.vec
 Трубная=CvetnoyBulvar.vec

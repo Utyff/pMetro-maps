@@ -80,4 +80,3 @@ MenuImage=Mob_Tele2_logo.bmp
 пр.Большевиков=
 ул.Дыбенко=
 
-[]

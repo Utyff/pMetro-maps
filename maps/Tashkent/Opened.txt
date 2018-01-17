@@ -8,7 +8,7 @@ StringToAdd='  Дата пуска: '
 Olmazor=06.11.1977
 Chilonzor=06.11.1977
 Mirzo Ulug'bek=06.11.1977
-Hamza=06.11.1977
+Novza=06.11.1977
 Milliy Bog'=06.11.1977
 Bunyodkor=06.11.1977
 Paxtakor=06.11.1977
@@ -37,5 +37,5 @@ Yunus Rajabiy=24.10.2001
 Abdulla Qodiriy=24.10.2001
 Minor=24.10.2001
 Bodomzor=24.10.2001
-Habib Abdullayev=24.10.2001
+Shahriston=24.10.2001
 

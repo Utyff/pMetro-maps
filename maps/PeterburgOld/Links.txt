@@ -71,4 +71,3 @@ StringToAdd='  Описание станции: '
 пр.Большевиков=http://kommet.spb.ru/station/st402.html
 ул.Дыбенко=http://kommet.spb.ru/station/st401.html
 
-[]

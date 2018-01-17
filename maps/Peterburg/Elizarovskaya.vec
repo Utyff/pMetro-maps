@@ -60,16 +60,3 @@ PenColor 00AFAF
 AngleTextOut 0, Arial, 15, 525, 504, улица Бабушкина
 AngleTextOut 90, Arial, 15, 733, 418, проспект Елизарова
 
-Opaque 70
-; "закрыто"
-PenColor FFD0D0
-BrushColor FFD0D0
-Polygon -81,196, 713,196, 713,496, -81,496
-
-Opaque 100
-PenColor FF4040
-Line -81,196, 713,196, 713,496, -81,496, -81,196
-PenColor FF4040
-BrushColor -1
-AngleTextOut 0, Arial, 20, 228, 223, Станция закрыта на ремонт, 1
-AngleTextOut 0, Arial, 20, 261, 253, до конца 2016 года, 1

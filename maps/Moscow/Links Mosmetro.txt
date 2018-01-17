@@ -150,7 +150,7 @@ StringToAdd='  Описание станции с Mosmetro.ru: '
 Сходненская=http://www.mosmetro.ru/stations/tagansko_krasnopresnenskaya/shodnenskaya/
 Планерная=http://www.mosmetro.ru/stations/tagansko_krasnopresnenskaya/planernaya/
 
-[Калининская]
+[Калининско-Солнцевская]
 ;http://www.mosmetro.ru/stations/kalininskaya/kutuzovsky_prospekt/
 ;http://www.mosmetro.ru/stations/kalininskaya/plyushchikha/
 ;http://www.mosmetro.ru/stations/kalininskaya/volkhonka/

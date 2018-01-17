@@ -9,7 +9,7 @@ StringToAdd='  '
 ;Olmazor=
 ;Chilonzor=
 ;Mirzo Ulug'bek=
-;Hamza=
+;Novza=
 Milliy Bog'=Олий Мажлис Республики Узбекистан
 ;Bunyodkor=
 Paxtakor=Старая телевышка
@@ -39,7 +39,7 @@ Abdulla Qodiriy=Ночной клуб Baccara
 Yunus Rajabiy=Ташкентский городской Хокимият
 ;Minor=
 ;Bodomzor=
-;Habib Abdullayev=
+;Shahriston=
 ;Yunus-Obod=
 ;Turkiston=
 

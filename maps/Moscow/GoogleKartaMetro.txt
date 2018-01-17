@@ -142,7 +142,7 @@ StringToAdd='  Ссылка на карту kartametro.info: '
 Сходненская=http://kartametro.info/?v=1&ll=55.850439,37.43983&z=17&t=h
 Планерная=http://kartametro.info/?v=1&ll=55.860635,37.43629&z=17&t=h
 
-[Калининская]
+[Калининско-Солнцевская]
 Третьяковская=http://kartametro.info/?v=1&ll=55.74094,37.62719&z=17&t=h
 Марксистская=http://kartametro.info/?v=1&ll=55.741254,37.65399&z=17&t=h
 Площадь Ильича=http://kartametro.info/?v=1&ll=55.747459,37.68234&z=17&t=h

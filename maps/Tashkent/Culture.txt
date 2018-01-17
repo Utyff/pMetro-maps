@@ -10,7 +10,7 @@ StringToAdd='  '
 ;Olmazor=
 ;Chilonzor=
 ;Mirzo Ulug'bek=
-;Hamza=
+;Novza=
 ;Milliy Bog'=
 Bunyodkor=Дворец Дружбы Народов (концертный зал)
 ;Paxtakor=
@@ -42,7 +42,7 @@ Do'stlik=Кинотеатр на колёсах
 Minor=Кинотеатр "Казахстан"
 Bodomzor=Выставочный Центр УзЭкспоЦентр
 Yunus Rajabiy=Музей Фотографии\nОкружной Дом Офицеров
-;Habib Abdullayev=
+;Shahriston=
 ;Yunus-Obod=
 ;Turkiston=
 

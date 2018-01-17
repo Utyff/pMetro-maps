@@ -2,4 +2,3 @@
 AddToInfo=0
 MenuName=Моб.связь\-
 
-[]

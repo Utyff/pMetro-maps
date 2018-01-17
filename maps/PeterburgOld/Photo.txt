@@ -69,6 +69,5 @@ StringToAdd='  Фотографии станции: '
 Новочеркасская=http://metro.spb.ru/map_static/55.html
 Ладожская=http://metro.spb.ru/map_static/56.html
 пр.Большевиков=http://metro.spb.ru/map_static/57.html
-ул.Дыбенко=http://metro.spb.ru/map_static/58.htm
+ул.Дыбенко=http://metro.spb.ru/map_static/58.html
 
-[]

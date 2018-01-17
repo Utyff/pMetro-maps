@@ -15,4 +15,3 @@ MenuImage=Vokzals_logo.bmp
 [Линия 4]
 Ладожская=Ладожский
 
-[]
