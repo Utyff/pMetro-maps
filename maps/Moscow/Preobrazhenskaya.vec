@@ -34,14 +34,14 @@ Line 102,475, 144,475, 144,266, 102,266
 Line 102,498, 144,498, 144,697, 98,697
 Line 98,719, 144,719, 144,725, 131,774
 Line 153,780, 169,720, 407,783, 396,824
-Line 418,830, 449,717
+Line 418,830, 448,717
 Stairs 226,244, 226,266, 188,244
 Stairs 104,244, 104,266, 142,244
 Stairs 303,355, 303,410, 349,355
 Stairs 104,475, 104,498, 142,475
 Stairs 154,776, 132,770, 166,732
 Stairs 100,719, 100,697, 138,719
-Stairs 425,715, 448,721, 415,752
+Stairs 425,715, 447,721, 415,752
 Stairs 397,820, 419,826, 407,783
 
 BrushColor D0D0D0
@@ -146,3 +146,35 @@ AngleTextOut -15, Arial, 15, 518, 769, С.Л. Бухвостову
 PenColor 000000
 BrushColor FEEDB9
 Polygon 532,755, 566,764, 567,760, 563,759, 566,733, 547,728, 537,752, 533,751
+
+; Выходы
+Angle -15
+PenColor FFD900
+BrushColor 615F56
+SpotRect 835, 126, 30, 30, ShowMessage Выход №1
+SpotRect 931, 101, 30, 30
+SpotRect 999, 323, 30, 30
+SpotRect 1044, 433, 30, 30
+SpotRect 1046, 537, 30, 30
+SpotRect 947, 559, 30, 30
+SpotRect 134, 316, 30, 30
+SpotRect 45, 341, 30, 30
+SpotRect 109, 565, 30, 30
+SpotRect 165, 778, 30, 30
+SpotRect 247, 848, 30, 30
+SpotRect 451, 837, 30, 30
+SpotRect 453, 745, 30, 30
+BrushColor -1
+TextOut Arial, 25, 843, 127, 1
+TextOut Arial, 25, 939, 102, 2
+TextOut Arial, 25, 1007, 324, 3
+TextOut Arial, 25, 1052, 434, 4
+TextOut Arial, 25, 1054, 538, 5
+TextOut Arial, 25, 955, 560, 6
+TextOut Arial, 25, 142, 317, 7
+TextOut Arial, 25, 53, 342, 8
+TextOut Arial, 25, 117, 566, 9
+TextOut Arial, 25, 167, 779, 10
+TextOut Arial, 25, 249, 849, 11
+TextOut Arial, 25, 453, 838, 12
+TextOut Arial, 25, 455, 746, 13

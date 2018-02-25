@@ -141,3 +141,31 @@ AngleTextOut -90, Arial, 15, 175, 167, улица авиаконструктора Миля
 AngleTextOut -130, Arial, 15, 85, 791, улица авиаконструктора Миля
 AngleTextOut -90, Arial, 15, 598, 734, Тарханская улица
 PenColor 000000
+
+; Выходы
+Angle -55
+PenColor FFD900
+BrushColor 615F56
+SpotRect 568, 835, 30, 30, ShowMessage Выход №1
+SpotRect 503, 921, 30, 30
+SpotRect 413, 1010, 30, 30
+SpotRect 37, 745, 30, 30
+SpotRect 18, 687, 30, 30
+SpotRect 129, 556, 30, 30
+SpotRect 182, 550, 30, 30
+SpotRect 503, 89, 30, 30
+SpotRect 570, 0, 30, 30
+SpotRect 907, 216, 30, 30
+SpotRect 912, 346, 30, 30
+BrushColor -1
+TextOut Arial, 25, 576, 836, 1
+TextOut Arial, 25, 511, 922, 2
+TextOut Arial, 25, 421, 1011, 3
+TextOut Arial, 25, 45, 746, 4
+TextOut Arial, 25, 26, 688, 5
+TextOut Arial, 25, 137, 557, 6
+TextOut Arial, 25, 190, 551, 7
+TextOut Arial, 25, 511, 90, 8
+TextOut Arial, 25, 578, 1, 9
+TextOut Arial, 25, 909, 219, 10
+TextOut Arial, 25, 914, 349, 11

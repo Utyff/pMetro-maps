@@ -123,3 +123,25 @@ AngleTextOut 0, Arial, 15, 211, 357, проспект Вернадского
 AngleTextOut 0, Arial, 15, 215, 578, проспект Вернадского
 AngleTextOut -80, Arial, 15, 292, 201, улица Покрышкина
 AngleTextOut -130, Arial, 15, 151, 701, улица 26 Бакинских комиссаров
+
+; Выходы
+Angle -70
+PenColor FFD900
+BrushColor 615F56
+SpotRect 308, 804, 30, 30, ShowMessage Выход №1
+SpotRect 278, 882, 30, 30
+SpotRect 57, 801, 30, 30
+SpotRect 88, 721, 30, 30
+SpotRect 311, 104, 30, 30
+SpotRect 342, 24, 30, 30
+SpotRect 560, 105, 30, 30
+SpotRect 534, 185, 30, 30
+BrushColor -1
+TextOut Arial, 25, 316, 805, 1
+TextOut Arial, 25, 286, 883, 2
+TextOut Arial, 25, 65, 802, 3
+TextOut Arial, 25, 96, 722, 4
+TextOut Arial, 25, 319, 105, 5
+TextOut Arial, 25, 350, 25, 6
+TextOut Arial, 25, 568, 106, 7
+TextOut Arial, 25, 542, 186, 8

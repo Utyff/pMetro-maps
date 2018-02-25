@@ -404,3 +404,31 @@ Polygon 680,939, 680,937, 683,937, 683,939
 PenColor FF0000
 BrushColor FF0000
 Polygon 683,939, 683,937, 686,937, 686,939
+
+; Выходы
+Angle -5
+PenColor FFD900
+BrushColor 615F56
+SpotRect 896, 10, 30, 30, ShowMessage Выход №1
+SpotRect 1078, 13, 30, 30
+SpotRect 1101, 283, 30, 30
+SpotRect 983, 313, 30, 30
+SpotRect 271, 386, 30, 30
+SpotRect 147, 394, 30, 30
+SpotRect 120, 48, 30, 30
+SpotRect 234, 37, 30, 30
+SpotRect 918, 348, 30, 30
+SpotRect 500, 372, 30, 30
+SpotRect 622, 1054, 30, 30
+BrushColor -1
+TextOut Arial, 25, 904, 11, 1
+TextOut Arial, 25, 1086, 14, 2
+TextOut Arial, 25, 1109, 284, 3
+TextOut Arial, 25, 991, 314, 4
+TextOut Arial, 25, 279, 387, 5
+TextOut Arial, 25, 155, 395, 6
+TextOut Arial, 25, 128, 49, 7
+TextOut Arial, 25, 242, 38, 8
+TextOut Arial, 25, 926, 349, 9
+TextOut Arial, 25, 502, 373, 10
+TextOut Arial, 25, 624, 1055, 11

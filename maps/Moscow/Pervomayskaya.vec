@@ -98,3 +98,18 @@ AngleTextOut 0, Arial, 15, -348, 520, 9-я Парковая улица
 AngleTextOut -90, Arial, 15, 714, 607, Измайловский бульвар
 AngleTextOut -90, Arial, 15, -266, 599, 'к/т "Первомайский" >>'
 AngleTextOut -90, Arial, 15, -301, 569, Первомайская улица
+
+
+; Выходы
+Angle -90
+PenColor FFD900
+BrushColor 615F56
+SpotRect 46, 134, 30, 30, ShowMessage Выход №1
+SpotRect 287, 133, 30, 30
+SpotRect 285, 980, 30, 30
+SpotRect 47, 980, 30, 30
+BrushColor -1
+TextOut Arial, 25, 54, 135, 1
+TextOut Arial, 25, 295, 134, 2
+TextOut Arial, 25, 293, 981, 3
+TextOut Arial, 25, 55, 981, 4

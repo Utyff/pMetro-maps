@@ -391,3 +391,30 @@ AngleTextOut 50, Arial, 15, 624, 321, улица Большая Лубянка
 AngleTextOut -30, Arial, 15, 252, 225, Пушечная улица
 AngleTextOut 30, Arial, 15, 28, 772, Никольская улица
 
+; Выходы
+Angle -20
+PenColor FFD900
+BrushColor 615F56
+SpotRect 20, 43, 30, 30, ShowMessage Выход №1
+SpotRect 615, 431, 30, 30
+SpotRect 698, 404, 30, 30
+SpotRect 807, 744, 30, 30
+SpotRect 785, 780, 30, 30
+SpotRect 679, 833, 30, 30
+SpotRect 603, 881, 30, 30
+SpotRect 458, 941, 30, 30
+SpotRect 422, 876, 30, 30
+SpotRect 254, 881, 30, 30
+SpotRect 240, 615, 30, 30
+BrushColor -1
+TextOut Arial, 25, 28, 44, 1
+TextOut Arial, 25, 623, 432, 2
+TextOut Arial, 25, 706, 405, 3
+TextOut Arial, 25, 815, 745, 4
+TextOut Arial, 25, 793, 781, 5
+TextOut Arial, 25, 687, 834, 6
+TextOut Arial, 25, 611, 882, 7
+TextOut Arial, 25, 466, 942, 8
+TextOut Arial, 25, 430, 877, 9
+TextOut Arial, 25, 256, 882, 10
+TextOut Arial, 25, 242, 616, 11

@@ -147,3 +147,14 @@ AngleTextOut 90, Arial, 15, -12, 298, Фестивальная улица
 AngleTextOut 90, Arial, 15, 462, 327, Автобусы
 AngleTextOut 90, Arial, 15, 499, 313, Парк Дружбы
 AngleTextOut 90, Arial, 15, 465, 676, << Речной вокзал
+
+
+; Выходы
+Angle 70
+PenColor FFD900
+BrushColor 615F56
+SpotRect 186, 89, 30, 30, ShowMessage Выход №1
+SpotRect 402, 679, 30, 30
+BrushColor -1
+TextOut Arial, 25, 194, 90, 1
+TextOut Arial, 25, 410, 680, 2

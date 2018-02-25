@@ -149,3 +149,13 @@ Polygon 454,148, 394,148, 394,151, 454,151
 PenColor 00AFAF
 BrushColor -1
 AngleTextOut 0, Arial, 15, 269, 282, Киевское шоссе
+
+; Выходы
+Angle -15
+PenColor FFD900
+BrushColor 615F56
+SpotRect 9, 124, 30, 30, ShowMessage Выход №1
+SpotRect 601, 77, 30, 30
+BrushColor -1
+TextOut Arial, 25, 17, 125, 1
+TextOut Arial, 25, 609, 78, 2

@@ -188,10 +188,19 @@ BrushColor FF0000
 Polygon 274,735, 271,738, 272,739, 275,736
 
 
-
 ; Названия улиц голубым
 PenColor 00AFAF
 BrushColor -1
 AngleTextOut 0, Arial, 15, 374, 416, проспект Вернадского
 AngleTextOut -90, Arial, 15, 827, 299, Ломоносовский проспект
 AngleTextOut 0, Arial, 15, 393, 768, Московский цирк >>
+
+; Выходы
+Angle -45
+PenColor FFD900
+BrushColor 615F56
+SpotRect 493, 680, 30, 30, ShowMessage Выход №1
+SpotRect 455, 98, 30, 30
+BrushColor -1
+TextOut Arial, 25, 501, 681, 1
+TextOut Arial, 25, 463, 99, 2

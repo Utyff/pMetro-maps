@@ -120,7 +120,7 @@ Stairs 357,311, 357,341, 318,311
 Stairs 411,298, 411,326, 387,298
 BrushColor D0D0D0
 Polygon 426,298, 426,296, 385,296, 385,298
-Polygon 384,355, 384,353, 463,353, 463,313, 465,313, 465,355, 
+Polygon 384,355, 384,353, 463,353, 463,313, 465,313, 465,355
 
 ; эскалаторы
 PenColor 7F7F7F
@@ -174,3 +174,13 @@ PenColor FF4040
 BrushColor -1
 Dashed 35,190, 35,226, 43,226, 43,190, 35,190
 BrushColor 000000
+
+; Выходы
+Angle -50
+PenColor FFD900
+BrushColor 615F56
+SpotRect 374, 248, 30, 30, ShowMessage Выход №1
+SpotRect 282, 365, 30, 30
+BrushColor -1
+TextOut Arial, 25, 382, 249, 1
+TextOut Arial, 25, 290, 366, 2

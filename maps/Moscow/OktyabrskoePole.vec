@@ -31,7 +31,7 @@ Polygon 518,440, 518,436, 517,436, 517,440
 ;левый вестибюль
 
 PenColor 000000
-BrushColor d0d0d0
+BrushColor D0D0D0
 Polygon 147,409, 168,409, 168,481, 147,481
 Line 291,405, 291,413, 230,413, 230,370, 166,370, 166,375, 142,375, 142,322, 189,322
 Line 189,301, 68,301
@@ -53,7 +53,7 @@ PenColor 009900
 Stairs 187,446, 190,444, 210,480
 
 ; кассы
-PenColor 
+PenColor 000000
 Polygon 221,490, 230,490, 230,521, 221,521
 BrushColor -1
 AngleTextOut 90, Arial, 10, 219, 518, кассы
@@ -76,7 +76,7 @@ Polygon 205,401, 209,401, 209,402, 205,402
 ;правый вестибюль
 
 PenColor 000000
-BrushColor d0d0d0
+BrushColor D0D0D0
 Polygon 864,397, 885,397, 885,494, 864,494
 Line 741,405, 741,413, 802,413, 802,370, 866,370, 866,375, 890,375, 890,322, 842,322
 Line 842,301, 965,301
@@ -98,7 +98,7 @@ PenColor 009900
 Stairs 845,446, 842,444, 821,481
 
 ; кассы
-PenColor 
+PenColor 000000
 Polygon 793,487, 802,487, 802,518, 793,518
 BrushColor -1
 AngleTextOut 90, Arial, 10, 791, 515, кассы
@@ -160,3 +160,25 @@ AngleTextOut 90, Arial, 15, 502, 300, улица Народного Ополчения
 AngleTextOut 90, Arial, 15, 502, 843, улица Народного Ополчения
 AngleTextOut 90, Arial, 15, 273, 251, к/т Юность >>
 ; магазину "Спортмастер"
+
+; Выходы
+Angle 40
+PenColor FFD900
+BrushColor 615F56
+SpotRect 132, 359, 30, 30, ShowMessage Выход №1
+SpotRect 58, 298, 30, 30
+SpotRect 275, 35, 30, 30
+SpotRect 349, 95, 30, 30
+SpotRect 872, 534, 30, 30
+SpotRect 943, 594, 30, 30
+SpotRect 721, 855, 30, 30
+SpotRect 653, 796, 30, 30
+BrushColor -1
+TextOut Arial, 25, 140, 360, 1
+TextOut Arial, 25, 66, 299, 2
+TextOut Arial, 25, 283, 36, 3
+TextOut Arial, 25, 357, 96, 4
+TextOut Arial, 25, 880, 535, 5
+TextOut Arial, 25, 951, 595, 6
+TextOut Arial, 25, 729, 856, 7
+TextOut Arial, 25, 661, 797, 8

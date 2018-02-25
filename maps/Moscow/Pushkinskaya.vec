@@ -231,7 +231,8 @@ Stairs 805,1015, 805,997, 822,1015
 Stairs 805,1015, 788,1015, 805,1029
 Line 419,853, 399,853, 399,867, 516,867, 516,853, 496,853
 Line 496,837, 535,837, 535,867, 732,867, 732,839, 754,839, 754,824
-Line 768,824, 768,839, 790,839, 790,867, 805,867, 805,997, 828,997, 828,977
+Line 768,824, 768,839, 790,839, 790,867, 810,867
+Line 810,885, 805,885, 805,997, 828,997, 828,977
 Line 844,977, 844,1000, 828,1041, 788,1051, 767,1051
 Line 767,1033, 788,1033, 788,885, 322,885
 Line 754,864, 754,851, 748,851, 748,867, 774,867, 774,851, 768,851, 768,864
@@ -473,3 +474,40 @@ AngleTextOut 90, Arial, 15, 713, 1114, Тверской бульвар
 AngleTextOut 90, Arial, 15, 600, 73, Страстной бульвар
 PenColor 000000
 AngleTextOut 90, Arial, 15, 424, 283, к/т Пушкинский
+
+
+; Выходы
+Angle 40
+PenColor FFD900
+BrushColor 615F56
+SpotRect 148, 279, 30, 30, ShowMessage Выход №1
+SpotRect 128, 488, 30, 30
+SpotRect 108, 622, 30, 30
+SpotRect 44, 559, 30, 30
+SpotRect 297, 565, 30, 30
+SpotRect 326, 602, 30, 30
+SpotRect 572, 808, 30, 30
+SpotRect 494, 832, 30, 30
+SpotRect 534, 961, 30, 30
+SpotRect 383, 981, 30, 30
+SpotRect 893, 267, 30, 30
+SpotRect 886, 379, 30, 30
+SpotRect 739, 286, 30, 30
+SpotRect 787, 160, 30, 30
+SpotRect 570, 869, 30, 30
+BrushColor -1
+TextOut Arial, 25, 156, 280, 1
+TextOut Arial, 25, 136, 489, 2
+TextOut Arial, 25, 116, 623, 3
+TextOut Arial, 25, 52, 560, 4
+TextOut Arial, 25, 305, 566, 5
+TextOut Arial, 25, 334, 603, 6
+TextOut Arial, 25, 580, 809, 7
+TextOut Arial, 25, 502, 833, 8
+TextOut Arial, 25, 542, 962, 9
+TextOut Arial, 25, 385, 982, 10
+TextOut Arial, 25, 895, 268, 11
+TextOut Arial, 25, 888, 380, 12
+TextOut Arial, 25, 741, 287, 13
+TextOut Arial, 25, 789, 161, 14
+TextOut Arial, 25, 572, 870, 15

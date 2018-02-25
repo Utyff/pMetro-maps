@@ -28,7 +28,7 @@ Polygon 341,482, 341,478, 340,478, 340,482
 
 ;левый вестибюль
 PenColor 000000
-BrushColor d0d0d0
+BrushColor D0D0D0
 Polygon -136,521, -136,450, -114,450, -114,435, -151,435, -151,536, -114,536, -114,521
 Line 126,445, 126,451, 76,451, 76,454
 Line 32,454, 32,451, 6,451, 6,404, -26,392, -26,410, -151,410, -151,389
@@ -89,7 +89,7 @@ Line 576,445, 576,453, 591,453, 591,456
 Stairs 591,483, 591,517, 609,483
 Stairs 620,483, 620,517, 638,483
 
-BrushColor d0d0d0
+BrushColor D0D0D0
 Polygon 797,450, 770,450, 770,435, 812,435, 812,536, 770,536, 770,521, 797,521
 
 ; эскалатор 2 гор
@@ -135,3 +135,13 @@ PenColor 00AFAF
 BrushColor -1
 AngleTextOut 90, Arial, 15, -225, 552, Планерная улица
 PenColor 000000
+
+; Выходы
+Angle 80
+PenColor FFD900
+BrushColor 615F56
+SpotRect 249, 82, 30, 30, ShowMessage Выход №1
+SpotRect 425, 1073, 30, 30
+BrushColor -1
+TextOut Arial, 25, 257, 83, 1
+TextOut Arial, 25, 433, 1074, 2

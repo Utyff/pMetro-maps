@@ -157,3 +157,20 @@ PenColor 040464
 BrushColor -1
 SpotRect 273, 1575, 270, 18, LoadVec TSaritsynoZhD.vec
 TextOut Arial, 15, 273, 1575, 'Схема ж/д платформы "Царицыно"', 5
+
+; Выходы
+PenColor FFD900
+BrushColor 615F56
+SpotRect 420, 1021, 30, 30, ShowMessage Выход №1
+SpotRect 652, 1181, 30, 30
+SpotRect 632, 1377, 30, 30
+SpotRect 20, 309, 30, 30
+SpotRect 284, 5, 30, 30
+SpotRect 337, 133, 30, 30
+BrushColor -1
+TextOut Arial, 25, 428, 1022, 1
+TextOut Arial, 25, 660, 1182, 2
+TextOut Arial, 25, 640, 1378, 3
+TextOut Arial, 25, 28, 310, 4
+TextOut Arial, 25, 292, 6, 5
+TextOut Arial, 25, 345, 134, 6

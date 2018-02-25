@@ -80,3 +80,11 @@ BrushColor -1
 AngleTextOut 70, Arial, 15, 331, 128, Смоленская площадь
 AngleTextOut 70, Arial, 15, 351, 133, (Садовое кольцо)
 AngleTextOut 0, Arial, 15, 568, 543, улица Арбат
+
+; Выходы
+Angle -20
+PenColor FFD900
+BrushColor 615F56
+SpotRect 560, 201, 30, 30, ShowMessage Выход №1
+BrushColor -1
+TextOut Arial, 25, 568, 202, 1

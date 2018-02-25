@@ -126,7 +126,7 @@ BrushColor -1
 AngleTextOut 0, Arial, 15, -137, 610, Ленинградское шоссе
 AngleTextOut 0, Arial, 15, 922, 595, Ленинградское
 AngleTextOut 0, Arial, 15, 933, 616, шоссе
-AngleTextOut 0, Arial, 15, 174, 352, 'кинотеатр "Варшава"'
+AngleTextOut 0, Arial, 15, 74, 224, 'кинотеатр "Варшава"'
 AngleTextOut 90, Arial, 15, 4, 457, Старопетровский проезд
 AngleTextOut 0, Arial, 15, 696, 845, 'ж/д платформа "Ленинградская" >>'
 AngleTextOut 90, Arial, 15, 919, 381, улица Зои и Александра
@@ -137,3 +137,37 @@ PenColor 040464
 SpotRect 658, 867, 240, 16, LoadVec Leningradskaya.vec
 TextOut Arial, 15, 658, 867, 'Схема платформы "Ленинградская"', 5
 
+; Выходы
+Angle 65
+PenColor FFD900
+BrushColor 615F56
+SpotRect 427, 106, 30, 30, ShowMessage Выход №1
+SpotRect 15, 311, 30, 30
+SpotRect 37, 179, 30, 30
+SpotRect 419, 1001, 30, 30
+SpotRect 377, 912, 30, 30
+SpotRect 769, 746, 30, 30
+SpotRect 788, 993, 30, 30
+BrushColor -1
+TextOut Arial, 25, 435, 107, 1
+TextOut Arial, 25, 23, 312, 2
+TextOut Arial, 25, 45, 180, 3
+TextOut Arial, 25, 427, 1002, 4
+TextOut Arial, 25, 385, 913, 5
+TextOut Arial, 25, 777, 747, 6
+TextOut Arial, 25, 796, 994, 7
+
+Angle -65
+Opaque 70
+ "закрыто"
+PenColor FFD0D0
+BrushColor FFD0D0
+Polygon 63,542, 26,542, 26,393, 63,393
+PenColor FF4040
+
+Opaque 100
+PenColor FF4040
+BrushColor -1
+AngleTextOut 90, Arial, 15, 33, 513, Закрыто
+Dashed 63,542, 26,542, 26,393, 63,393, 63,542
+BrushColor 000000

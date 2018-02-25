@@ -286,3 +286,19 @@ Angle 90
 PenColor 040464
 SpotRect -56, 365, 180, 15, LoadVec BelZ.vec
 TextOut Arial, 12, -56, 365, Схема станции Москва-Смоленская, 5
+
+; Выходы
+Angle -45
+PenColor FFD900
+BrushColor 615F56
+SpotRect 487, 827, 30, 30, ShowMessage Выход №1
+SpotRect 904, 252, 30, 30
+SpotRect 990, 126, 30, 30
+SpotRect 401, 79, 30, 30
+SpotRect 295, 1, 30, 30
+BrushColor -1
+TextOut Arial, 25, 495, 828, 1
+TextOut Arial, 25, 912, 253, 2
+TextOut Arial, 25, 998, 127, 3
+TextOut Arial, 25, 409, 80, 4
+TextOut Arial, 25, 303, 2, 5

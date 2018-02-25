@@ -147,3 +147,16 @@ BrushColor -1
 AngleTextOut 135, Arial, 15, 595, 582, Автозаводская улица
 AngleTextOut -5, Arial, 15, 155, 465, улица Мастеркова
 AngleTextOut 120, Arial, 15, -162, 734, улица Ленинская Слобода
+
+
+; Выходы
+Angle 90
+PenColor FFD900
+BrushColor 615F56
+SpotRect 166, 867, 30, 30, ShowMessage Выход №1
+SpotRect 467, 132, 30, 30
+SpotRect 171, 111, 30, 30
+BrushColor -1
+TextOut Arial, 25, 174, 868, 1
+TextOut Arial, 25, 475, 133, 2
+TextOut Arial, 25, 179, 112, 3

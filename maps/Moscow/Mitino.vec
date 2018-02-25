@@ -138,3 +138,30 @@ PenColor 00AFAF
 BrushColor -1
 AngleTextOut 0, Arial, 15, 644, 347, Митинская улица
 AngleTextOut 90, Arial, 15, 216, 624, улица Дубравная
+
+
+; Выходы
+Angle 36
+PenColor FFD900
+BrushColor 615F56
+SpotRect 265, 611, 30, 30, ShowMessage Выход №1
+SpotRect 211, 582, 30, 30
+SpotRect 68, 475, 30, 30
+SpotRect 54, 364, 30, 30
+SpotRect 580, 295, 30, 30
+SpotRect 532, 129, 30, 30
+SpotRect 295, 48, 30, 30
+SpotRect 944, 518, 30, 30
+SpotRect 884, 1036, 30, 30
+SpotRect 830, 998, 30, 30
+BrushColor -1
+TextOut Arial, 25, 273, 612, 1
+TextOut Arial, 25, 219, 583, 2
+TextOut Arial, 25, 76, 476, 3
+TextOut Arial, 25, 62, 365, 4
+TextOut Arial, 25, 588, 296, 5
+TextOut Arial, 25, 540, 130, 6
+TextOut Arial, 25, 303, 49, 7
+TextOut Arial, 25, 952, 519, 8
+TextOut Arial, 25, 892, 1037, 9
+TextOut Arial, 25, 832, 999, 10

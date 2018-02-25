@@ -267,3 +267,18 @@ TextOut Arial, 8, 83, 181, нижний €рус
 TextOut Arial, 8, 592, 164, нижний €рус
 TextOut Arial, 8, 86, 358, нижний €рус
 TextOut Arial, 8, 589, 359, нижний €рус
+
+
+; ¬ыходы
+Angle -15
+PenColor FFD900
+BrushColor 615F56
+SpotRect 304, 204, 32, 30, ShowMessage ¬ыход є1
+SpotRect 370, 189, 32, 30
+SpotRect 321, 331, 32, 30
+SpotRect 402, 312, 32, 30
+BrushColor -1
+TextOut Arial, 25, 305, 205, 1.1
+TextOut Arial, 25, 371, 190, 1.2
+TextOut Arial, 25, 322, 332, 2.1
+TextOut Arial, 25, 403, 313, 2.2

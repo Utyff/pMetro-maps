@@ -111,8 +111,8 @@ Line 49,378, 49,395, 85,395
 Stairs 83,395, 83,413, 49,395
 Spline -113,276, -144,294, -157,332
 Spline -113,413, -144,396, -157,356
-Line -157,332, -229,332, -229,334
-Line -157,356, -229,356, -229,354
+Line -157,332, -239,332, -239,334
+Line -157,356, -229,356, -229,379
 
 ;кассы
 BrushColor D0D0D0
@@ -173,3 +173,18 @@ BrushColor -1
 AngleTextOut -100, Arial, 15, 288, 417, Строится
 Dashed 267,410, 254,485, 278,485, 291,410, 267,410
 BrushColor 000000
+
+
+; Выходы
+Angle -90
+PenColor FFD900
+BrushColor 615F56
+SpotRect 41, 901, 30, 30, ShowMessage Выход №1
+SpotRect 135, 909, 30, 30
+SpotRect 298, 207, 30, 30
+SpotRect 203, 13, 30, 30
+BrushColor -1
+TextOut Arial, 25, 49, 902, 1
+TextOut Arial, 25, 143, 910, 2
+TextOut Arial, 25, 306, 208, 3
+TextOut Arial, 25, 211, 14, 4

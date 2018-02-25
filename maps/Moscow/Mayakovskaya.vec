@@ -191,3 +191,17 @@ AngleTextOut 0, Arial, 15, 234, 455, 1-€ “верска€-ямска€ ул.
 AngleTextOut 90, Arial, 15, -66, 607, ул. √ашека
 AngleTextOut 90, Arial, 15, -86, 375, 1-й “верской-
 AngleTextOut 90, Arial, 15, -72, 365, ямской пер.
+
+; ¬ыходы
+Angle 50
+PenColor FFD900
+BrushColor 615F56
+SpotRect 167, 163, 30, 30, ShowMessage ¬ыход є1
+SpotRect 609, 608, 30, 30
+SpotRect 672, 743, 30, 30
+SpotRect 316, 876, 30, 30
+BrushColor -1
+TextOut Arial, 25, 175, 164, 1
+TextOut Arial, 25, 617, 609, 2
+TextOut Arial, 25, 680, 744, 3
+TextOut Arial, 25, 324, 877, 4

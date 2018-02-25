@@ -224,3 +224,11 @@ AngleTextOut 0, Arial, 15, 837, 421, улица
 PenColor 000000
 AngleTextOut -40, Arial, 8, 192, 41, вход
 AngleTextOut -40, Arial, 8, 231, 75, выход
+
+; Выходы
+Angle -40
+PenColor FFD900
+BrushColor 615F56
+SpotRect 178, 296, 30, 30, ShowMessage Выход №1
+BrushColor -1
+TextOut Arial, 25, 186, 297, 1

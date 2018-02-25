@@ -20,7 +20,7 @@ Polygon 525,41, 555,41, 555,491, 525,491
 BrushColor -1
 PenColor F7782E
 AngleTextOut 90, Arial, 20, 555, 436, Сухаревская >>
-AngleTextOut 90, Arial, 20, 392, 398, << Китай-город
+AngleTextOut 90, Arial, 20, 391, 542, << Китай-город
 AngleTextOut 90, Arial, 25, 456, 341, Тургеневская, 1
 
 ;инфосос
@@ -188,7 +188,7 @@ Line 1065,389, 1058,383, 1033,413, 1026,407, 1036,395, 1030,390
 Stairs 1008,244, 1023,202, 1041,256
 Stairs 1057,262, 1072,220, 1088,273
 
-BrushColor d0d0d0
+BrushColor D0D0D0
 Polygon 1108,302, 1100,308, 1097,304, 1103,300, 1110,281, 1115,283
 
 PenColor 7F7F7F
@@ -220,7 +220,7 @@ Polygon 342,527, 359,334, 363,334, 346,527
 Polygon 352,528, 369,335, 373,335, 356,528
 Polygon 362,529, 379,335, 381,335, 364,529
 
-BrushColor d0d0d0
+BrushColor D0D0D0
 Polygon 396,584, 398,579, 405,582, 412,588, 385,620, 373,610, 377,607
 
 ; турникеты
@@ -296,7 +296,7 @@ Polygon 323,378, 375,421, 377,395, 337,362
 Opaque 100
 
 PenColor 000000
-BrushColor d0d0d0
+BrushColor D0D0D0
 Polygon 727,862, 724,859, 736,845, 797,896, 786,909, 782,906, 787,900, 733,855
 Polygon 715,870, 718,872, 712,879, 767,925, 772,919, 775,922, 766,933, 705,882
 
@@ -455,3 +455,23 @@ AngleTextOut 50, Arial, 10, 406, 626, авиа-
 AngleTextOut 50, Arial, 10, 410, 631, кассы
 AngleTextOut 0, Arial, 13, 539, 713, $
 
+; Выходы
+PenColor FFD900
+BrushColor 615F56
+SpotRect 777, 931, 30, 30, ShowMessage Выход №1
+SpotRect 694, 822, 30, 30
+SpotRect 390, 723, 30, 30
+SpotRect 257, 628, 30, 30
+SpotRect 535, 516, 30, 30
+SpotRect 384, 375, 30, 30
+SpotRect 301, 258, 30, 30
+SpotRect 250, 268, 30, 30
+BrushColor -1
+TextOut Arial, 25, 785, 932, 1
+TextOut Arial, 25, 702, 823, 2
+TextOut Arial, 25, 398, 724, 3
+TextOut Arial, 25, 265, 629, 4
+TextOut Arial, 25, 543, 517, 5
+TextOut Arial, 25, 392, 376, 6
+TextOut Arial, 25, 309, 259, 7
+TextOut Arial, 25, 258, 269, 8
