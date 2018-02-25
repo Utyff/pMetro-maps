@@ -24,7 +24,7 @@ begin
   xs[0]  := 1196; ys[0]  := -209;  zs[0] := 2.2;
   xs[1]  := -1750;  ys[1]  := ys[0];  zs[1] := zs[0];
   Stops[0] := 0.241;
-  Clocks[0] := 0.205;
+  Clocks[0] := 0.2053;
   ClipHead[0] := 0.1;
   ClipTail[0] := 0.9;
 
@@ -32,7 +32,7 @@ begin
   xs2[1] := xs[0];  ys2[1] := ys2[0]; zs2[1] := zs[0];
                    
   Stops[1] := Stops[0];
-  Clocks[1] := Clocks[0];
+  Clocks[1] := Clocks[0]-0.0004;
   ClipHead[1] := 0.1;
   ClipTail[1] := 0.9;
 
