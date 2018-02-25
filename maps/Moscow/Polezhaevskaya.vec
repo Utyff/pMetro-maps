@@ -167,7 +167,29 @@ BrushColor -1
 AngleTextOut 0, Arial, 15, 341, 351, прохода нет
 AngleTextOut 0, Arial, 15, 804, 338, прохода нет
 AngleTextOut 0, Arial, 20, 798, 119, Вестибюль закрыт на ремонт, 1
-AngleTextOut 0, Arial, 20, 836, 140, до 31 декабря 2016 года, 1
+AngleTextOut 0, Arial, 20, 836, 140, до 1 марта 2018 года, 1
 Dashed 268,326, 888,328, 888,441, 268,441, 268,326
 Dashed 785,108, 1081,108, 1081,490, 785,490, 785,108
 BrushColor 000000
+
+; Выходы
+Angle -10
+PenColor FFD900
+BrushColor 615F56
+SpotRect 116, 520, 30, 30, ShowMessage Выход №1
+SpotRect 58, 243, 30, 30
+SpotRect 19, 125, 30, 30
+SpotRect 171, 142, 30, 30
+SpotRect 901, 10, 30, 30
+SpotRect 1049, 32, 30, 30
+SpotRect 1090, 409, 30, 30
+SpotRect 990, 426, 30, 30
+BrushColor -1
+TextOut Arial, 25, 124, 521, 1
+TextOut Arial, 25, 66, 244, 2
+TextOut Arial, 25, 27, 126, 3
+TextOut Arial, 25, 179, 143, 4
+TextOut Arial, 25, 909, 11, 5
+TextOut Arial, 25, 1057, 33, 6
+TextOut Arial, 25, 1098, 410, 7
+TextOut Arial, 25, 998, 427, 8

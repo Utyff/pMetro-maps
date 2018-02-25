@@ -119,3 +119,23 @@ AngleTextOut -90, Arial, 15, 468, 638, улица Удальцова
 TextOut Arial, 15, 722, 251, парк 50-летия Октября
 TextOut Arial, 15, 139, 368, 'к/т "Звёздный"'
 TextOut Arial, 15, 946, 448, 'ТЦ "Обувь Сити"'
+
+; Выходы
+Angle -45
+PenColor FFD900
+BrushColor 615F56
+SpotRect 3, 671, 30, 30, ShowMessage Выход №1
+SpotRect 61, 611, 30, 30
+SpotRect 196, 898, 30, 30
+SpotRect 271, 822, 30, 30
+SpotRect 286, 992, 30, 30
+SpotRect 365, 916, 30, 30
+SpotRect 762, 121, 30, 30
+BrushColor -1
+TextOut Arial, 25, 11, 672, 1
+TextOut Arial, 25, 69, 612, 2
+TextOut Arial, 25, 204, 899, 3
+TextOut Arial, 25, 279, 823, 4
+TextOut Arial, 25, 294, 993, 5
+TextOut Arial, 25, 373, 917, 6
+TextOut Arial, 25, 770, 122, 7

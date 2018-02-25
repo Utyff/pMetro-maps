@@ -143,3 +143,13 @@ AngleTextOut 0, Arial, 15, 384, 214, Московская аллея
 AngleTextOut 90, Arial, 15, -34, 435, Театральная аллея
 AngleTextOut 0, Arial, 15, 184, 126, 'Стадион "Динамо"'
 AngleTextOut 0, Arial, 15, -32, 267, << Петровский парк
+
+; Выходы
+Angle 38
+PenColor FFD900
+BrushColor 615F56
+SpotRect 689, 688, 30, 30, ShowMessage Выход №1
+SpotRect 102, 33, 30, 30
+BrushColor -1
+TextOut Arial, 25, 697, 689, 1
+TextOut Arial, 25, 110, 34, 2

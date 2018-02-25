@@ -164,7 +164,7 @@ BrushColor -1
 AngleTextOut -95, Arial, 15, 852, 1327, электропоезда
 AngleTextOut -95, Arial, 15, 837, 1325, Горьковского
 AngleTextOut -95, Arial, 15, 821, 1323, направления
-AngleTextOut -115, Arial, 15, 1288, 624, электропоезда Курского направления
+AngleTextOut -115, Arial, 15, 1274, 661, электропоезда Курского направления
 AngleTextOut 45, Arial, 15, 616, 258, улица Земляной Вал
 AngleTextOut 45, Arial, 15, 628, 272, (Садовое Кольцо)
 AngleTextOut 20, Arial, 15, 1360, 501, Нижний
@@ -434,3 +434,22 @@ Line -238,1083, -314,1136, -404,1009, -387,997
 Line -415,1207, -362,1170, -451,1042, -524,1093
 Line -229,1096, -406,1220
 Line -396,984, -533,1080
+
+
+; Выходы
+Angle -45
+PenColor FFD900
+BrushColor 615F56
+SpotRect 600, 258, 30, 30, ShowMessage Выход №1
+SpotRect 926, 370, 30, 30
+SpotRect 898, 160, 30, 30
+SpotRect 1033, 203, 30, 30
+SpotRect 360, 1262, 30, 30
+SpotRect 729, 1192, 30, 30
+BrushColor -1
+TextOut Arial, 25, 608, 259, 1
+TextOut Arial, 25, 934, 371, 2
+TextOut Arial, 25, 906, 161, 3
+TextOut Arial, 25, 1041, 204, 4
+TextOut Arial, 25, 368, 1263, 5
+TextOut Arial, 25, 737, 1193, 6

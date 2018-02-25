@@ -65,3 +65,11 @@ AngleTextOut -90, Arial, 15, 21, 63, улица Измайловский Вал
 AngleTextOut -90, Arial, 15, 723, 48, Вельяминовская улица
 AngleTextOut 0, Arial, 15, 52, 347, Семёновская площадь
 AngleTextOut 0, Arial, 15, 68, 291, Щербаковская улица
+
+
+; Выходы
+PenColor FFD900
+BrushColor 615F56
+SpotRect 71, 110, 30, 30, ShowMessage Выход №1
+BrushColor -1
+TextOut Arial, 25, 79, 111, 1

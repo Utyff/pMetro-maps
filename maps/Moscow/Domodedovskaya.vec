@@ -32,7 +32,8 @@ Line 58,457, 100,457, 100,552
 Line 124,552, 124,510, 192,510, 192,552
 Line 210,552, 210,510, 389,510, 389,552
 Line 389,439, 389,481, 124,481, 124,354, 131,354, 131,351, 141,351, 141,354, 236,354, 236,319, 310,319, 310,337
-Line 407,439, 407,552
+Line 457,552, 457,510, 407,510, 407,552
+Line 475,552, 475,481, 407,481, 407,439
 Line 57,107, 100,107, 100,62, 112,62, 112,-7, 109,-7, 109,45
 Line 97,45, 97,-19, 124,-19, 124,62, 365,62, 365,-19, 392,-19, 392,45
 Line 380,45, 380,-7, 377,-7, 377,62, 392,62, 392,79, 415,119
@@ -45,6 +46,7 @@ Stairs 100,550, 124,550, 100,511
 Stairs 254,294, 254,276, 300,294
 Stairs 210,550, 192,550, 210,512
 Stairs 389,550, 407,550, 389,512
+Stairs 457,550, 475,550, 457,512
 Stairs 397,127, 414,117, 378,94
 Stairs 124,82, 104,82, 124,104
 
@@ -158,3 +160,37 @@ SpotCircle 10, 162, 10, ShowMessage Авт. 308
 PenColor FFFFFF
 BrushColor -1
 AngleTextOut -15, Arial, 20, 159, -3, A, 1
+
+; Выходы
+Angle -15
+PenColor FFD900
+BrushColor 615F56
+SpotRect 946, 16, 30, 30, ShowMessage Выход №1
+SpotRect 980, 326, 30, 30
+SpotRect 894, 345, 30, 30
+SpotRect 363, 103, 30, 30
+SpotRect 324, 50, 30, 30
+SpotRect -7, 133, 30, 30
+SpotRect 2, 196, 30, 30
+SpotRect 34, 291, 30, 30
+SpotRect 93, 510, 30, 30
+SpotRect 127, 627, 30, 30
+SpotRect 219, 604, 30, 30
+SpotRect 408, 555, 30, 30
+SpotRect 384, 465, 30, 30
+SpotRect 539, 527, 30, 30
+BrushColor -1
+TextOut Arial, 25, 954, 17, 1
+TextOut Arial, 25, 988, 327, 2
+TextOut Arial, 25, 902, 346, 3
+TextOut Arial, 25, 371, 104, 4
+TextOut Arial, 25, 332, 51, 5
+TextOut Arial, 25, 1, 134, 6
+TextOut Arial, 25, 10, 197, 7
+TextOut Arial, 25, 42, 292, 8
+TextOut Arial, 25, 101, 511, 9
+TextOut Arial, 25, 129, 628, 10
+TextOut Arial, 25, 221, 605, 11
+TextOut Arial, 25, 410, 556, 12
+TextOut Arial, 25, 386, 466, 13
+TextOut Arial, 25, 541, 528, 14

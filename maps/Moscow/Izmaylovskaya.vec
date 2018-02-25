@@ -102,3 +102,22 @@ AngleTextOut -80, Arial, 15, 32, 7, 1-я Парковая улица
 AngleTextOut -80, Arial, 15, 461, 10, 2-я Парковая улица
 AngleTextOut -80, Arial, 15, 887, 7, 3-я Парковая улица
 AngleTextOut 0, Arial, 15, 474, 421, Измайловский парк
+
+; Выходы
+PenColor FFD900
+BrushColor 615F56
+SpotRect 809, 164, 30, 30, ShowMessage Выход №1
+SpotRect 877, 408, 30, 30
+SpotRect 811, 408, 30, 30
+SpotRect 147, 379, 30, 30
+SpotRect 80, 379, 30, 30
+SpotRect 81, 143, 30, 30
+SpotRect 147, 143, 30, 30
+BrushColor -1
+TextOut Arial, 25, 817, 165, 1
+TextOut Arial, 25, 885, 409, 2
+TextOut Arial, 25, 819, 409, 3
+TextOut Arial, 25, 155, 380, 4
+TextOut Arial, 25, 88, 380, 5
+TextOut Arial, 25, 89, 144, 6
+TextOut Arial, 25, 155, 144, 7

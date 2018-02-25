@@ -137,3 +137,13 @@ AngleTextOut 90, Arial, 15, 59, 724, Братеевская улица
 AngleTextOut 0, Arial, 15, -78, 564, Паромная улица
 AngleTextOut 90, Arial, 15, 1012, 297, Ключевая улица
 PenColor 000000
+
+; Выходы
+Angle 60
+PenColor FFD900
+BrushColor 615F56
+SpotRect 236, 81, 30, 30, ShowMessage Выход №1
+SpotRect 775, 666, 30, 30
+BrushColor -1
+TextOut Arial, 25, 244, 82, 1
+TextOut Arial, 25, 783, 667, 2

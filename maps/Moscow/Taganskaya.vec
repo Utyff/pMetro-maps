@@ -402,3 +402,21 @@ AngleTextOut 90, Arial, 15, 462, 1234, улица Земляной Вал
 AngleTextOut 90, Arial, 15, 479, 1223, (Садовое Кольцо)
 AngleTextOut 92, Arial, 15, 325, 1273, Гончарный проезд
 AngleTextOut -25, Arial, 15, 196, 856, Гончарная улица
+
+; Выходы
+Angle 30
+PenColor FFD900
+BrushColor 615F56
+SpotRect 595, 115, 30, 30, ShowMessage Выход №1
+SpotRect 531, 1124, 30, 30
+SpotRect 671, 975, 30, 30
+SpotRect 704, 1046, 30, 30
+SpotRect 1008, 669, 30, 30
+SpotRect 1072, 461, 30, 30
+BrushColor -1
+TextOut Arial, 25, 603, 116, 1
+TextOut Arial, 25, 539, 1125, 2
+TextOut Arial, 25, 679, 976, 3
+TextOut Arial, 25, 712, 1047, 4
+TextOut Arial, 25, 1016, 670, 5
+TextOut Arial, 25, 1080, 462, 6

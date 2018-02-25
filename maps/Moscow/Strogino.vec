@@ -151,3 +151,26 @@ AngleTextOut 90, Arial, 15, 1404, 493, Таллинская ул.
 AngleTextOut -30, Arial, 15, 1010, -50, ул. Маршала Катукова
 AngleTextOut 0, Arial, 15, 1184, 435, Строгинский бульвар
 AngleTextOut 0, Arial, 15, 36, 434, Строгинский бульвар
+
+
+; Выходы
+Angle 18
+PenColor FFD900
+BrushColor 615F56
+SpotRect 274, 445, 30, 30, ShowMessage Выход №1
+SpotRect 89, 384, 30, 30
+SpotRect 196, 78, 30, 30
+SpotRect 379, 136, 30, 30
+SpotRect 1042, 350, 30, 30
+SpotRect 1217, 407, 30, 30
+SpotRect 1115, 715, 30, 30
+SpotRect 942, 660, 30, 30
+BrushColor -1
+TextOut Arial, 25, 282, 446, 1
+TextOut Arial, 25, 97, 385, 2
+TextOut Arial, 25, 204, 79, 3
+TextOut Arial, 25, 387, 137, 4
+TextOut Arial, 25, 1050, 351, 5
+TextOut Arial, 25, 1225, 408, 6
+TextOut Arial, 25, 1123, 716, 7
+TextOut Arial, 25, 950, 661, 8

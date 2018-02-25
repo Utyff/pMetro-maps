@@ -11,7 +11,7 @@ Polygon 294,312, 744,312, 744,342, 294,342
 PenColor AC24AC
 BrushColor -1
 AngleTextOut 0, Arial, 20, 296, 180, << Текстильщики
-AngleTextOut 0, Arial, 20, 546, 343, Рязанский проспект >>
+AngleTextOut 0, Arial, 20, 546, 340, Рязанский проспект >>
 AngleTextOut 0, Arial, 25, 456, 247, Кузьминки, 1
 
 ;инфосос
@@ -146,3 +146,25 @@ Polygon 682,-22, 724,-22, 724,60, 682,60
 PenColor 888888
 BrushColor -1
 AngleTextOut 90, Arial, 12, 696, 54, Макдональдс
+
+; Выходы
+Angle 12
+PenColor FFD900
+BrushColor 615F56
+SpotRect 874, 176, 30, 30, ShowMessage Выход №1
+SpotRect 960, 200, 30, 30
+SpotRect 903, 530, 30, 30
+SpotRect 800, 512, 30, 30
+SpotRect 125, 444, 30, 30
+SpotRect 43, 426, 30, 30
+SpotRect 129, 20, 30, 30
+SpotRect 214, 38, 30, 30
+BrushColor -1
+TextOut Arial, 25, 882, 177, 1
+TextOut Arial, 25, 968, 201, 2
+TextOut Arial, 25, 911, 531, 3
+TextOut Arial, 25, 808, 513, 4
+TextOut Arial, 25, 133, 445, 5
+TextOut Arial, 25, 51, 427, 6
+TextOut Arial, 25, 137, 21, 7
+TextOut Arial, 25, 222, 39, 8

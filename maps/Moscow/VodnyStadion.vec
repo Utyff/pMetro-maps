@@ -31,7 +31,7 @@ PenColor CCCCCC
 Polygon -49,397, -181,397, -181,530, -49,530
 
 PenColor 000000
-BrushColor d0d0d0
+BrushColor D0D0D0
 Polygon -181,397, -163,397, -163,416, -157,416, -157,432, -167,432, -167,497, -151,497, -151,513, -162,513, -162,530, -181,530
 Polygon -49,433, -49,438, -104,438, -104,433
 Polygon -104,497, -104,492, -49,492, -49,497
@@ -95,7 +95,7 @@ PenColor CCCCCC
 Polygon 526,398, 659,398, 659,531, 526,531
 
 PenColor 000000
-BrushColor d0d0d0
+BrushColor D0D0D0
 Polygon 659,398, 639,398, 639,417, 634,417, 634,435, 645,435, 645,495, 634,495, 634,513, 639,513, 639,531, 659,531
 Polygon 526,438, 526,433, 582,433, 582,438
 Polygon 526,496, 526,492, 582,492, 582,496
@@ -154,3 +154,14 @@ BrushColor -1
 AngleTextOut 90, Arial, 15, 132, 304, Кронштадтский бульвар
 AngleTextOut 70, Arial, 15, 435, 352, Головинское шоссе
 AngleTextOut 0, Arial, 15, 459, 592, улица Адмирала Макарова
+
+
+; Выходы
+Angle 70
+PenColor FFD900
+BrushColor 615F56
+SpotRect 182, 91, 30, 30, ShowMessage Выход №1
+SpotRect 402, 679, 30, 30
+BrushColor -1
+TextOut Arial, 25, 190, 92, 1
+TextOut Arial, 25, 410, 680, 2

@@ -211,3 +211,13 @@ AngleTextOut 110, Arial, 15, 534, 653, Конюшковская улица
 AngleTextOut 105, Arial, 15, 445, 408, улица Большая Грузинская
 AngleTextOut -20, Arial, 15, 919, 456, Баррикадная улица
 PenColor 000000
+
+; Выходы
+Angle 20
+PenColor FFD900
+BrushColor 615F56
+SpotRect 128, 697, 30, 30, ShowMessage Выход №1
+SpotRect 1125, 375, 30, 30
+BrushColor -1
+TextOut Arial, 25, 136, 698, 1
+TextOut Arial, 25, 1133, 376, 2

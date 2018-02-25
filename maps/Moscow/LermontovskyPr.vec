@@ -62,3 +62,38 @@ BrushColor -1
 AngleTextOut 0, Arial, 15, 115, 527, Лермонтовский проспект
 AngleTextOut 0, Arial, 15, 123, 608, Лермонтовский проспект (дублёр)
 AngleTextOut 90, Arial, 15, 809, 810, Хвалынский бульвар
+
+Opaque 70
+; "закрыто"
+PenColor FFD0D0
+BrushColor FFD0D0
+Polygon -74,264, 11,264, 11,332, -74,332
+PenColor FF4040
+
+Opaque 100
+PenColor FF4040
+BrushColor -1
+AngleTextOut 0, Arial, 15, -56, 294, закрыто
+Dashed -74,264, 11,264, 11,332, -74,332, -74,264
+BrushColor 000000
+
+; Выходы
+Angle 44
+PenColor FFD900
+BrushColor 615F56
+SpotRect 763, 574, 30, 30, ShowMessage Выход №1
+SpotRect 407, 746, 30, 30
+SpotRect 477, 855, 30, 30
+SpotRect 615, 962, 30, 30
+SpotRect 275, 9, 30, 30
+SpotRect 110, 333, 30, 30
+SpotRect 24, 196, 30, 30
+BrushColor -1
+TextOut Arial, 25, 771, 575, 1
+TextOut Arial, 25, 415, 747, 2
+TextOut Arial, 25, 485, 856, 3
+TextOut Arial, 25, 623, 963, 4
+TextOut Arial, 25, 283, 10, 5
+TextOut Arial, 25, 118, 334, 6
+TextOut Arial, 25, 32, 197, 7
+

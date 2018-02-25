@@ -630,3 +630,24 @@ PenColor 000000
 AngleTextOut -15, Arial, 8, 831, 862, верхний ярус
 AngleTextOut -15, Arial, 8, 764, 842, нижний ярус
 AngleTextOut 75, Arial, 7, 786, 308, вестибюль
+
+; Выходы
+PenColor FFD900
+BrushColor 615F56
+SpotRect 1231, 337, 30, 30, ShowMessage Выход №1
+SpotRect 1157, 230, 30, 30
+SpotRect 1293, 143, 30, 30
+SpotRect 1460, 242, 30, 30
+SpotRect 1508, 328, 30, 30
+SpotRect 960, 914, 30, 30
+SpotRect 45, 232, 30, 30
+SpotRect 741, 222, 30, 30
+BrushColor -1
+TextOut Arial, 25, 1239, 338, 1
+TextOut Arial, 25, 1165, 231, 2
+TextOut Arial, 25, 1301, 144, 3
+TextOut Arial, 25, 1468, 243, 4
+TextOut Arial, 25, 1516, 329, 5
+TextOut Arial, 25, 968, 915, 6
+TextOut Arial, 25, 53, 233, 7
+TextOut Arial, 25, 749, 223, 8

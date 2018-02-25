@@ -114,3 +114,23 @@ AngleTextOut 90, Arial, 6, 932, 767, полиция
 PenColor 00AFAF
 BrushColor -1
 AngleTextOut 0, Arial, 15, 283, 454, Новорязанское шоссе
+
+; Выходы
+Angle 40
+PenColor FFD900
+BrushColor 615F56
+SpotRect 645, 1090, 30, 30, ShowMessage Выход №1
+SpotRect 493, 999, 30, 30
+SpotRect 131, 682, 30, 30
+SpotRect 2, 554, 30, 30
+SpotRect 31, 468, 30, 30
+SpotRect 291, 228, 30, 30
+SpotRect 332, 7, 30, 30
+BrushColor -1
+TextOut Arial, 25, 653, 1091, 1
+TextOut Arial, 25, 501, 1000, 2
+TextOut Arial, 25, 139, 683, 3
+TextOut Arial, 25, 10, 555, 4
+TextOut Arial, 25, 39, 469, 5
+TextOut Arial, 25, 299, 229, 6
+TextOut Arial, 25, 340, 8, 7

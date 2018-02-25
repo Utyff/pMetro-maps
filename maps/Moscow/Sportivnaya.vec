@@ -31,7 +31,7 @@ BrushColor FEFBF1
 Polygon -120,489, 20,349, 28,342, 38,336, 49,332, 62,330, 72,330, 84,333, 94,337, 104,343, 111,349, 117,357, 122,365, 126,374, 129,383, 130,394, 129,405, 126,414, 122,424, 116,433, 110,440, -29,580
 
 PenColor 000000
-BrushColor d0d0d0
+BrushColor D0D0D0
 Polygon 23,450, 11,438, -6,455, -16,469, -8,477, 5,468
 Polygon -51,516, -55,512, -38,491, -30,499
 Polygon -71,538, -77,532, -69,524, -63,530
@@ -161,3 +161,14 @@ PenColor 00AFAF
 BrushColor -1
 AngleTextOut -90, Arial, 15, 755, 174, ул.10-летия Октября
 AngleTextOut 45, Arial, 15, -28, 606, '<< к спорт.комплексу "Лужники"'
+
+
+; Выходы
+Angle -35
+PenColor FFD900
+BrushColor 615F56
+SpotRect 35, 839, 30, 30, ShowMessage Выход №1
+SpotRect 677, 146, 30, 30
+BrushColor -1
+TextOut Arial, 25, 43, 840, 1
+TextOut Arial, 25, 685, 147, 2

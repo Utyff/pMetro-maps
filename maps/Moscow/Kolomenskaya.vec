@@ -37,7 +37,7 @@ Stairs -169,437, -169,414, -131,437
 Stairs -168,774, -168,752, -130,774
 Stairs -37,774, -37,752, -76,774
 
-BrushColor d0d0d0
+BrushColor D0D0D0
 Polygon -70,579, -59,579, -59,645, -70,645
 
 ; кассы
@@ -94,7 +94,7 @@ Stairs 931,776, 931,752, 893,776
 Stairs 658,776, 658,752, 696,776
 Stairs 583,641, 583,584, 537,641
 
-BrushColor d0d0d0
+BrushColor D0D0D0
 Polygon 678,582, 687,582, 687,643, 678,643
 
 ; кассы
@@ -132,3 +132,25 @@ AngleTextOut 90, Arial, 15, 767, 373, улица Новинки
 AngleTextOut 90, Arial, 15, 767, 936, улица Нагатинская
 AngleTextOut 0, Arial, 15, 790, 603, проспект Андропова
 AngleTextOut 0, Arial, 15, -257, 603, проспект Андропова
+
+; Выходы
+Angle 90
+PenColor FFD900
+BrushColor 615F56
+SpotRect 453, 922, 30, 30, ShowMessage Выход №1
+SpotRect 452, 1127, 30, 30
+SpotRect 203, 1167, 30, 30
+SpotRect 203, 923, 30, 30
+SpotRect 141, 202, 30, 30
+SpotRect 142, 103, 30, 30
+SpotRect 478, 102, 30, 30
+SpotRect 479, 207, 30, 30
+BrushColor -1
+TextOut Arial, 25, 461, 923, 1
+TextOut Arial, 25, 460, 1128, 2
+TextOut Arial, 25, 211, 1168, 3
+TextOut Arial, 25, 211, 924, 4
+TextOut Arial, 25, 149, 203, 5
+TextOut Arial, 25, 150, 104, 6
+TextOut Arial, 25, 486, 103, 7
+TextOut Arial, 25, 487, 208, 8

@@ -375,3 +375,33 @@ AngleTextOut 0, Arial, 8, 778, 364, выход
 AngleTextOut -15, Arial, 8, 732, 424, По рабочим дням с 18.15 до 19.15\nи по пятницам с 17.15 до 18.15 эти\nэскалаторы работают только на подъём.
 Arrow 825,445, 732,420, 748,392
 BrushColor 000000
+
+; Выходы
+Angle -15
+PenColor FFD900
+BrushColor 615F56
+SpotRect 658, 130, 30, 30, ShowMessage Выход №1
+SpotRect 712, 325, 30, 30
+SpotRect 680, 1060, 30, 30
+SpotRect 780, 945, 30, 30
+SpotRect 838, 906, 30, 30
+SpotRect 594, 637, 30, 30
+SpotRect 647, 595, 30, 30
+SpotRect 574, 568, 30, 30
+SpotRect 641, 552, 30, 30
+SpotRect 663, 1150, 30, 30
+SpotRect 555, 1162, 30, 30
+SpotRect 715, 7, 30, 30
+BrushColor -1
+TextOut Arial, 25, 666, 131, 1
+TextOut Arial, 25, 720, 326, 2
+TextOut Arial, 25, 688, 1061, 3
+TextOut Arial, 25, 788, 946, 4
+TextOut Arial, 25, 846, 907, 5
+TextOut Arial, 25, 602, 638, 6
+TextOut Arial, 25, 655, 596, 7
+TextOut Arial, 25, 582, 569, 8
+TextOut Arial, 25, 649, 553, 9
+TextOut Arial, 25, 665, 1151, 10
+TextOut Arial, 25, 557, 1163, 11
+TextOut Arial, 25, 717, 8, 12

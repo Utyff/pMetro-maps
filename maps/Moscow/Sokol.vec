@@ -187,3 +187,23 @@ BrushColor -1
 AngleTextOut 0, Arial, 15, 576, 377, Ленинградский проспект
 AngleTextOut 90, Arial, 15, 653, 598, Песчаная улица
 TextOut Arial, 15, 91, 104, 'ТЦ "Метромаркет"'
+
+; Выходы
+Angle 30
+PenColor FFD900
+BrushColor 615F56
+SpotRect 158, 426, 30, 30, ShowMessage Выход №1
+SpotRect 305, 167, 30, 30
+SpotRect 492, 279, 30, 30
+SpotRect 654, 361, 30, 30
+SpotRect 476, 600, 30, 30
+SpotRect 386, 552, 30, 30
+SpotRect 300, 10, 30, 30
+BrushColor -1
+TextOut Arial, 25, 166, 427, 1
+TextOut Arial, 25, 313, 168, 2
+TextOut Arial, 25, 500, 280, 3
+TextOut Arial, 25, 662, 362, 4
+TextOut Arial, 25, 484, 601, 5
+TextOut Arial, 25, 394, 553, 6
+TextOut Arial, 25, 308, 11, 7
