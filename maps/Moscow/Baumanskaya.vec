@@ -90,3 +90,12 @@ Polygon 760,284, 760,280, 761,280, 761,284
 PenColor 00AFAF
 BrushColor -1
 AngleTextOut -110, Arial, 15, 31, 152, ул.Бауманская
+
+
+; Выходы
+Angle -30
+PenColor FFD900
+BrushColor 615F56
+SpotRect 172, 409, 30, 30, ShowMessage Выход №1
+BrushColor -1
+TextOut Arial, 25, 180, 410, 1

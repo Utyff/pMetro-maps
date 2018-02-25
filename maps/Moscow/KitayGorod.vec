@@ -222,9 +222,38 @@ Stairs 762,545, 726,545, 762,571
 Opaque 100
 
 
-BrushColor 848484
-
-
-PenColor FF0000
-PenColor 009900
-
+; Выходы
+Angle 60
+PenColor FFD900
+BrushColor 615F56
+SpotRect 135, 407, 30, 30, ShowMessage Выход №1
+SpotRect 79, 304, 30, 30
+SpotRect 334, 92, 30, 30
+SpotRect 489, 4, 30, 30
+SpotRect 717, 63, 30, 30
+SpotRect 685, 224, 30, 30
+SpotRect 1390, 1061, 30, 30
+SpotRect 1251, 891, 30, 30
+SpotRect 1148, 1024, 30, 30
+SpotRect 1070, 1139, 30, 30
+SpotRect 1057, 1199, 30, 30
+SpotRect 914, 1229, 30, 30
+SpotRect 450, 302, 30, 30
+SpotRect 841, 1152, 30, 30
+SpotRect 511, 265, 30, 30
+BrushColor -1
+TextOut Arial, 25, 143, 408, 1
+TextOut Arial, 25, 87, 305, 2
+TextOut Arial, 25, 342, 93, 3
+TextOut Arial, 25, 497, 5, 5
+TextOut Arial, 25, 725, 64, 6
+TextOut Arial, 25, 693, 225, 7
+TextOut Arial, 25, 1398, 1062, 8
+TextOut Arial, 25, 1259, 892, 9
+TextOut Arial, 25, 1150, 1025, 10
+TextOut Arial, 25, 1072, 1140, 11
+TextOut Arial, 25, 1059, 1200, 12
+TextOut Arial, 25, 916, 1230, 13
+TextOut Arial, 25, 843, 1153, 14
+TextOut Arial, 25, 452, 303, 4.1
+TextOut Arial, 25, 513, 266, 4.2

@@ -214,3 +214,20 @@ Line 1008,459, 1016,459, 1016,209
 Line 1076,612, 1076,602, 1081,602
 Line 1081,582, 1076,582, 1076,479, 1082,479
 Line 1082,459, 1076,459, 1076,209
+
+Opaque 100
+; Выходы
+Angle 25
+PenColor FFD900
+BrushColor 615F56
+SpotRect 1096, 342, 30, 30, ShowMessage Выход №1
+SpotRect 865, 781, 30, 30
+SpotRect 593, 658, 30, 30
+SpotRect 772, 154, 30, 30
+SpotRect 888, 208, 30, 30
+BrushColor -1
+TextOut Arial, 25, 1104, 343, 1
+TextOut Arial, 25, 873, 782, 2
+TextOut Arial, 25, 601, 659, 3
+TextOut Arial, 25, 780, 155, 4
+TextOut Arial, 25, 896, 209, 5

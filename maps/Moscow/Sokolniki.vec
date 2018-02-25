@@ -142,3 +142,15 @@ PenColor 00AFAF
 BrushColor -1
 AngleTextOut -90, Arial, 15, 202, -25, '<< ÏÊèÎ "Ñîêîëüíèêè"'
 AngleTextOut -90, Arial, 15, 303, 8, 'ì-í "ÇÅÍÈÒ"'
+
+; Âûõîäû
+Angle -20
+PenColor FFD900
+BrushColor 615F56
+SpotRect 9, 250, 30, 30, ShowMessage Âûõîä ¹1
+SpotRect 215, 152, 30, 30
+SpotRect 89, 143, 30, 30
+BrushColor -1
+TextOut Arial, 25, 17, 251, 1
+TextOut Arial, 25, 223, 153, 2
+TextOut Arial, 25, 97, 144, 3

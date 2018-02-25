@@ -118,3 +118,21 @@ BrushColor -1
 AngleTextOut 55, Arial, 15, -164, 437, Кантемировская улица
 AngleTextOut 0, Arial, 15, -211, 587, Пролетарский проспект
 AngleTextOut 0, Arial, 15, 893, 595, Пролетарский проспект
+
+; Выходы
+Angle 65
+PenColor FFD900
+BrushColor 615F56
+SpotRect 70, 342, 30, 30, ShowMessage Выход №1
+SpotRect 28, 242, 30, 30
+SpotRect 378, 103, 30, 30
+SpotRect 739, 857, 30, 30
+SpotRect 775, 940, 30, 30
+SpotRect 402, 1111, 30, 30
+BrushColor -1
+TextOut Arial, 25, 78, 343, 1
+TextOut Arial, 25, 36, 243, 2
+TextOut Arial, 25, 386, 104, 3
+TextOut Arial, 25, 747, 858, 4
+TextOut Arial, 25, 783, 941, 5
+TextOut Arial, 25, 410, 1112, 6

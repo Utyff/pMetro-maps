@@ -111,3 +111,15 @@ AngleTextOut 0, Arial, 15, -214, 487, улица 1905 года
 AngleTextOut -40, Arial, 15, 730, 744, улица 1905 года
 AngleTextOut 45, Arial, 15, 855, 680, улица Красная Пресня
 AngleTextOut 45, Arial, 15, 541, 1019, Звенигородское шоссе
+
+; Выходы
+Angle 60
+PenColor FFD900
+BrushColor 615F56
+SpotRect 662, 920, 30, 30, ShowMessage Выход №1
+SpotRect 62, 263, 30, 30
+SpotRect 52, 94, 30, 30
+BrushColor -1
+TextOut Arial, 25, 670, 921, 1
+TextOut Arial, 25, 70, 264, 2
+TextOut Arial, 25, 60, 95, 3

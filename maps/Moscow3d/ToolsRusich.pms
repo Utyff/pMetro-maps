@@ -311,7 +311,7 @@ begin
 //ShowMessage('1');
     CalcWheel(TrainNumber, Clocks[TrainNumber], Wheel1X, Wheel1Y, Wheel1Z, AngleXY1, AngleZ1);
     glPushMatrix;
-    glTranslatef(Wheel1X, Wheel1Y, Wheel1Z + 130);
+    glTranslatef(Wheel1X, Wheel1Y, Wheel1Z + 125);
     glRotatef(AngleXY1, 0, 0, 1); // Поворачиваем сцену на угол вокруг оси Z
     DrawClock(t - tDeparture[TrainNumber]);
     glPopMatrix;

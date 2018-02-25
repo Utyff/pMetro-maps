@@ -202,3 +202,27 @@ Arrow 66,688, 103,688, 2
 Arrow 65,688, 26,688, 2
 PenColor FAAF0F
 Arrow 46,657, 4,657, 2
+
+; Выходы
+Angle 79
+PenColor FFD900
+BrushColor 615F56
+SpotRect 308, 219, 30, 30, ShowMessage Выход №1
+SpotRect 301, 111, 30, 30
+SpotRect 542, 73, 30, 30
+SpotRect 622, 152, 30, 30
+SpotRect 765, 887, 30, 30
+SpotRect 825, 943, 30, 30
+SpotRect 785, 1050, 30, 30
+SpotRect 468, 1054, 30, 30
+SpotRect 469, 942, 30, 30
+BrushColor -1
+TextOut Arial, 25, 316, 220, 1
+TextOut Arial, 25, 309, 112, 2
+TextOut Arial, 25, 550, 74, 3
+TextOut Arial, 25, 630, 153, 4
+TextOut Arial, 25, 773, 888, 5
+TextOut Arial, 25, 833, 944, 6
+TextOut Arial, 25, 793, 1051, 7
+TextOut Arial, 25, 476, 1055, 8
+TextOut Arial, 25, 477, 943, 9

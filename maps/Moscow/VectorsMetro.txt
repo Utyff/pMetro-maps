@@ -26,9 +26,10 @@ Type=Image
 Сокольники=Sokolniki.vec
 Преображенская площадь=Preobrazhenskaya.vec
 Черкизовская=Cherkizovskaya.vec
-Бульвар Рокоссовского=Podbelskogo.vec
+Бульвар Рокоссовского=BulvarRokossovskogo.vec
 
 [Замоскворецкая]
+Ховрино=Hovrino.vec
 Речной вокзал=RechnoyVokzal.vec
 Водный стадион=VodnyStadion.vec
 Войковская=Voykovskaya.vec

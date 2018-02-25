@@ -231,3 +231,13 @@ Spline 877,655, 890,673, 913,683
 Line 913,683, 961,685
 Line 963,760, 931,728, 962,729
 AngleTextOut 17, Arial, 10, 158, 650, пешеходная дорожка
+
+; Выходы
+Angle 68
+PenColor FFD900
+BrushColor 615F56
+SpotRect 202, 229, 30, 30, ShowMessage Выход №1
+SpotRect 518, 1000, 30, 30
+BrushColor -1
+TextOut Arial, 25, 210, 230, 1
+TextOut Arial, 25, 526, 1001, 2

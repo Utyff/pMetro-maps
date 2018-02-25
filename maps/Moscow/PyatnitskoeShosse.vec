@@ -201,10 +201,25 @@ Angle 8
 ;Opaque 100
 
 
-
-
 ; Названия улиц голубым
 PenColor 00AFAF
 BrushColor -1
 AngleTextOut 0, Arial, 15, 161, 672, Митинская улица
 AngleTextOut -90, Arial, 15, 430, 604, Пятницкое шоссе
+
+
+; Выходы
+Angle -60
+PenColor FFD900
+BrushColor 615F56
+SpotRect 596, 176, 30, 30, ShowMessage Выход №1
+SpotRect 336, 759, 30, 30
+SpotRect 366, 889, 30, 30
+SpotRect 42, 753, 30, 30
+SpotRect 74, 673, 30, 30
+BrushColor -1
+TextOut Arial, 25, 604, 177, 1
+TextOut Arial, 25, 344, 760, 2
+TextOut Arial, 25, 374, 890, 3
+TextOut Arial, 25, 50, 754, 4
+TextOut Arial, 25, 82, 674, 5

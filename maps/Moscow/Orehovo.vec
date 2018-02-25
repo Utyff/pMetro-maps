@@ -153,3 +153,15 @@ BrushColor -1
 AngleTextOut 0, Arial, 15, 227, 595, улица Баженова
 AngleTextOut -30, Arial, 15, -144, 370, Шипиловский проезд
 PenColor 000000
+
+; Выходы
+Angle 55
+PenColor FFD900
+BrushColor 615F56
+SpotRect 425, 817, 30, 30, ShowMessage Выход №1
+SpotRect 41, 261, 30, 30
+SpotRect 217, 95, 30, 30
+BrushColor -1
+TextOut Arial, 25, 433, 818, 1
+TextOut Arial, 25, 49, 262, 2
+TextOut Arial, 25, 225, 96, 3

@@ -34,7 +34,7 @@ Stairs 992,399, 1006,385, 1019,426
 Stairs 898,585, 943,585, 898,603
 Stairs 786,696, 786,645, 733,696
 
-BrushColor d0d0d0
+BrushColor D0D0D0
 Polygon 887,634, 899,634, 899,708, 887,708
 
 ; кассы
@@ -76,7 +76,7 @@ Stairs 229,906, 235,923, 193,919
 Stairs 80,805, 86,822, 45,818
 Stairs 151,953, 145,937, 115,966
 
-BrushColor d0d0d0
+BrushColor D0D0D0
 Polygon 117,633, 131,633, 131,708, 117,708
 
 ; кассы
@@ -149,7 +149,7 @@ Stairs 608,564, 591,547, 601,571
 Stairs 573,529, 465,421, 566,536
 Stairs 407,419, 422,404, 434,446
 
-BrushColor d0d0d0
+BrushColor D0D0D0
 Polygon 509,451, 541,483, 538,486, 546,494, 557,483, 549,475, 546,478, 514,446, 517,443, 509,435, 498,446, 506,454
 
 ; эскалатор 4
@@ -212,3 +212,28 @@ Arrow 639,462, 657,480
 Arrow 537,625, 519,643
 Arrow 470,443, 485,428
 
+; Выходы
+Angle 5
+PenColor FFD900
+BrushColor 615F56
+SpotRect 1007, 551, 30, 30, ShowMessage Выход №1
+SpotRect 1027, 395, 30, 30
+SpotRect 1085, 468, 30, 30
+SpotRect 135, 761, 30, 30
+SpotRect 2, 728, 30, 30
+SpotRect 10, 798, 30, 30
+SpotRect 41, 859, 30, 30
+SpotRect 175, 899, 30, 30
+SpotRect 78, 930, 30, 30
+SpotRect 442, 358, 30, 30
+BrushColor -1
+TextOut Arial, 25, 1015, 552, 1
+TextOut Arial, 25, 1035, 396, 2
+TextOut Arial, 25, 1093, 469, 3
+TextOut Arial, 25, 143, 762, 4
+TextOut Arial, 25, 10, 729, 5
+TextOut Arial, 25, 18, 799, 6
+TextOut Arial, 25, 49, 860, 7
+TextOut Arial, 25, 183, 900, 8
+TextOut Arial, 25, 86, 931, 9
+TextOut Arial, 25, 444, 361, 10

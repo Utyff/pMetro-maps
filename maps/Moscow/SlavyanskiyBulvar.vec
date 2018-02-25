@@ -178,3 +178,17 @@ Stairs 1076,1151, 1056,1151, 1076,1173
 PenColor D8D8D8
 Line 1055,1014, 1026,1014, 1026,1147
 Line 1055,1035, 1052,1035, 1052,1147
+
+; Выходы
+Angle -20
+PenColor FFD900
+BrushColor 615F56
+SpotRect 178, 898, 30, 30, ShowMessage Выход №1
+SpotRect 994, 31, 30, 30
+SpotRect 1238, 189, 30, 30
+SpotRect 1098, 717, 30, 30
+BrushColor -1
+TextOut Arial, 25, 186, 899, 1
+TextOut Arial, 25, 1002, 32, 2
+TextOut Arial, 25, 1246, 190, 3
+TextOut Arial, 25, 1106, 718, 4

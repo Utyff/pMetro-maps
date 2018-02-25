@@ -131,3 +131,12 @@ AngleTextOut 10, Arial, 15, 565, 533, 4-й Вешняковский проезд
 AngleTextOut 13, Arial, 15, 659, 876, улица Вострухина
 AngleTextOut 13, Arial, 15, 171, 1019, улица Скрябина
 
+; Выходы
+Angle -67
+PenColor FFD900
+BrushColor 615F56
+SpotRect 244, 671, 30, 30, ShowMessage Выход №1
+SpotRect 454, 172, 30, 30
+BrushColor -1
+TextOut Arial, 25, 252, 672, 1
+TextOut Arial, 25, 462, 173, 2

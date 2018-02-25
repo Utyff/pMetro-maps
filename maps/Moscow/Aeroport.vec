@@ -45,7 +45,7 @@ Stairs 208,606, 208,594, 174,606
 Stairs 72,631, 72,611, 110,631
 Stairs 126,263, 153,263, 126,225
 
-BrushColor d0d0d0
+BrushColor D0D0D0
 Polygon 162,487, 173,487, 173,493, 162,493
 
 ; эскалатор 2 гор
@@ -156,3 +156,17 @@ BrushColor -1
 AngleTextOut 0, Arial, 15, 159, 573, закрыто
 Dashed 151,565, 214,565, 214,608, 151,608, 151,565
 BrushColor 000000
+
+; Выходы
+Angle 38
+PenColor FFD900
+BrushColor 615F56
+SpotRect 453, 170, 30, 30, ShowMessage Выход №1
+SpotRect 260, 1, 30, 30
+SpotRect 30, 248, 30, 30
+SpotRect 803, 454, 30, 30
+BrushColor -1
+TextOut Arial, 25, 461, 171, 1
+TextOut Arial, 25, 268, 2, 2
+TextOut Arial, 25, 38, 249, 3
+TextOut Arial, 25, 811, 455, 4

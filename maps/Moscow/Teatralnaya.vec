@@ -602,17 +602,46 @@ AngleTextOut 45, Arial, 15, 372, 744, улица Охотный ряд
 AngleTextOut 45, Arial, 15, 104, 846, '<< ТК "Охотный ряд"'
 AngleTextOut 45, Arial, 15, 222, 861, '<< ТК "Охотный ряд"'
 
-;Opaque 70
-; "закрыто"
-;PenColor FFD0D0
-;BrushColor FFD0D0
-;Polygon 1776,940, 1776,996, 1636,996, 1636,1030, 1776,1030, 1776,1132, 1916,1132, 1916,940
-;PenColor FF4040
+; Выходы
+Angle 0
+PenColor FFD900
+BrushColor 615F56
+SpotRect 51, 814, 30, 30, ShowMessage Выход №1
+SpotRect 41, 668, 30, 30
+SpotRect 203, 514, 30, 30
+SpotRect 253, 550, 30, 30
+SpotRect 385, 772, 30, 30
+SpotRect 427, 824, 30, 30
+SpotRect 732, 1098, 30, 30
+SpotRect 590, 105, 30, 30
+SpotRect 800, 116, 30, 30
+SpotRect 1025, 984, 30, 30
+SpotRect 1848, 1110, 30, 30
+SpotRect 204, 874, 30, 30
+BrushColor -1
+TextOut Arial, 25, 59, 815, 1
+TextOut Arial, 25, 49, 669, 2
+TextOut Arial, 25, 211, 515, 3
+TextOut Arial, 25, 261, 551, 4
+TextOut Arial, 25, 393, 773, 5
+TextOut Arial, 25, 435, 825, 6
+TextOut Arial, 25, 740, 1099, 7
+TextOut Arial, 25, 598, 106, 8
+TextOut Arial, 25, 808, 117, 9
+TextOut Arial, 25, 1027, 985, 10
+TextOut Arial, 25, 1850, 1111, 11
+TextOut Arial, 25, 206, 875, 12
 
-;Opaque 100
-;PenColor FF4040
-;BrushColor -1
-;AngleTextOut 0, Arial, 15, 1821, 1004, Закрыто на
-;AngleTextOut 0, Arial, 15, 1809, 1026, реконструкцию
-;Dashed 1776,940, 1776,996, 1636,996, 1636,1030, 1776,1030, 1776,1132, 1916,1132, 1916,940, 1776,940
-;BrushColor 000000
+Opaque 70
+ "закрыто"
+PenColor FFD0D0
+BrushColor FFD0D0
+Polygon 349,876, 372,853, 605,1086, 769,1087, 769,1192, 665,1192
+PenColor FF4040
+
+Opaque 100
+PenColor FF4040
+BrushColor -1
+AngleTextOut 0, Arial, 15, 644, 1134, Закрыто
+Dashed 349,876, 372,853, 605,1086, 769,1087, 769,1192, 665,1192, 349,876
+BrushColor 000000

@@ -218,3 +218,17 @@ BrushColor -1
 AngleTextOut -90, Arial, 15, 879, 351, 'спорт.комплекс "Лужники"'
 AngleTextOut -62, Arial, 15, 171, 226, Воробьёвская набережная
 AngleTextOut -62, Arial, 15, -174, 445, Воробьёвы горы
+
+; Выходы
+Angle -50
+PenColor FFD900
+BrushColor 615F56
+SpotRect 189, 585, 30, 30, ShowMessage Выход №1
+SpotRect 23, 838, 30, 30
+SpotRect 591, 92, 30, 30
+SpotRect 713, 191, 30, 30
+BrushColor -1
+TextOut Arial, 25, 197, 586, 1
+TextOut Arial, 25, 31, 839, 2
+TextOut Arial, 25, 599, 93, 3
+TextOut Arial, 25, 721, 192, 4

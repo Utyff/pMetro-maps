@@ -126,3 +126,26 @@ PenColor 00AFAF
 BrushColor -1
 AngleTextOut 0, Arial, 15, -355, 643, Осенний бульвар
 AngleTextOut 0, Arial, 15, 747, 641, Осенний бульвар
+
+
+; Выходы
+Angle 85
+PenColor FFD900
+BrushColor 615F56
+SpotRect 74, 329, 30, 30, ShowMessage Выход №1
+SpotRect 59, 165, 30, 30
+SpotRect 311, 45, 30, 30
+SpotRect 323, 154, 30, 30
+SpotRect 394, 928, 30, 30
+SpotRect 366, 1080, 30, 30
+SpotRect 141, 1097, 30, 30
+SpotRect 129, 960, 30, 30
+BrushColor -1
+TextOut Arial, 25, 82, 330, 1
+TextOut Arial, 25, 67, 166, 2
+TextOut Arial, 25, 319, 46, 3
+TextOut Arial, 25, 331, 155, 4
+TextOut Arial, 25, 402, 929, 5
+TextOut Arial, 25, 374, 1081, 6
+TextOut Arial, 25, 149, 1098, 7
+TextOut Arial, 25, 137, 961, 8

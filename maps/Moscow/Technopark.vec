@@ -119,3 +119,25 @@ Stairs 58,282, 58,299, 44,282
 Stairs 58,393, 58,410, 44,393
 PenColor FF0000
 Stairs 125,322, 129,322, 125,372
+
+; Выходы
+Angle 82
+PenColor FFD900
+BrushColor 615F56
+SpotRect 284, 641, 30, 30, ShowMessage Выход №1
+SpotRect 211, 324, 30, 30
+SpotRect 198, 250, 30, 30
+SpotRect 167, 47, 30, 30
+SpotRect 371, 29, 30, 30
+SpotRect 391, 239, 30, 30
+SpotRect 410, 317, 30, 30
+SpotRect 426, 623, 30, 30
+BrushColor -1
+TextOut Arial, 25, 292, 642, 1
+TextOut Arial, 25, 219, 325, 2
+TextOut Arial, 25, 206, 251, 3
+TextOut Arial, 25, 175, 48, 4
+TextOut Arial, 25, 379, 30, 5
+TextOut Arial, 25, 399, 240, 6
+TextOut Arial, 25, 418, 318, 7
+TextOut Arial, 25, 434, 624, 8

@@ -112,3 +112,17 @@ AngleTextOut 0, Arial, 15, 170, 114, проспект
 AngleTextOut 0, Arial, 15, 679, 103, Волгоградский
 AngleTextOut 0, Arial, 15, 688, 116, проспект
 AngleTextOut 46, Arial, 15, 634, 484, Новоостаповская улица
+
+; Выходы
+Angle 30
+PenColor FFD900
+BrushColor 615F56
+SpotRect 768, 579, 30, 30, ShowMessage Выход №1
+SpotRect 634, 614, 30, 30
+SpotRect 95, 276, 30, 30
+SpotRect 7, 223, 30, 30
+BrushColor -1
+TextOut Arial, 25, 776, 580, 1
+TextOut Arial, 25, 642, 615, 2
+TextOut Arial, 25, 103, 277, 3
+TextOut Arial, 25, 15, 224, 4

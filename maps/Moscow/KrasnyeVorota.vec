@@ -1,8 +1,5 @@
 Size 900x970
 
-;BrushColor 007700
-;SpotCircle 50, 730, 577
-
 Angle 40
 
 ; пути
@@ -189,21 +186,12 @@ AngleTextOut -90, Arial, 15, 353, 646, Садовая-Черногрязская улица
 AngleTextOut 30, Arial, 15, 884, 523, площадь Красные Ворота
 
 
-Opaque 70
-; "закрыто"
-PenColor FFD0D0
-BrushColor FFD0D0
-Polygon 460,465, 615,465, 960,266, 1020,370, 649,584, 615,525, 460,525
-PenColor FF4040
-
-Opaque 100
+; Выходы
+Angle -40
+PenColor FFD900
+BrushColor 615F56
+SpotRect 322, 790, 30, 30, ShowMessage Выход №1
+SpotRect 765, 101, 30, 30
 BrushColor -1
-PenColor 000000
-AngleTextOut 30, Arial, 20, 676, 457, Вестибюль закрыт на ремонт, 1
-AngleTextOut 30, Arial, 20, 715, 459, до июля 2017 года, 1
-PenColor FF4040
-AngleTextOut 30, Arial, 20, 675, 456, Вестибюль закрыт на ремонт, 1
-AngleTextOut 30, Arial, 20, 714, 458, до июля 2017 года, 1
-Dashed 460,465, 615,465, 960,266, 1020,370, 649,584, 615,525, 460,525, 460,465
-BrushColor 000000
-
+TextOut Arial, 25, 330, 791, 1
+TextOut Arial, 25, 773, 102, 2

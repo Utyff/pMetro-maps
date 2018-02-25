@@ -74,3 +74,12 @@ AngleTextOut -50, Arial, 15, 215, 595, Казанского направления ж/д
 PenColor 040464
 TextOut Arial, 15, 243, 748, 'Схема ж/д пл. "Электрозаводская"', 5
 SpotRect 243, 748, 250, 15, LoadVec ElectrozavodskayaZhD.vec
+
+
+; Выходы
+Angle -25
+PenColor FFD900
+BrushColor 615F56
+SpotRect 574, 320, 30, 30, ShowMessage Выход №1
+BrushColor -1
+TextOut Arial, 25, 582, 321, 1

@@ -18,7 +18,7 @@ Stairs 654,260, 654,242, 625,260
 Stairs 298,602, 316,602, 298,573
 Stairs 298,654, 316,654, 298,687
 
-BrushColor d0d0d0
+BrushColor D0D0D0
 Polygon 688,260, 688,366, 675,360, 675,260
 Polygon 316,620, 422,620, 432,635, 316,635
 
@@ -275,3 +275,19 @@ AngleTextOut -90, Arial, 15, 176, 507, Дубининская улица
 AngleTextOut 0, Arial, 15, 641, 450, улица Зацепский вал
 AngleTextOut 0, Arial, 15, 641, 465, (Садовое кольцо)
 AngleTextOut -30, Arial, 15, 477, 836, Павелецкая площадь
+
+
+
+; Выходы
+Angle -30
+PenColor FFD900
+BrushColor 615F56
+SpotRect 28, 371, 30, 30, ShowMessage Выход №1
+SpotRect 270, 445, 30, 30
+SpotRect 665, 992, 30, 30
+SpotRect 587, 909, 30, 30
+BrushColor -1
+TextOut Arial, 25, 36, 372, 1
+TextOut Arial, 25, 278, 446, 2
+TextOut Arial, 25, 665, 993, 3.1
+TextOut Arial, 25, 587, 910, 3.2

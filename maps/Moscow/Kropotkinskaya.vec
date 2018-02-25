@@ -130,3 +130,15 @@ AngleTextOut -45, Arial, 15, 581, 885, Храм Христа Спасителя
 AngleTextOut -90, Arial, 15, 998, 289, Музей Пушкина
 AngleTextOut -90, Arial, 15, 48, 179, Гоголевский бульвар
 AngleTextOut -90, Arial, 15, 199, 179, Гоголевский бульвар
+
+; Выходы
+Angle -45
+PenColor FFD900
+BrushColor 615F56
+SpotRect 20, 502, 30, 30, ShowMessage Выход №1
+SpotRect 980, 325, 30, 30
+SpotRect 991, 467, 30, 30
+BrushColor -1
+TextOut Arial, 25, 28, 503, 1
+TextOut Arial, 25, 988, 326, 2
+TextOut Arial, 25, 999, 468, 3
