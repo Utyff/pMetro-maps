@@ -598,3 +598,16 @@ BrushColor -1
 AngleTextOut 0, Arial, 15, 526, 660, Строится
 Dashed 147,635, 234,583, 399,583, 399,608, 851,608, 851,633, 941,633, 941,805, 125,804, 125,689, 147,635
 
+; Выходы
+Angle -30
+PenColor FFD900
+BrushColor 615F56
+SpotRect 284, 482, 30, 30, ShowMessage Выход №1
+SpotRect 1385, 284, 30, 30, ShowMessage Выход №1
+SpotRect 1503, 761, 30, 30, ShowMessage Выход №1
+SpotRect 595, 1039, 30, 30, ShowMessage Выход №1
+BrushColor -1
+TextOut Arial, 25, 292, 483, 1
+TextOut Arial, 25, 1393, 285, 2
+TextOut Arial, 25, 1511, 762, 3
+TextOut Arial, 25, 603, 1040, 4

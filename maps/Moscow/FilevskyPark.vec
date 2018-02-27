@@ -120,3 +120,13 @@ TextOut Arial, 8, 21, 149, нижний ярус
 PenColor 000000
 BrushColor FFFFFF
 
+
+; Выходы
+Angle -25
+PenColor FFD900
+BrushColor 615F56
+SpotRect 270, 155, 30, 30, ShowMessage Выход №1
+SpotRect 196, 192, 30, 30
+BrushColor -1
+TextOut Arial, 25, 278, 156, 1
+TextOut Arial, 25, 204, 193, 2

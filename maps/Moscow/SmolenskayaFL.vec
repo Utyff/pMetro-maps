@@ -145,3 +145,13 @@ BrushColor -1
 AngleTextOut 0, Arial, 15, 334, 218, Закрыто
 Dashed 298,242, 298,213, 340,213, 340,155, 386,155, 386,213, 429,213, 429,242, 386,242, 386,299, 340,299, 340,242, 298,242
 BrushColor 000000
+
+
+
+; Выходы
+Angle -7
+PenColor FFD900
+BrushColor 615F56
+SpotRect 149, 109, 30, 30, ShowMessage Выход №1
+BrushColor -1
+TextOut Arial, 25, 157, 110, 1

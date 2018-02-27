@@ -87,7 +87,7 @@ Stairs 445,1035, 445,1011, 483,1035
 Stairs 513,802, 567,802, 513,848
 Stairs 513,711, 567,711, 513,757
 
-BrushColor d0d0d0
+BrushColor D0D0D0
 Polygon 567,709, 571,709, 571,757, 567,757
 Polygon 513,709, 509,709, 509,757, 513,757
 
@@ -181,3 +181,11 @@ BrushColor -1
 AngleTextOut 0, Arial, 15, 237, 1017, Закрыто
 Dashed 199,1038, 199,1009, 241,1009, 241,956, 282,956, 282,1009, 324,1009, 324,1038, 282,1038, 282,1090, 241,1090, 241,1038, 199,1038
 BrushColor 000000
+
+
+; Выходы
+PenColor FFD900
+BrushColor 615F56
+SpotRect 526, 543, 30, 30, ShowMessage Выход №1
+BrushColor -1
+TextOut Arial, 25, 534, 544, 1

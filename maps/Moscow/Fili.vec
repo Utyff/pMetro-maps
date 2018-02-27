@@ -112,7 +112,7 @@ Line 708,366, 708,346
 Stairs 504,315, 504,282, 550,315
 Stairs 504,472, 504,438, 550,472
 
-BrushColor d0d0d0
+BrushColor D0D0D0
 Polygon 552,346, 552,321, 440,321, 440,315, 558,315, 558,438, 440,438, 440,433, 552,433, 552,409
 
 ; кассы
@@ -183,5 +183,19 @@ PenColor 040464
 TextOut Arial, 15, 89, 750, 'Схема перехода к ж/д платформе "Фили"', 5
 SpotRect 89, 750, 250, 15, LoadVec FiliZ.vec
 PenColor 000000
-BrushColor 0
+BrushColor 000000
 
+; Выходы
+PenColor FFD900
+BrushColor 615F56
+SpotRect 8, 139, 30, 30, ShowMessage Выход №1
+SpotRect 210, 4, 30, 30
+SpotRect 353, 670, 40, 30
+SpotRect 563, 511, 40, 30
+SpotRect 574, 707, 30, 30
+BrushColor -1
+TextOut Arial, 25, 16, 140, 1
+TextOut Arial, 25, 218, 5, 2
+TextOut Arial, 25, 361, 671, 3.1
+TextOut Arial, 25, 571, 512, 3.2
+TextOut Arial, 25, 582, 708, 3

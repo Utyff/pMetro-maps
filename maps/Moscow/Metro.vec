@@ -9,33 +9,36 @@ PenColor 040464
 AngleTextOut 0, Arial, 34, 126, -1, СХЕМА ЛИНИЙ СКОРОСТНОГО ТРАНСПОРТА МОСКВЫ, 1
 
 PenColor E41C0C
-AngleTextOut 0, Arial, 16, 102, 1053, Сокольническая, 1
+AngleTextOut 0, Arial, 16, 102, 1053, 1 Сокольническая, 1
 PenColor 046434
-AngleTextOut 0, Arial, 16, 102, 1071, Замоскворецкая, 1
+AngleTextOut 0, Arial, 16, 102, 1071, 2 Замоскворецкая, 1
 PenColor 34349C
-AngleTextOut 0, Arial, 16, 102, 1089, Арбатско-Покровская, 1
+AngleTextOut 0, Arial, 16, 102, 1089, 3 Арбатско-Покровская, 1
 PenColor 1C54BC
-AngleTextOut 0, Arial, 16, 102, 1107, Филевская, 1
+AngleTextOut 0, Arial, 16, 102, 1107, 4 Филевская, 1
 PenColor 543C04
-AngleTextOut 0, Arial, 16, 102, 1125, Кольцевая, 1
+AngleTextOut 0, Arial, 16, 102, 1125, 5 Кольцевая, 1
 PenColor F7782E
-AngleTextOut 0, Arial, 16, 102, 1143, Калужско-Рижская, 1
+AngleTextOut 0, Arial, 16, 102, 1143, 6 Калужско-Рижская, 1
 PenColor AC24AC
-AngleTextOut 0, Arial, 16, 102, 1161, Таганско-Краснопресненская, 1
+AngleTextOut 0, Arial, 16, 102, 1161, 7 Таганско-Краснопресненская, 1
 PenColor F49E01
-AngleTextOut 0, Arial, 16, 102, 1179, Калининско-Солнцевская, 1
+AngleTextOut 0, Arial, 16, 102, 1179, 8 Калининско-Солнцевская, 1
 PenColor 4C4C4C
-AngleTextOut 0, Arial, 16, 102, 1197, Серпуховско-Тимирязевская, 1
+AngleTextOut 0, Arial, 16, 102, 1197, 9 Серпуховско-Тимирязевская, 1
 PenColor 5C9F2E
-AngleTextOut 0, Arial, 16, 102, 1215, Люблинско-Дмитровская, 1
+AngleTextOut 0, Arial, 16, 102, 1215, 10 Люблинско-Дмитровская, 1
 PenColor 34649C
-AngleTextOut 0, Arial, 16, 102, 1233, Каховская, 1
+AngleTextOut 0, Arial, 16, 102, 1233, 11 Каховская, 1
 PenColor 2D69FC
-AngleTextOut 0, Arial, 16, 102, 1251, Бутовская, 1
+AngleTextOut 0, Arial, 16, 102, 1251, Л1 Бутовская, 1
 PenColor 84ACBC
-AngleTextOut 0, Arial, 16, 102, 1277, Монорельс, 1
+AngleTextOut 0, Arial, 16, 102, 1277, М1 Монорельс, 1
 PenColor DE7272
 AngleTextOut 0, Arial, 16, 101, 1305, МЦК, 1
+PenColor 21A097
+AngleTextOut 0, Arial, 16, 101, 1323, БКЛ, 1
+
 
 
 PenColor 040464

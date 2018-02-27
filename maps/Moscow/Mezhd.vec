@@ -254,3 +254,19 @@ AngleTextOut 5, Arial, 15, 685, 461, Комплекс IQ-квартал
 
 PenColor 000000
 
+; Выходы
+PenColor FFD900
+BrushColor 615F56
+SpotRect 273, 270, 30, 30, ShowMessage Выход №1
+SpotRect 326, 25, 30, 30, ShowMessage Выход №1
+SpotRect 355, 351, 30, 30, ShowMessage Выход №1
+SpotRect 251, 414, 30, 30, ShowMessage Выход №1
+SpotRect -5, 433, 30, 30, ShowMessage Выход №1
+SpotRect 733, 476, 30, 30, ShowMessage Выход №1
+BrushColor -1
+TextOut Arial, 25, 281, 271, 1
+TextOut Arial, 25, 334, 26, 2
+TextOut Arial, 25, 363, 352, 3
+TextOut Arial, 25, 259, 415, 4
+TextOut Arial, 25, 3, 434, 5
+TextOut Arial, 25, 741, 477, 6
