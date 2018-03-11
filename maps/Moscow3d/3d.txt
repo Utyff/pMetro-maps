@@ -148,8 +148,6 @@ Type=3dImage
 Планерная=Planernaya.pm3d
 
 [Калининско-Солнцевская]
-Парк Победы=ParkPobedy.pm3d,ParkPobedy2.pms
-;Деловой центр=
 Третьяковская=Tretyakovskaya.pm3d
 Марксистская=Taganskaya.pm3d,TaganskayaEzh.pms,TaganskayaKoltsevaya.pms
 Площадь Ильича=PloschadIlyicha.pm3d
@@ -158,6 +156,9 @@ Type=3dImage
 Перово=Perovo.pm3d
 Новогиреево=Novogireevo.pm3d
 Новокосино=Novokosino.pm3d
+
+[Солнцевская]
+Парк Победы=ParkPobedy.pm3d,ParkPobedy2.pms
 
 [Серпуховско-Тимирязевская]
 Бульвар Дмитрия Донского=BulvarDmitriaDonskogo.pm3d,BulvarDmitriaDonskogo2.pms
