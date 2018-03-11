@@ -226,3 +226,15 @@ AngleTextOut -90, Arial, 15, 489, 964, улица
 AngleTextOut 80, Arial, 15, 249, 366, Люсиновская улица
 AngleTextOut 0, Arial, 15, 641, 959, Стремянный переулок
 AngleTextOut 0, Arial, 15, 97, -1, улица Коровий Вал
+
+; Выходы
+Angle -5
+PenColor FFD900
+BrushColor 615F56
+SpotRect 134, 173, 30, 30, ShowMessage Выход №1
+SpotRect 625, 855, 30, 30
+SpotRect 271, 888, 30, 30
+BrushColor -1
+TextOut Arial, 25, 142, 174, 1
+TextOut Arial, 25, 633, 856, 2
+TextOut Arial, 25, 279, 889, 3

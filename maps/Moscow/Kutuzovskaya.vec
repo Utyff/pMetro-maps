@@ -62,12 +62,12 @@ Stairs 70,299, 70,274, 116,299
 Stairs 181,438, 179,390, 186,438
 Stairs 174,282, 176,325, 180,282
 
-BrushColor d0d0d0
+BrushColor D0D0D0
 Polygon 127,304, 127,299, 66,299, 66,422, 126,422, 126,417, 72,417, 72,304
 
 ; касса
-PenColor d0d0d0
-BrushColor d0d0d0
+PenColor D0D0D0
+BrushColor D0D0D0
 Polygon 33,306, 33,414, 29,422, 21,425, 12,422, 8,414, 10,406, 16,401, 16,320, 10,315, 8,308, 12,299, 21,296, 29,299
 PenColor 000000
 Line 16,320, 16,401
@@ -121,12 +121,12 @@ Line 551,218, 561,215
 Stairs 516,390, 509,364, 472,401
 Stairs 478,248, 471,222, 437,259
 
-BrushColor d0d0d0
+BrushColor D0D0D0
 Polygon 424,265, 423,260, 481,245, 513,363, 455,379, 454,374, 506,360, 477,251
 
 ; касса
-PenColor d0d0d0
-BrushColor d0d0d0
+PenColor D0D0D0
+BrushColor D0D0D0
 Polygon 515,243, 543,347, 549,354, 558,355, 565,349, 567,341, 563,333, 556,330, 535,252, 540,246, 540,238, 534,231, 524,230, 517,235
 PenColor 000000
 Line 535,252, 556,330
@@ -174,3 +174,14 @@ AngleTextOut 0, Arial, 15, 17, 132, Киевская улица
 AngleTextOut 10, Arial, 15, 203, 210, 3 транспортное кольцо
 AngleTextOut 110, Arial, 15, 244, 146, Кутузовский проспект
 AngleTextOut 100, Arial, 15, 337, 629, Кутузовский проспект
+
+
+; Выходы
+Angle 75
+PenColor FFD900
+BrushColor 615F56
+SpotRect 283, 28, 30, 30, ShowMessage Выход №1
+SpotRect 470, 499, 30, 30
+BrushColor -1
+TextOut Arial, 25, 291, 29, 1
+TextOut Arial, 25, 478, 500, 2
