@@ -166,7 +166,8 @@ Type=Image
 Площадь Ильича=Rimskaya.vec
 Марксистская=Taganskaya.vec
 Третьяковская=Tretyakovskaya.vec
-Деловой центр=Vystavochnaya.vec
+
+[Солнцевская]
 Парк Победы=ParkPobedy.vec
 Минская=Minskaya.vec
 Ломоносовский проспект=LomonosovskyPr.vec
@@ -243,3 +244,6 @@ Type=Image
 Выставочный центр=VystavochnyCentr.vec\nVDNH-VystavochnyCentr.vec
 Улица Сергея Эйзенштейна=UlitsaSergeyaEizenshteina.vec
 
+
+[БКЛ]
+Деловой центр=Vystavochnaya.vec

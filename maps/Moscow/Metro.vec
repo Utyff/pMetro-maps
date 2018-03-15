@@ -1,5 +1,5 @@
 Size 1160x1360
-;Image 1.png
+Image 1.png
 PenColor B4E3EB
 ; река
 ;Spline 677,678, 696,649, 712,638, 741,635, 787,628, 817,621, 852,601, 864,588, 866,580, 862,559, 850,542, 827,522, 816,494, 814,458, 823,432, 830,419, 827,400, 817,391, 798,380, 788,368, 789,350, 791,331, 783,308, 771,296, 753,281, 746,267, 738,246, 719,227, 690,215, 665,203, 654,185, 659,170, 679,157, 698,146, 713,133, 730,114, 739,95, 5
@@ -87,9 +87,6 @@ TextOut Arial, 20, 132, 566, 4, 1
 SpotRect 70, 466, 20, 20, SelectRoute Филевская
 TextOut Arial, 20, 75, 466, 4, 1
 
-SpotRect 767, 459, 20, 20, SelectRoute Кольцевая
-TextOut Arial, 20, 772, 459, 5, 1
-
 SpotRect 419, 352, 20, 20, SelectRoute Кольцевая
 TextOut Arial, 20, 424, 352, 5, 1
 
@@ -111,8 +108,8 @@ TextOut Arial, 20, 182, 89, 7, 1
 SpotRect 1075, 411, 20, 20, SelectRoute Калининско-Солнцевская
 TextOut Arial, 20, 1080, 411, 8, 1
 
-SpotRect 73, 704, 20, 20, SelectRoute Калининско-Солнцевская
-TextOut Arial, 20, 78, 704, 8, 1
+SpotRect 31, 865, 20, 20, SelectRoute Калининско-Солнцевская
+TextOut Arial, 20, 36, 865, 8, 1
 
 SpotRect 507, 37, 20, 20, SelectRoute Серпуховско-Тимирязевская
 TextOut Arial, 20, 512, 37, 9, 1
@@ -123,8 +120,8 @@ TextOut Arial, 20, 502, 1219, 9, 1
 SpotRect 852, 1278, 20, 20, SelectRoute Люблинско-Дмитровская
 TextOut Arial, 20, 856, 1278, 10, 1
 
-SpotRect 502, 182, 20, 20, SelectRoute Люблинско-Дмитровская
-TextOut Arial, 20, 507, 182, 10, 1
+SpotRect 475, 60, 20, 20, SelectRoute Люблинско-Дмитровская
+TextOut Arial, 20, 480, 60, 10, 1
 
 SpotRect 643, 1056, 20, 20, SelectRoute Каховская
 TextOut Arial, 20, 648, 1056, 11, 1

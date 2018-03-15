@@ -1,0 +1,8 @@
+[Options]
+AddToInfo=0
+CityName=Самара
+MenuName=Разное\Проезд к аэропортам
+MenuImage=Airplane_logo.vec
+
+[1]
+Кировская

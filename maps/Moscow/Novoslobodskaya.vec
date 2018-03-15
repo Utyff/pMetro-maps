@@ -252,3 +252,16 @@ AngleTextOut 0, Arial, 15, 372, 1195, Селезневская улица
 AngleTextOut -100, Arial, 15, 243, 435, Новослободская улица
 PenColor 000000
 
+; Выходы
+Angle -20
+PenColor FFD900
+BrushColor 615F56
+SpotRect 248, 1144, 30, 30, ShowMessage Выход №1
+SpotRect 72, 365, 30, 30
+SpotRect 50, 248, 30, 30
+SpotRect 209, 10, 30, 30
+BrushColor -1
+TextOut Arial, 25, 256, 1145, 1
+TextOut Arial, 25, 80, 366, 2
+TextOut Arial, 25, 58, 249, 3
+TextOut Arial, 25, 217, 11, 4
