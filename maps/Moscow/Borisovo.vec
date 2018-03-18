@@ -161,3 +161,12 @@ PenColor 00AFAF
 BrushColor -1
 AngleTextOut -59, Arial, 15, -141, 507, Братеевский проезд
 
+; Выходы
+Angle -65
+PenColor FFD900
+BrushColor 615F56
+SpotRect 192, 716, 30, 30, ShowMessage Выход №1
+SpotRect 508, 166, 30, 30
+BrushColor -1
+TextOut Arial, 25, 200, 717, 1
+TextOut Arial, 25, 516, 167, 2

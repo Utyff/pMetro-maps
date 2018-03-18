@@ -88,6 +88,7 @@ Line -167,418, -167,429, -97,429, -97,436, -106,436, -106,479, -97,479, -97,487,
 PenColor 00AFAF
 BrushColor -1
 AngleTextOut 0, Arial, 15, 408, 346, Шарикоподшипниковская ул.
+AngleTextOut 0, Arial, 15, 676, 323, к МЦК -->
 
 ; стрелки
 PenColor FF0000
@@ -97,3 +98,14 @@ PenColor 009900
 Arrow 190,448, 168,448
 Arrow 417,422, 404,435
 
+; Выходы
+Angle 70
+PenColor FFD900
+BrushColor 615F56
+SpotRect 478, 659, 30, 30, ShowMessage Выход №1
+SpotRect 439, 739, 30, 30
+SpotRect 158, 768, 30, 30
+BrushColor -1
+TextOut Arial, 25, 486, 660, 1
+TextOut Arial, 25, 447, 740, 2
+TextOut Arial, 25, 166, 769, 3

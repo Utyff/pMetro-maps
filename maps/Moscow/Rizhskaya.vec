@@ -130,3 +130,11 @@ AngleTextOut 0, Arial, 15, 284, 592, Проспект Мира
 AngleTextOut 0, Arial, 15, 279, 365, Рижская площадь
 AngleTextOut -90, Arial, 15, 122, 762, улица Сущёвский Вал
 AngleTextOut -90, Arial, 15, 119, 326, улица Сущёвский Вал
+
+; Выходы
+Angle -90
+PenColor FFD900
+BrushColor 615F56
+SpotRect 832, 736, 30, 30, ShowMessage Выход №1
+BrushColor -1
+TextOut Arial, 25, 840, 737, 1

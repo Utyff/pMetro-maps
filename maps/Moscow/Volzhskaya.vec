@@ -110,3 +110,17 @@ Arrow 182,294, 168,294
 PenColor 009900
 Arrow 819,239, 809,249
 Arrow 126,232, 140,232
+
+; Выходы
+Angle 20
+PenColor FFD900
+BrushColor 615F56
+SpotRect 946, 279, 30, 30, ShowMessage Выход №1
+SpotRect 1104, 147, 30, 30
+SpotRect 129, 234, 30, 30
+SpotRect 16, 191, 30, 30
+BrushColor -1
+TextOut Arial, 25, 954, 280, 1
+TextOut Arial, 25, 1112, 148, 2
+TextOut Arial, 25, 137, 235, 3
+TextOut Arial, 25, 24, 192, 4

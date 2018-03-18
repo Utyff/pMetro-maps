@@ -84,7 +84,7 @@ Stairs 646,514, 640,514, 646,541
 
 ; кассы
 BrushColor -1
-PenColor 
+PenColor 000000
 Line 585,604, 577,604, 577,631, 585,631
 AngleTextOut -90, Arial, 10, 588, 605, кассы
 
@@ -119,3 +119,19 @@ AngleTextOut 0, Arial, 15, 725, 562, Азовская улица
 AngleTextOut 0, Arial, 15, -249, 562, Азовская улица
 AngleTextOut -90, Arial, 15, 381, 676, Фруктовая улица
 AngleTextOut -65, Arial, 15, 926, 458, Нахимовский проспект
+
+; Выходы
+Angle -60
+PenColor FFD900
+BrushColor 615F56
+SpotRect 267, 988, 30, 30, ShowMessage Выход №1
+SpotRect 49, 958, 30, 30
+SpotRect 383, 218, 30, 30
+SpotRect 427, 87, 30, 30
+SpotRect 622, 247, 30, 30
+BrushColor -1
+TextOut Arial, 25, 275, 989, 1
+TextOut Arial, 25, 57, 959, 2
+TextOut Arial, 25, 391, 219, 3
+TextOut Arial, 25, 435, 88, 4
+TextOut Arial, 25, 630, 248, 5

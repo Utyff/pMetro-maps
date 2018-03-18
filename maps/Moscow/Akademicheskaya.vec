@@ -112,3 +112,25 @@ AngleTextOut 18, Arial, 15, 701, 536, проспект 60-летия Октября
 AngleTextOut 0, Arial, 15, -246, 525, Профсоюзная улица
 AngleTextOut -90, Arial, 15, 332, 265, улица Дмитрия Ульянова
 AngleTextOut -90, Arial, 15, 332, 636, улица Дмитрия Ульянова
+
+; Выходы
+Angle -62
+PenColor FFD900
+BrushColor 615F56
+SpotRect 276, 885, 30, 30, ShowMessage Выход №1
+SpotRect 237, 961, 30, 30
+SpotRect 57, 875, 30, 30
+SpotRect 25, 771, 30, 30
+SpotRect 339, 175, 30, 30
+SpotRect 377, 112, 30, 30
+SpotRect 558, 197, 30, 30
+SpotRect 586, 292, 30, 30
+BrushColor -1
+TextOut Arial, 25, 284, 886, 1
+TextOut Arial, 25, 245, 962, 2
+TextOut Arial, 25, 65, 876, 3
+TextOut Arial, 25, 33, 772, 4
+TextOut Arial, 25, 347, 176, 5
+TextOut Arial, 25, 385, 113, 6
+TextOut Arial, 25, 566, 198, 7
+TextOut Arial, 25, 594, 293, 8

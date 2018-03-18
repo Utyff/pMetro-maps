@@ -78,3 +78,11 @@ PenColor 00AFAF
 BrushColor -1
 AngleTextOut 5, Arial, 15, -25, 587, улица Шаболовка
 AngleTextOut -85, Arial, 15, 350, 98, улица Академика Петровского
+
+; Выходы
+Angle -75
+PenColor FFD900
+BrushColor 615F56
+SpotRect 137, 646, 30, 30, ShowMessage Выход №1
+BrushColor -1
+TextOut Arial, 25, 145, 647, 1

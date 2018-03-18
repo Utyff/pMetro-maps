@@ -114,3 +114,25 @@ PenColor 00AFAF
 BrushColor -1
 AngleTextOut 0, Arial, 15, 243, 528, Профсоюзная улица
 AngleTextOut -90, Arial, 15, 319, 578, улица Миклухо-Маклая
+
+; Выходы
+Angle -70
+PenColor FFD900
+BrushColor 615F56
+SpotRect 459, 121, 30, 30, ShowMessage Выход №1
+SpotRect 419, 13, 30, 30
+SpotRect 531, 58, 30, 30
+SpotRect 573, 157, 30, 30
+SpotRect 328, 834, 30, 30
+SpotRect 301, 901, 30, 30
+SpotRect 183, 871, 30, 30
+SpotRect 215, 793, 30, 30
+BrushColor -1
+TextOut Arial, 25, 467, 122, 1
+TextOut Arial, 25, 427, 14, 2
+TextOut Arial, 25, 539, 59, 3
+TextOut Arial, 25, 581, 158, 4
+TextOut Arial, 25, 336, 835, 5
+TextOut Arial, 25, 309, 902, 6
+TextOut Arial, 25, 191, 872, 7
+TextOut Arial, 25, 223, 794, 8

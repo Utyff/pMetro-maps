@@ -80,3 +80,11 @@ AngleTextOut 0, Arial, 15, 172, 56, улица адмирала Лазарева
 AngleTextOut 0, Arial, 15, 172, 505, Южнобутовская улица
 AngleTextOut 0, Arial, 15, 902, 286, Бульвар адмирала Ушакова
 AngleTextOut -90, Arial, 15, 846, 240, Веневская улица
+
+; Выходы
+Angle -30
+PenColor FFD900
+BrushColor 615F56
+SpotRect 18, 536, 30, 30, ShowMessage Выход №1
+BrushColor -1
+TextOut Arial, 25, 26, 537, 1

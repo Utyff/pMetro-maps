@@ -178,4 +178,16 @@ AngleTextOut 0, Arial, 15, 1002, 457, Огородный пр-д
 AngleTextOut 0, Arial, 15, -184, 455, Огородный пр-д
 AngleTextOut 45, Arial, 15, 181, 667, ул. Руставели
 
-
+; Выходы
+Angle 45
+PenColor FFD900
+BrushColor 615F56
+SpotRect 59, 278, 30, 30, ShowMessage Выход №1
+SpotRect 387, 168, 30, 30
+SpotRect 834, 613, 30, 30
+SpotRect 616, 835, 30, 30
+BrushColor -1
+TextOut Arial, 25, 67, 279, 1
+TextOut Arial, 25, 395, 169, 2
+TextOut Arial, 25, 842, 614, 3
+TextOut Arial, 25, 624, 836, 4

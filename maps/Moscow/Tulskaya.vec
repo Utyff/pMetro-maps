@@ -78,7 +78,7 @@ PenColor FF0000
 Stairs 542,543, 536,543, 542,569
 
 ; кассы
-PenColor 
+PenColor 000000
 BrushColor -1
 Line 481,451, 472,451, 472,479, 481,479
 AngleTextOut -90, Arial, 10, 484, 453, кассы
@@ -111,3 +111,13 @@ Polygon -95,478, -90,478, -90,476, -95,476
 PenColor 00AFAF
 BrushColor -1
 AngleTextOut 0, Arial, 15, 145, 242, Большая Тульская улица
+
+; Выходы
+Angle -85
+PenColor FFD900
+BrushColor 615F56
+SpotRect 106, 750, 30, 30, ShowMessage Выход №1
+SpotRect 165, 57, 30, 30
+BrushColor -1
+TextOut Arial, 25, 114, 751, 1
+TextOut Arial, 25, 173, 58, 2

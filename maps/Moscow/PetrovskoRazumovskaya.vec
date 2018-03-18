@@ -284,3 +284,19 @@ AngleTextOut -90, Arial, 15, 748, 197, улица Октябрьской Ж.-Д. Линии
 ;AngleTextOut 0, Arial, 15, 739, 629, Реконструкция
 ;Dashed 651,531, 651,590, 437,590, 437,653, 634,653, 634,735, 724,735, 724,704, 847,704, 847,531, 651,531
 ;BrushColor 000000
+
+; Выходы
+Angle -70
+PenColor FFD900
+BrushColor 615F56
+SpotRect 620, 215, 30, 30, ShowMessage Выход №1
+SpotRect 128, 1156, 30, 30
+SpotRect 128, 1059, 30, 30
+SpotRect 18, 1157, 30, 30
+SpotRect 18, 1063, 30, 30
+BrushColor -1
+TextOut Arial, 25, 628, 216, 1
+TextOut Arial, 25, 136, 1157, 2
+TextOut Arial, 25, 136, 1060, 3
+TextOut Arial, 25, 26, 1158, 4
+TextOut Arial, 25, 26, 1064, 5

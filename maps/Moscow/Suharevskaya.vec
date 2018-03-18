@@ -82,3 +82,17 @@ AngleTextOut 160, Arial, 15, 741, 601, улица Сретенка
 AngleTextOut 160, Arial, 15, 313, 445, проспект Мира
 AngleTextOut 70, Arial, 15, 346, 646, Садовое кольцо
 AngleTextOut 70, Arial, 15, 432, 413, Садовое кольцо
+
+; Выходы
+Angle 70
+PenColor FFD900
+BrushColor 615F56
+SpotRect 226, 709, 30, 30, ShowMessage Выход №1
+SpotRect 492, 680, 30, 30
+SpotRect 214, 533, 30, 30
+SpotRect 412, 460, 30, 30
+BrushColor -1
+TextOut Arial, 25, 234, 710, 1
+TextOut Arial, 25, 500, 681, 2
+TextOut Arial, 25, 222, 534, 3
+TextOut Arial, 25, 420, 461, 4

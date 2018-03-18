@@ -84,7 +84,7 @@ PenColor FF0000
 Stairs 280,320, 275,320, 280,362
 
 ;кассы
-PenColor 
+PenColor 000000
 BrushColor -1
 AngleTextOut 90, Arial, 14, 385, 285, Кассы
 Line 386,289, 400,289, 400,243, 386,243
@@ -100,3 +100,9 @@ PenColor 00AFAF
 AngleTextOut 0, Arial, 15, 21, 462, Улица Академика Королёва
 AngleTextOut 0, Arial, 15, 6, 133, трамвайные пути
 
+; Выходы
+PenColor FFD900
+BrushColor 615F56
+SpotRect 16, 346, 30, 30, ShowMessage Выход №1
+BrushColor -1
+TextOut Arial, 25, 24, 347, 1

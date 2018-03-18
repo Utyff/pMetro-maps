@@ -137,3 +137,17 @@ Arrow 1189,359, 1178,338
 Arrow 1025,416, 1034,435
 PenColor 707070
 AngleTextOut -73, Arial, 15, 909, 551, Окружная ж.д.
+
+; Выходы
+Angle -68.5
+PenColor FFD900
+BrushColor 615F56
+SpotRect 965, 351, 30, 30, ShowMessage Выход №1
+SpotRect 1038, 10, 30, 30
+SpotRect 1187, 11, 30, 30
+SpotRect 727, 1242, 30, 30
+BrushColor -1
+TextOut Arial, 25, 973, 352, 1
+TextOut Arial, 25, 1046, 11, 2
+TextOut Arial, 25, 1195, 12, 3
+TextOut Arial, 25, 735, 1243, 4

@@ -127,6 +127,7 @@ BrushColor -1
 AngleTextOut -60, Arial, 15, 676, 70, Сигнальный проезд
 AngleTextOut -77, Arial, 15, 201, 159, Станционная улица
 AngleTextOut -40, Arial, 15, -78, 587, Сусоколовское шоссе
+AngleTextOut 190, Arial, 15, 637, 537, к МЦК -->
 
 Opaque 20
 PenColor FFFFFF
@@ -139,3 +140,13 @@ PenColor D0D0D0
 Railway 10, 14, 4, 438,750, 273,134
 PenColor 808080
 AngleTextOut -75, Arial, 15, 341, 181, Окружная ж. д.
+
+; Выходы
+Angle -75
+PenColor FFD900
+BrushColor 615F56
+SpotRect 454, 80, 30, 30, ShowMessage Выход №1
+SpotRect 252, 850, 30, 30
+BrushColor -1
+TextOut Arial, 25, 462, 81, 1
+TextOut Arial, 25, 260, 851, 2

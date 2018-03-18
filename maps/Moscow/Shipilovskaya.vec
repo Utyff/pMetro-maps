@@ -154,3 +154,19 @@ BrushColor -1
 AngleTextOut 0, Arial, 15, 206, 336, улица Мусы Джалиля
 AngleTextOut -90, Arial, 15, 600, 186, Шипиловская улица
 AngleTextOut -90, Arial, 15, 600, 573, Шипиловская улица
+
+; Выходы
+Angle -90
+PenColor FFD900
+BrushColor 615F56
+SpotRect 393, 672, 30, 30, ShowMessage Выход №1
+SpotRect 393, 745, 30, 30
+SpotRect 54, 665, 30, 30
+SpotRect 71, 52, 30, 30
+SpotRect 394, 20, 30, 30
+BrushColor -1
+TextOut Arial, 25, 401, 673, 1
+TextOut Arial, 25, 401, 746, 2
+TextOut Arial, 25, 62, 666, 3
+TextOut Arial, 25, 79, 53, 4
+TextOut Arial, 25, 402, 21, 5

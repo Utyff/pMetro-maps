@@ -139,3 +139,25 @@ AngleTextOut 125, Arial, 15, 503, 716, трамвайные пути
 AngleTextOut 35, Arial, 15, 483, 183, Балаклавский проспект
 AngleTextOut 35, Arial, 15, -2, 523, Балаклавский проспект
 AngleTextOut 125, Arial, 15, 226, 287, Симферопольский бульвар
+
+; Выходы
+Angle 35
+PenColor FFD900
+BrushColor 615F56
+SpotRect 674, 727, 30, 30, ShowMessage Выход №1
+SpotRect 177, 51, 30, 30
+SpotRect 134, 118, 30, 30
+SpotRect 97, 409, 30, 30
+SpotRect 198, 525, 30, 30
+SpotRect 283, 568, 30, 30
+SpotRect 341, 610, 30, 30
+SpotRect 420, 649, 30, 30
+BrushColor -1
+TextOut Arial, 25, 682, 728, 1
+TextOut Arial, 25, 185, 52, 2
+TextOut Arial, 25, 142, 119, 3
+TextOut Arial, 25, 105, 410, 4
+TextOut Arial, 25, 206, 526, 5
+TextOut Arial, 25, 291, 569, 6
+TextOut Arial, 25, 349, 611, 7
+TextOut Arial, 25, 428, 650, 8

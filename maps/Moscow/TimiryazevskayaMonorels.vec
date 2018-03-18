@@ -53,7 +53,7 @@ PenColor FF0000
 Stairs 182,205, 187,205, 182,180
 
 ; кассы
-PenColor 
+PenColor 000000
 Line 129,246, 129,255, 159,255, 159,246
 AngleTextOut 0, Arial, 10, 131, 244, Кассы
 
@@ -76,4 +76,10 @@ Angle -19
 PenColor 040464
 SpotRect 106, 19, 180, 15, LoadVec Timiryazevskaya.vec
 TextOut Arial, 10, 106, 19, 'Схема станции метро "Тимирязеская"', 5
-PenColor 000000
+
+; Выходы
+PenColor FFD900
+BrushColor 615F56
+SpotRect 85, 294, 30, 30, ShowMessage Выход №1
+BrushColor -1
+TextOut Arial, 25, 93, 295, 1

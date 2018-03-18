@@ -106,3 +106,16 @@ AngleTextOut 0, Arial, 12, 10, 131, 'Схема перехода к пл."Дмитровская"', 5
 PenColor 000000
 
 
+; Выходы
+Angle 0
+PenColor FFD900
+BrushColor 615F56
+SpotRect 179, 268, 30, 30, ShowMessage Выход №1
+SpotRect 150, 186, 30, 30
+SpotRect 419, 60, 30, 30
+SpotRect 489, 34, 30, 30
+BrushColor -1
+TextOut Arial, 25, 187, 269, 1
+TextOut Arial, 25, 158, 187, 2
+TextOut Arial, 25, 427, 61, 3
+TextOut Arial, 25, 497, 35, 4

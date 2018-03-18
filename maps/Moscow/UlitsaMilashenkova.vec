@@ -96,4 +96,10 @@ AngleTextOut -100, Arial, 15, 43, 130, Улица Милашенкова
 AngleTextOut -90, Arial, 15, 387, 353, 'к станции метро "Фонвизинская"'
 Arrow 389,556, 389,497
 
-PenColor 000000
+; Выходы
+Angle -35
+PenColor FFD900
+BrushColor 615F56
+SpotRect 726, 440, 30, 30, ShowMessage Выход №1
+BrushColor -1
+TextOut Arial, 25, 734, 441, 1

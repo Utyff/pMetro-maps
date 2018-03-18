@@ -109,3 +109,13 @@ PenColor 000000
 Polygon 501,297, 479,297, 479,318, 501,318
 BrushColor -1
 AngleTextOut 0, Arial, 9, 480, 302, лифт
+
+; Выходы
+Angle -30
+PenColor FFD900
+BrushColor 615F56
+SpotRect 835, 35, 30, 30, ShowMessage Выход №1
+SpotRect 6, 520, 30, 30
+BrushColor -1
+TextOut Arial, 25, 843, 36, 1
+TextOut Arial, 25, 14, 521, 2

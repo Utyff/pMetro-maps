@@ -95,3 +95,13 @@ PenColor 00AFAF
 BrushColor -1
 AngleTextOut 0, Arial, 15, 67, 521, улица Грекова
 AngleTextOut -90, Arial, 15, 294, 496, Широкая улица
+
+; Выходы
+Angle -90
+PenColor FFD900
+BrushColor 615F56
+SpotRect 121, 37, 30, 30, ShowMessage Выход №1
+SpotRect 94, 757, 30, 30
+BrushColor -1
+TextOut Arial, 25, 129, 38, 1
+TextOut Arial, 25, 102, 758, 2

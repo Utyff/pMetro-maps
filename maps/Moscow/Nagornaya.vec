@@ -20,7 +20,7 @@ Line 659,381, 668,356, 698,367, 698,446, 599,446, 599,478, 529,478, 529,468
 Line 640,374, 657,326, 728,352, 728,643, 759,661
 Line 667,608, 698,626, 698,569, 599,569, 599,538, 529,538, 529,548
 Line 655,627, 747,680
-BrushColor d0d0d0
+BrushColor D0D0D0
 Polygon 698,479, 690,479, 690,536, 698,536
 Stairs 719,663, 730,644, 747,680
 Stairs 668,609, 657,628, 697,626
@@ -38,7 +38,7 @@ PenColor FF0000
 Stairs 660,450, 655,450, 660,477
 
 ; кассы
-PenColor 
+PenColor 000000
 BrushColor -1
 Line 599,540, 590,540, 590,567, 599,567
 AngleTextOut -90, Arial, 10, 602, 541, кассы
@@ -66,3 +66,15 @@ AngleTextOut -30, Arial, 20, 754, 535, Электролитный проезд
 AngleTextOut -30, Arial, 20, 248, 242, Электролитный проезд
 AngleTextOut -120, Arial, 20, 270, 66, улица Ремизова
 AngleTextOut -150, Arial, 20, 106, 282, Криворожская улица
+
+; Выходы
+Angle -70
+PenColor FFD900
+BrushColor 615F56
+SpotRect 400, 188, 30, 30, ShowMessage Выход №1
+SpotRect 710, 142, 30, 30
+SpotRect 695, 256, 30, 30
+BrushColor -1
+TextOut Arial, 25, 408, 189, 1
+TextOut Arial, 25, 718, 143, 2
+TextOut Arial, 25, 703, 257, 3

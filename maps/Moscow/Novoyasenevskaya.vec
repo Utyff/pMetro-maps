@@ -180,3 +180,15 @@ AngleTextOut -20, Arial, 20, 909, 378, Новоясеневский проспект
 AngleTextOut 15, Arial, 20, 130, 629, Ясеневское кладбище
 AngleTextOut 0, Arial, 20, 820, 0, Битцевский лесопарк
 BrushColor FFFFFF
+
+; Выходы
+Angle 30
+PenColor FFD900
+BrushColor 615F56
+SpotRect 969, 374, 30, 30, ShowMessage Выход №1
+SpotRect 93, 264, 30, 30
+SpotRect 77, 5, 30, 30
+BrushColor -1
+TextOut Arial, 25, 977, 375, 1
+TextOut Arial, 25, 101, 265, 2
+TextOut Arial, 25, 85, 6, 3

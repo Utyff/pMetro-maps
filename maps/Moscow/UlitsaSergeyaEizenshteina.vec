@@ -50,7 +50,7 @@ PenColor FF0000
 Stairs 532,438, 528,434, 500,469
 
 ;кассы
-PenColor 0
+PenColor 000000
 BrushColor FFFFFF
 Polygon 426,325, 441,325, 441,369, 426,369
 BrushColor -1
@@ -66,19 +66,16 @@ Arrow 360,392, 339,392
 Arrow 437,307, 470,307
 
 
-
-
-
-
-
-;названия улиц голубым
+названия улиц голубым
 PenColor 00AFAF
 AngleTextOut -90, Arial, 15, 677, 314, улица Сергея Эйзенштейна
 AngleTextOut 0, Arial, 15, 37, 561, 1-ый Продольный проезд
 PenColor 000000
 
-
-
-
-
-
+; Выходы
+Angle -60
+PenColor FFD900
+BrushColor 615F56
+SpotRect 410, 110, 30, 30, ShowMessage Выход №1
+BrushColor -1
+TextOut Arial, 25, 418, 111, 1

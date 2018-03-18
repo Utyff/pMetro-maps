@@ -98,7 +98,7 @@ Stairs 790,646, 785,646, 790,673
 
 ; кассы
 BrushColor -1
-PenColor 
+PenColor 000000
 Line 729,736, 721,736, 721,763, 729,763
 AngleTextOut -90, Arial, 10, 732, 737, кассы
 
@@ -133,3 +133,33 @@ AngleTextOut 0, Arial, 15, 595, 558, Кировоградская улица
 AngleTextOut 0, Arial, 15, -260, 570, Кировоградская улица
 AngleTextOut -90, Arial, 15, -24, 352, улица Красного Маяка
 AngleTextOut -90, Arial, 15, -24, 824, улица Красного Маяка
+
+; Выходы
+Angle -80
+PenColor FFD900
+BrushColor 615F56
+SpotRect 514, 831, 30, 30, ShowMessage Выход №1
+SpotRect 535, 885, 30, 30
+SpotRect 481, 1069, 30, 30
+SpotRect 434, 1084, 30, 30
+SpotRect 144, 813, 30, 30
+SpotRect 242, 795, 30, 30
+SpotRect 142, 1053, 30, 30
+SpotRect 112, 1009, 30, 30
+SpotRect 379, 103, 30, 30
+SpotRect 457, 31, 30, 30
+SpotRect 300, 87, 30, 30
+SpotRect 315, 11, 30, 30
+BrushColor -1
+TextOut Arial, 25, 522, 832, 1
+TextOut Arial, 25, 543, 886, 2
+TextOut Arial, 25, 489, 1070, 3
+TextOut Arial, 25, 442, 1085, 4
+TextOut Arial, 25, 152, 814, 5
+TextOut Arial, 25, 250, 796, 6
+TextOut Arial, 25, 150, 1054, 7
+TextOut Arial, 25, 120, 1010, 8
+TextOut Arial, 25, 387, 104, 9
+TextOut Arial, 25, 459, 32, 10
+TextOut Arial, 25, 302, 88, 11
+TextOut Arial, 25, 317, 12, 12

@@ -89,6 +89,7 @@ Polygon 532,501, 528,501, 528,502, 532,502
 PenColor 00AFAF
 BrushColor -1
 PenColor 00AFAF
+AngleTextOut 0, Arial, 15, 497, 107, << МЦК
 AngleTextOut 0, Arial, 15, 657, 135, трамвайные пути
 AngleTextOut 0, Arial, 15, 596, 569, Кусковский сквер
 AngleTextOut 0, Arial, 15, 421, 223, Шоссе Энтузиастов
@@ -100,3 +101,16 @@ Arrow 579,482, 596,482
 PenColor 009900
 Arrow 559,388, 545,402
 
+; Выходы
+Angle -20
+PenColor FFD900
+BrushColor 615F56
+SpotRect 718, 410, 30, 30, ShowMessage Выход №1
+SpotRect 588, 106, 30, 30
+SpotRect 468, 15, 30, 30
+SpotRect 539, -7, 30, 30
+BrushColor -1
+TextOut Arial, 25, 726, 411, 1
+TextOut Arial, 25, 596, 107, 2
+TextOut Arial, 25, 476, 16, 3
+TextOut Arial, 25, 547, -6, 4

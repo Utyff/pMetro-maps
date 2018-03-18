@@ -77,5 +77,13 @@ Polygon 34,510, 34,505, 32,505, 32,510
 PenColor 00AFAF
 BrushColor -1
 AngleTextOut 0, Arial, 15, 544, 343, улица Большая Полянка
-AngleTextOut 90, Arial, 15, 707, 627, 2-й Полянский переулок
+AngleTextOut 90, Arial, 15, 718, 607, 2-й Полянский переулок
 AngleTextOut -25, Arial, 15, 503, 807, улица Малая Полянка
+
+; Выходы
+Angle 70
+PenColor FFD900
+BrushColor 615F56
+SpotRect 330, 883, 30, 30, ShowMessage Выход №1
+BrushColor -1
+TextOut Arial, 25, 338, 884, 1

@@ -124,3 +124,25 @@ AngleTextOut -90, Arial, 15, 603, 360, Сумская улица
 AngleTextOut 0, Arial, 15, 187, 428, Кировоградская улица
 AngleTextOut -90, Arial, 15, -61, 340, Днепропетровская
 AngleTextOut -90, Arial, 15, -73, 377, улица
+
+; Выходы
+Angle -80
+PenColor FFD900
+BrushColor 615F56
+SpotRect 373, 792, 30, 30, ShowMessage Выход №1
+SpotRect 344, 958, 30, 30
+SpotRect 38, 934, 30, 30
+SpotRect 2, 881, 30, 30
+SpotRect 139, 40, 30, 30
+SpotRect 192, 3, 30, 30
+SpotRect 495, 82, 30, 30
+SpotRect 466, 246, 30, 30
+BrushColor -1
+TextOut Arial, 25, 381, 793, 1
+TextOut Arial, 25, 352, 959, 2
+TextOut Arial, 25, 46, 935, 3
+TextOut Arial, 25, 10, 882, 4
+TextOut Arial, 25, 147, 41, 5
+TextOut Arial, 25, 200, 4, 6
+TextOut Arial, 25, 503, 83, 7
+TextOut Arial, 25, 474, 247, 8

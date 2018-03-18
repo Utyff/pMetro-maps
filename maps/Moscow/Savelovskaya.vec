@@ -296,3 +296,19 @@ AngleTextOut -90, Arial, 15, 17, 591, Бутырская улица
 AngleTextOut -30, Arial, 15, 1037, 583, ТК Савёловский
 AngleTextOut -10, Arial, 15, 841, 798, Сущёвский Вал
 AngleTextOut 60, Arial, 15, 830, 491, 'ТК "Динамо" >>'
+
+; Выходы
+Angle -10
+PenColor FFD900
+BrushColor 615F56
+SpotRect 26, 530, 30, 30, ShowMessage Выход №1
+SpotRect 573, 425, 30, 30
+SpotRect 744, 473, 30, 30
+SpotRect 953, 555, 30, 30
+SpotRect 892, 671, 30, 30
+BrushColor -1
+TextOut Arial, 25, 34, 531, 1
+TextOut Arial, 25, 581, 426, 2
+TextOut Arial, 25, 752, 474, 3
+TextOut Arial, 25, 961, 556, 4
+TextOut Arial, 25, 900, 672, 5

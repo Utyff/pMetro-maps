@@ -102,3 +102,27 @@ BrushColor -1
 AngleTextOut 30, Arial, 20, 816, 529, Новоясеневский проспект
 AngleTextOut 120, Arial, 20, 263, 721, Профсоюзная улица
 AngleTextOut 30, Arial, 20, 11, 787, улица Тёплый Стан
+
+; Выходы
+Angle 60
+PenColor FFD900
+BrushColor 615F56
+SpotRect 964, 807, 30, 30, ShowMessage Выход №1
+SpotRect 886, 766, 30, 30
+SpotRect 909, 897, 30, 30
+SpotRect 838, 854, 30, 30
+SpotRect 501, 199, 30, 30
+SpotRect 337, 165, 30, 30
+SpotRect 379, 98, 30, 30
+SpotRect 229, 100, 30, 30
+SpotRect 259, 44, 30, 30
+BrushColor -1
+TextOut Arial, 25, 972, 808, 1
+TextOut Arial, 25, 894, 767, 2
+TextOut Arial, 25, 917, 898, 3
+TextOut Arial, 25, 846, 855, 4
+TextOut Arial, 25, 509, 200, 5
+TextOut Arial, 25, 345, 166, 6
+TextOut Arial, 25, 387, 99, 7
+TextOut Arial, 25, 237, 101, 8
+TextOut Arial, 25, 267, 45, 9
