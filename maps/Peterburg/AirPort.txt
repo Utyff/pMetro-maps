@@ -1,7 +1,7 @@
 [Options]
 AddToInfo=1
 CityName=Санкт-Петербург
-MenuName=Разное\Проезд к аэропортам
+MenuName=Транспорт\Проезд к аэропортам
 MenuImage=Airplane_logo.vec
 Caption=Аэропорт
 StringToAdd='  '
