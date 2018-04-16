@@ -1,7 +1,7 @@
 [Options]
 AddToInfo=1
 CityName=Санкт-Петербург
-MenuName=Разное\Вокзалы
+MenuName=Транспорт\Вокзалы
 Caption=Вокзал
 StringToAdd='  Вокзал:'
 MenuImage=Vokzals_logo.bmp
