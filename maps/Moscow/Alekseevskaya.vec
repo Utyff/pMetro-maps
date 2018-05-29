@@ -109,3 +109,11 @@ Line 82,298, 111,298
 PenColor 00AFAF
 BrushColor -1
 AngleTextOut 0, Arial, 15, -19, 219, Проспект Мира
+
+; Выходы
+Angle -83
+PenColor FFD900
+BrushColor 615F56
+SpotRect 306, 677, 30, 30, ShowMessage Выход №1
+BrushColor -1
+TextOut Arial, 25, 314, 678, 1

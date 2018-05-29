@@ -140,3 +140,29 @@ AngleTextOut -90, Arial, 15, 336, 749, 'ТК "Калужский"'
 AngleTextOut -100, Arial, 15, 125, 770, улица Обручева
 AngleTextOut -80, Arial, 15, 96, 275, улица Обручева
 AngleTextOut -90, Arial, 15, 1082, 750, Хлебобулочный проезд
+
+; Выходы
+Angle -62
+PenColor FFD900
+BrushColor 615F56
+SpotRect 468, 783, 30, 30, ShowMessage Выход №1
+SpotRect 499, 889, 30, 30
+SpotRect 356, 1153, 30, 30
+SpotRect 87, 1016, 30, 30
+SpotRect 219, 760, 30, 30
+SpotRect 259, 697, 30, 30
+SpotRect 516, 203, 30, 30
+SpotRect 554, 138, 30, 30
+SpotRect 826, 273, 30, 30
+SpotRect 794, 335, 30, 30
+BrushColor -1
+TextOut Arial, 25, 476, 784, 1
+TextOut Arial, 25, 507, 890, 2
+TextOut Arial, 25, 364, 1154, 3
+TextOut Arial, 25, 95, 1017, 4
+TextOut Arial, 25, 227, 761, 5
+TextOut Arial, 25, 267, 698, 6
+TextOut Arial, 25, 524, 204, 7
+TextOut Arial, 25, 562, 139, 8
+TextOut Arial, 25, 834, 274, 9
+TextOut Arial, 25, 796, 336, 10

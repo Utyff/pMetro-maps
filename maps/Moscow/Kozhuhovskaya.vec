@@ -110,3 +110,12 @@ PenColor FF0000
 Line -198,426, -194,483
 Line -194,426, -198,483
 
+; Выходы
+Angle 70
+PenColor FFD900
+BrushColor 615F56
+SpotRect 287, 684, 30, 30, ShowMessage Выход №1
+SpotRect 184, 887, 30, 30
+BrushColor -1
+TextOut Arial, 25, 295, 685, 1
+TextOut Arial, 25, 192, 888, 2

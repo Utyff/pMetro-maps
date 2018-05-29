@@ -114,3 +114,9 @@ PenColor 040464
 SpotRect 407, -405, 180, 15, LoadVec VDNH-VystavochnyCentr.vec
 TextOut Arial, 10, 407, -405, 'Схема перехода к станции метро "ВДНХ"', 5
 
+; Выходы
+PenColor FFD900
+BrushColor 615F56
+SpotRect 162, 262, 30, 30, ShowMessage Выход №1
+BrushColor -1
+TextOut Arial, 25, 170, 263, 1

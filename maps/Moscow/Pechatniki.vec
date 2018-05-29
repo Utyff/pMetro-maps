@@ -43,7 +43,7 @@ Stairs 599,432, 599,456, 637,432
 Stairs 705,395, 705,416, 667,395
 Stairs 751,532, 751,556, 713,532
 
-BrushColor d0d0d0
+BrushColor D0D0D0
 Polygon 517,336, 526,336, 526,345, 517,345
 Polygon 564,336, 573,336, 573,345, 564,345
 
@@ -100,3 +100,20 @@ PenColor FF0000
 Line -48,246, -44,303
 Line -48,303, -44,246
 
+; Выходы
+Angle 30
+PenColor FFD900
+BrushColor 615F56
+SpotRect 434, 396, 30, 30, ShowMessage Выход №1
+SpotRect 588, 475, 30, 30
+SpotRect 597, 579, 30, 30
+SpotRect 591, 655, 30, 30
+SpotRect 352, 518, 30, 30
+SpotRect 332, 427, 30, 30
+BrushColor -1
+TextOut Arial, 25, 442, 397, 1
+TextOut Arial, 25, 596, 476, 1
+TextOut Arial, 25, 605, 580, 2
+TextOut Arial, 25, 599, 656, 3
+TextOut Arial, 25, 360, 519, 4
+TextOut Arial, 25, 340, 428, 5

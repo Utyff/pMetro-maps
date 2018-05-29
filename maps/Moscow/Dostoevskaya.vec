@@ -168,7 +168,7 @@ Stairs 853,676, 853,638, 899,676
 Stairs 1177,602, 1179,596, 1199,610
 Stairs 1152,681, 1158,677, 1145,670
 
-BrushColor d0d0d0
+BrushColor D0D0D0
 Polygon 964,638, 959,638, 959,614, 964,614
 Polygon 963,593, 969,576, 974,578, 968,595
 
@@ -212,3 +212,17 @@ Polygon 556,525, 721,525, 721,529, 556,529
 Polygon 556,534, 721,534, 721,538, 556,538
 Polygon 556,543, 721,543, 721,547, 556,547
 Polygon 556,552, 721,552, 721,555, 556,555
+
+Opaque 100
+
+; Выходы
+Angle 10
+PenColor FFD900
+BrushColor 615F56
+SpotRect 245, 252, 30, 30, ShowMessage Выход №1
+SpotRect 229, 374, 30, 30
+SpotRect 143, 490, 30, 30
+BrushColor -1
+TextOut Arial, 25, 253, 253, 1
+TextOut Arial, 25, 237, 375, 2
+TextOut Arial, 25, 151, 491, 3

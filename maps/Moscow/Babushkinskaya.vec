@@ -20,7 +20,7 @@ Line -179,426, -77,426
 Stairs -145,426, -145,447, -179,426
 Stairs -111,426, -111,447, -77,426
 
-BrushColor d0d0d0
+BrushColor D0D0D0
 Polygon -103,513, -113,513, -113,570, -103,570
 
 ;эскалаторы
@@ -55,7 +55,7 @@ Line 733,447, 697,447, 697,632, 733,632
 Line 627,426, 733,426
 Line 627,652, 733,652
 Line 627,632, 663,632, 663,603, 564,603, 564,572, 515,572, 515,582
-BrushColor d0d0d0
+BrushColor D0D0D0
 Polygon 663,513, 655,513, 655,570, 663,570
 Stairs 517,512, 517,572, 564,512
 Stairs 629,447, 629,426, 663,447
@@ -106,3 +106,21 @@ BrushColor -1
 AngleTextOut 0, Arial, 15, 717, 556, Енисейская улица
 AngleTextOut 0, Arial, 15, -276, 556, Енисейская улица
 AngleTextOut -90, Arial, 15, 362, 326, улица Менжинского
+
+; Выходы
+Angle -72
+PenColor FFD900
+BrushColor 615F56
+SpotRect 235, 137, 30, 30, ShowMessage Выход №1
+SpotRect 259, 55, 30, 30
+SpotRect 463, 123, 30, 30
+SpotRect 506, 215, 30, 30
+SpotRect 13, 828, 30, 30
+SpotRect 60, 927, 30, 30
+BrushColor -1
+TextOut Arial, 25, 243, 138, 1
+TextOut Arial, 25, 267, 56, 2
+TextOut Arial, 25, 471, 124, 3
+TextOut Arial, 25, 514, 216, 4
+TextOut Arial, 25, 21, 829, 5
+TextOut Arial, 25, 68, 928, 6

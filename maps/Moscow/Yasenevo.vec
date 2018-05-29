@@ -68,7 +68,7 @@ PenColor FF0000
 Stairs 977,283, 972,283, 977,320
 
 ; кассы
-PenColor 
+PenColor 000000
 BrushColor -1
 Line 914,373, 901,373, 901,400, 914,400
 AngleTextOut 90, Arial, 10, 901, 399, кассы
@@ -112,3 +112,25 @@ Line 325,521, 363,521, 369,546, 339,574
 PenColor D8D8D8
 Line 363,521, 436,521
 Line 369,546, 430,546
+
+; Выходы
+Angle 17
+PenColor FFD900
+BrushColor 615F56
+SpotRect 962, 249, 30, 30, ShowMessage Выход №1
+SpotRect 1097, 294, 30, 30
+SpotRect 983, 672, 30, 30
+SpotRect 849, 633, 30, 30
+SpotRect 152, 432, 30, 30
+SpotRect 217, 236, 30, 30
+SpotRect 259, 113, 30, 30
+SpotRect 519, 116, 30, 30
+BrushColor -1
+TextOut Arial, 25, 970, 250, 1
+TextOut Arial, 25, 1105, 295, 2
+TextOut Arial, 25, 991, 673, 3
+TextOut Arial, 25, 857, 634, 4
+TextOut Arial, 25, 160, 433, 5
+TextOut Arial, 25, 225, 237, 6
+TextOut Arial, 25, 267, 114, 7
+TextOut Arial, 25, 527, 117, 8

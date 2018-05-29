@@ -226,3 +226,21 @@ PenColor 00AFAF
 AngleTextOut 0, Arial, 15, 613, 583, Мичуринский проспект
 AngleTextOut 0, Arial, 15, 1073, 364, Мичуринский проспект
 AngleTextOut -84, Arial, 15, 258, 398, Ломоносовский проспект
+
+; Выходы
+Angle -35
+PenColor FFD900
+BrushColor 615F56
+SpotRect 531, 703, 30, 30, ShowMessage Выход №1
+SpotRect 266, 964, 30, 30
+SpotRect 59, 738, 30, 30
+SpotRect 379, 470, 30, 30
+SpotRect 1246, 271, 30, 30
+SpotRect 1095, 380, 30, 30
+BrushColor -1
+TextOut Arial, 25, 539, 704, 1
+TextOut Arial, 25, 274, 965, 2
+TextOut Arial, 25, 67, 739, 3
+TextOut Arial, 25, 387, 471, 4
+TextOut Arial, 25, 1254, 272, 5
+TextOut Arial, 25, 1103, 381, 6

@@ -93,3 +93,19 @@ AngleTextOut -110, Arial, 15, 1076, 439, улица Амундсена
 AngleTextOut 0, Arial, 15, 872, 344, Снежная улица
 AngleTextOut 0, Arial, 15, -87, 343, Снежная улица
 AngleTextOut -90, Arial, 15, 211, 76, проезд Русанова
+
+; Выходы
+Angle -42
+PenColor FFD900
+BrushColor 615F56
+SpotRect 583, 20, 30, 30, ShowMessage Выход №1
+SpotRect 796, 244, 30, 30
+SpotRect 119, 721, 30, 30
+SpotRect 37, 630, 30, 30
+SpotRect 87, 549, 30, 30
+BrushColor -1
+TextOut Arial, 25, 591, 21, 1
+TextOut Arial, 25, 804, 245, 2
+TextOut Arial, 25, 127, 722, 3
+TextOut Arial, 25, 45, 631, 4
+TextOut Arial, 25, 95, 550, 5

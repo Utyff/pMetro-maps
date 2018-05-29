@@ -1,8 +1,8 @@
 [Options]
 AddToInfo=0
-CityName=Самара
-MenuName=Разное\Проезд к аэропортам
+CityName=Г‘Г Г¬Г Г°Г 
+MenuName=Г’Г°Г Г­Г±ГЇГ®Г°ГІ\ГЏГ°Г®ГҐГ§Г¤ ГЄ Г ГЅГ°Г®ГЇГ®Г°ГІГ Г¬
 MenuImage=Airplane_logo.vec
 
 [1]
-Кировская
+ГЉГЁГ°Г®ГўГ±ГЄГ Гї

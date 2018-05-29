@@ -71,3 +71,11 @@ Line 4,290, 4,302
 Polygon -11,233, 4,233, 4,290, -11,290
 BrushColor -1
 AngleTextOut -90, Arial, 15, 7, 241, лифты
+
+; Выходы
+Angle -30
+PenColor FFD900
+BrushColor 615F56
+SpotRect 640, 62, 30, 30, ShowMessage Выход №1
+BrushColor -1
+TextOut Arial, 25, 648, 63, 1

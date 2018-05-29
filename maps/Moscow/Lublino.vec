@@ -9,7 +9,7 @@ Polygon 686,340, 686,310, 236,310, 236,340
 BrushColor -1
 PenColor 5C9F2E
 AngleTextOut 0, Arial, 25, 404, 375, Люблино, 1
-AngleTextOut 0, Arial, 20, 236, 287, << Братиславская
+AngleTextOut 0, Arial, 20, 236, 285, << Братиславская
 AngleTextOut 0, Arial, 20, 580, 450, Волжская >>
 
 ;инфосос
@@ -147,3 +147,20 @@ AngleTextOut -70, Arial, 20, 806, 580, A, 1
 AngleTextOut -70, Arial, 20, 1014, 475, A, 1
 AngleTextOut -70, Arial, 20, 954, 280, A, 1
 
+; Выходы
+Angle -70
+PenColor FFD900
+BrushColor 615F56
+SpotRect 65, 1008, 30, 30, ShowMessage Выход №1
+SpotRect 271, 240, 30, 30
+SpotRect 317, 102, 30, 30
+SpotRect 352, 18, 30, 30
+SpotRect 591, 109, 30, 30
+SpotRect 644, 213, 30, 30
+BrushColor -1
+TextOut Arial, 25, 73, 1009, 1
+TextOut Arial, 25, 279, 241, 2
+TextOut Arial, 25, 325, 103, 3
+TextOut Arial, 25, 360, 19, 4
+TextOut Arial, 25, 599, 110, 5
+TextOut Arial, 25, 652, 214, 6

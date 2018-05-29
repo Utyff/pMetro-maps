@@ -103,3 +103,29 @@ BrushColor -1
 AngleTextOut 0, Arial, 20, 474, 644, Профсоюзная улица
 AngleTextOut 0, Arial, 20, -58, 644, Профсоюзная улица
 AngleTextOut -90, Arial, 20, 749, 170, улица Островитянова
+
+; Выходы
+Angle -68
+PenColor FFD900
+BrushColor 615F56
+SpotRect 380, 952, 30, 30, ShowMessage Выход №1
+SpotRect 357, 1015, 30, 30
+SpotRect 52, 912, 30, 30
+SpotRect 10, 816, 30, 30
+SpotRect 267, 186, 30, 30
+SpotRect 256, 151, 30, 30
+SpotRect 324, 52, 30, 30
+SpotRect 390, 79, 30, 30
+SpotRect 532, 263, 30, 30
+SpotRect 637, 307, 30, 30
+BrushColor -1
+TextOut Arial, 25, 388, 953, 1
+TextOut Arial, 25, 365, 1016, 2
+TextOut Arial, 25, 60, 913, 3
+TextOut Arial, 25, 18, 817, 4
+TextOut Arial, 25, 275, 187, 5
+TextOut Arial, 25, 264, 152, 6
+TextOut Arial, 25, 332, 53, 7
+TextOut Arial, 25, 398, 80, 8
+TextOut Arial, 25, 540, 264, 9
+TextOut Arial, 25, 639, 308, 10

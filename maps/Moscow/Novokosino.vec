@@ -162,3 +162,19 @@ AngleTextOut 0, Arial, 15, 850, 248, Носовихинское шоссе
 AngleTextOut 0, Arial, 15, 870, 636, Суздальская улица
 AngleTextOut -90, Arial, 15, 618, 25, Южная улица
 PenColor 000000
+
+; Выходы
+Angle -18
+PenColor FFD900
+BrushColor 615F56
+SpotRect 1014, 9, 30, 30, ShowMessage Выход №1
+SpotRect 1010, 598, 30, 30
+SpotRect 188, 649, 30, 30
+SpotRect 263, 837, 30, 30
+SpotRect 69, 272, 30, 30
+BrushColor -1
+TextOut Arial, 25, 1022, 10, 1
+TextOut Arial, 25, 1018, 599, 2
+TextOut Arial, 25, 196, 650, 3
+TextOut Arial, 25, 271, 838, 4
+TextOut Arial, 25, 77, 273, 5

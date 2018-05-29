@@ -97,3 +97,26 @@ AngleTextOut 0, Arial, 15, 723, 471, Профсоюзная улица
 AngleTextOut 0, Arial, 15, -214, 471, Профсоюзная улица
 AngleTextOut -90, Arial, 15, 447, 148, улица Гарибальди
 AngleTextOut -90, Arial, 15, 447, 629, улица Гарибальди
+
+
+; Выходы
+Angle -62
+PenColor FFD900
+BrushColor 615F56
+SpotRect 276, 821, 30, 30, ShowMessage Выход №1
+SpotRect 244, 879, 30, 30
+SpotRect 4, 757, 30, 30
+SpotRect 33, 698, 30, 30
+SpotRect 347, 115, 30, 30
+SpotRect 378, 57, 30, 30
+SpotRect 556, 143, 30, 30
+SpotRect 586, 235, 30, 30
+BrushColor -1
+TextOut Arial, 25, 284, 822, 1
+TextOut Arial, 25, 252, 880, 2
+TextOut Arial, 25, 12, 758, 3
+TextOut Arial, 25, 41, 699, 4
+TextOut Arial, 25, 355, 116, 5
+TextOut Arial, 25, 386, 58, 6
+TextOut Arial, 25, 564, 144, 7
+TextOut Arial, 25, 594, 236, 8

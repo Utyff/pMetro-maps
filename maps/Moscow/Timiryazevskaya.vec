@@ -110,5 +110,22 @@ SpotRect 528, 219, 210, 15, LoadVec TimiryazevskayaMonorels.vec
 AngleTextOut 0, Arial, 10, 530, 222, 'Схема станции монорельса "Тимирязеская"', 5
 PenColor 000000
 
-
-
+; Выходы
+Angle 20
+PenColor FFD900
+BrushColor 615F56
+SpotRect 135, 316, 30, 30, ShowMessage Выход №1
+SpotRect 103, 238, 30, 30
+SpotRect 69, 335, 30, 30
+SpotRect 39, 259, 30, 30
+SpotRect 483, 225, 30, 30
+SpotRect 604, 147, 30, 30
+SpotRect 575, 74, 30, 30
+BrushColor -1
+TextOut Arial, 25, 143, 317, 1
+TextOut Arial, 25, 111, 239, 2
+TextOut Arial, 25, 77, 336, 3
+TextOut Arial, 25, 47, 260, 4
+TextOut Arial, 25, 491, 226, 5
+TextOut Arial, 25, 612, 148, 6
+TextOut Arial, 25, 583, 75, 7

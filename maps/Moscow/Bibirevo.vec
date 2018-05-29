@@ -112,3 +112,21 @@ AngleTextOut 0, Arial, 15, 330, 13, улица Пришвина
 AngleTextOut 0, Arial, 15, 330, 542, Костромская улица
 AngleTextOut 90, Arial, 15, 670, 98, улица Плещеева
 AngleTextOut 90, Arial, 15, 670, 592, Бибиревская улица
+
+; Выходы
+Angle 45
+PenColor FFD900
+BrushColor 615F56
+SpotRect 38, 180, 30, 30, ShowMessage Выход №1
+SpotRect -6, 131, 30, 30
+SpotRect 699, 428, 30, 30
+SpotRect 754, 373, 30, 30
+SpotRect 609, 339, 30, 30
+SpotRect 658, 290, 30, 30
+BrushColor -1
+TextOut Arial, 25, 46, 181, 1
+TextOut Arial, 25, 2, 132, 2
+TextOut Arial, 25, 707, 429, 3
+TextOut Arial, 25, 762, 374, 4
+TextOut Arial, 25, 617, 340, 5
+TextOut Arial, 25, 666, 291, 6

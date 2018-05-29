@@ -108,24 +108,25 @@ PenColor 00AFAF
 BrushColor -1
 AngleTextOut -90, Arial, 15, 392, 128, площадь Гагарина
 AngleTextOut 0, Arial, 15, 327, 35, Ленинский проспект
-AngleTextOut 0, Arial, 15, 335, 499, улица Вавилова
+AngleTextOut 0, Arial, 15, 303, 728, улица Вавилова
+
+PenColor 000000
+AngleTextOut -90, Arial, 15, 454, 368, 'К станции "Площадь Гагарина" ->'
 
 ;переход
 PenColor 000000
 Line 495,334, 394,334
-Line 495,368, 459,368, 459,421, 426,421, 426,368, 394,368
+Line 495,368, 459,368, 459,481, 426,481, 426,368, 394,368
 Stairs 463,368, 463,334, 495,368
 Stairs 422,368, 422,334, 394,368
 
-Opaque 85
-; "закрыто"
-PenColor FFD0D0
-BrushColor FFD0D0
-Polygon 426,368, 394,368, 394,334, 495,334, 495,368, 459,368, 459,421, 426,421
 
-Opaque 100
-PenColor FF4040
+; Выходы
+Angle -45
+PenColor FFD900
+BrushColor 615F56
+SpotRect 12, 676, 30, 30, ShowMessage Выход №1
+SpotRect 663, 100, 30, 30
 BrushColor -1
-AngleTextOut 0, Arial, 15, 416, 342, Закрыто
-Dashed 426,368, 394,368, 394,334, 495,334, 495,368, 459,368, 459,421, 426,421, 426,368
-BrushColor 000000
+TextOut Arial, 25, 20, 677, 1
+TextOut Arial, 25, 671, 101, 2

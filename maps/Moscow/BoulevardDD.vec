@@ -237,3 +237,28 @@ Line 635,700, 608,700
 Spline 608,700, 601,704, 601,713, 608,717
 Arrow 608,717, 635,717
 
+; Выходы
+Angle -60
+PenColor FFD900
+BrushColor 615F56
+SpotRect 603, 995, 30, 30, ShowMessage Выход №1
+SpotRect 559, 1068, 30, 30
+SpotRect 173, 726, 30, 30
+SpotRect 37, 655, 30, 30
+SpotRect 50, 776, 30, 30
+SpotRect 535, 240, 30, 30
+SpotRect 329, 146, 30, 30
+SpotRect 384, 56, 30, 30
+SpotRect 901, 353, 30, 30
+SpotRect 861, 430, 30, 30
+BrushColor -1
+TextOut Arial, 25, 611, 996, 1
+TextOut Arial, 25, 567, 1069, 2
+TextOut Arial, 25, 181, 727, 3
+TextOut Arial, 25, 45, 656, 4
+TextOut Arial, 25, 58, 777, 5
+TextOut Arial, 25, 543, 241, 6
+TextOut Arial, 25, 337, 147, 7
+TextOut Arial, 25, 392, 57, 8
+TextOut Arial, 25, 909, 354, 9
+TextOut Arial, 25, 863, 431, 10

@@ -112,3 +112,25 @@ AngleTextOut 0, Arial, 15, -180, 473, улица Хачатуряна
 AngleTextOut -90, Arial, 15, 648, 218, улица Декабристов
 AngleTextOut -90, Arial, 15, 648, 658, улица Декабристов
 AngleTextOut 0, Arial, 15, 428, 65, улица Санникова
+
+; Выходы
+Angle -63
+PenColor FFD900
+BrushColor 615F56
+SpotRect 274, 99, 30, 30, ShowMessage Выход №1
+SpotRect 409, 3, 30, 30
+SpotRect 678, 128, 30, 30
+SpotRect 686, 175, 30, 30
+SpotRect 360, 752, 30, 30
+SpotRect 331, 815, 30, 30
+SpotRect 64, 687, 30, 30
+SpotRect 95, 630, 30, 30
+BrushColor -1
+TextOut Arial, 25, 282, 100, 1
+TextOut Arial, 25, 417, 4, 2
+TextOut Arial, 25, 686, 129, 3
+TextOut Arial, 25, 694, 176, 4
+TextOut Arial, 25, 368, 753, 5
+TextOut Arial, 25, 339, 816, 6
+TextOut Arial, 25, 72, 688, 7
+TextOut Arial, 25, 103, 631, 8

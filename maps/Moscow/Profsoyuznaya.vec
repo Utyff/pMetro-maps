@@ -102,3 +102,25 @@ AngleTextOut 0, Arial, 15, 704, 463, Профсоюзная улица
 AngleTextOut 0, Arial, 15, -216, 459, Профсоюзная улица
 AngleTextOut -105, Arial, 15, 416, 133, Нахимовский проспект
 AngleTextOut -90, Arial, 15, 355, 614, Нахимовский проспект
+
+; Выходы
+Angle -62
+PenColor FFD900
+BrushColor 615F56
+SpotRect 566, 230, 30, 30, ShowMessage Выход №1
+SpotRect 600, 163, 30, 30
+SpotRect 324, 104, 30, 30
+SpotRect 358, 44, 30, 30
+SpotRect 15, 688, 30, 30
+SpotRect 45, 783, 30, 30
+SpotRect 258, 814, 30, 30
+SpotRect 226, 870, 30, 30
+BrushColor -1
+TextOut Arial, 25, 574, 231, 1
+TextOut Arial, 25, 608, 164, 2
+TextOut Arial, 25, 332, 105, 3
+TextOut Arial, 25, 366, 45, 4
+TextOut Arial, 25, 23, 689, 5
+TextOut Arial, 25, 53, 784, 6
+TextOut Arial, 25, 266, 815, 7
+TextOut Arial, 25, 234, 871, 8

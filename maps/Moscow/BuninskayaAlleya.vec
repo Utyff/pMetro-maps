@@ -79,3 +79,11 @@ BrushColor -1
 AngleTextOut 0, Arial, 15, 2, 129, улица Кадырова
 AngleTextOut 0, Arial, 15, 385, 474, Черневская улица
 AngleTextOut -90, Arial, 15, 181, 251, Бунинская аллея
+
+; Выходы
+Angle -30
+PenColor FFD900
+BrushColor 615F56
+SpotRect 287, 394, 30, 30, ShowMessage Выход №1
+BrushColor -1
+TextOut Arial, 25, 295, 395, 1

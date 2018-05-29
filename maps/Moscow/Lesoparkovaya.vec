@@ -105,6 +105,14 @@ PenColor FF4040
 Opaque 100
 PenColor FF4040
 BrushColor -1
-AngleTextOut 0, Arial, 15, 137, 272, Строится
+AngleTextOut 0, Arial, 15, 137, 272, Недостроено
 Dashed 28,156, 28,409, 304,409, 304,156, 28,156
 BrushColor 000000
+
+; Выходы
+Angle 22
+PenColor FFD900
+BrushColor 615F56
+SpotRect 846, 480, 30, 30, ShowMessage Выход №1
+BrushColor -1
+TextOut Arial, 25, 854, 481, 1

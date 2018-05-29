@@ -260,9 +260,22 @@ AngleTextOut 45, Arial, 15, 291, 597, улица Золоторожский Вал
 AngleTextOut 45, Arial, 15, -104, 992, улица Рогожский Вал
 AngleTextOut -70, Arial, 15, 297, 1036, Рабочая улица
 AngleTextOut -40, Arial, 15, 422, 972, Международная улица
-AngleTextOut -40, Arial, 15, 779, 1281, 'к ж/д станции "Москва-товарная"'
+AngleTextOut -40, Arial, 15, 716, 1268, 'к ж/д станции "Москва-товарная"'
 AngleTextOut -40, Arial, 15, 378, -68, 'платформа "Серп и Молот"'
 AngleTextOut -15, Arial, 15, 146, 781, площадь Рогожская Застава
 Arrow 421,528, 684,266, 829,411
-Arrow 788,1283, 925,1398
+Arrow 725,1270, 868,1390
 
+; Выходы
+Angle -15
+PenColor FFD900
+BrushColor 615F56
+SpotRect 406, 593, 30, 30, ShowMessage Выход №1
+SpotRect 528, 972, 30, 30
+SpotRect 14, 919, 30, 30
+SpotRect 108, 800, 30, 30
+BrushColor -1
+TextOut Arial, 25, 414, 594, 1
+TextOut Arial, 25, 536, 973, 2
+TextOut Arial, 25, 22, 920, 3
+TextOut Arial, 25, 116, 801, 4
